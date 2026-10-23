@@ -1,0 +1,1201 @@
+﻿id_registro,obra,cidade,data,equipe,trabalhadores,servico,condicao_climatica,horas_trabalhadas,quantidade_planejada,quantidade_executada,custo_unitario,custo_realizado,dias_atraso,horas_retrabalho,indice_qualidade,ano,mes,mes_ano
+1,Condomínio Vila Verde,Vitória,2025-05-23,Equipe B,10,Instalações Hidráulicas,Chuva,83.5,50.7,53.8,145,8751.49,4,0.7,100.0,2025,5,2025-05
+2,Residencial Vitória Park,Vitória,2025-01-31,Equipe D,8,Acabamento,Normal,69.4,34.8,50.5,110,5349.06,0,2.3,88.8,2025,1,2025-01
+3,Residencial Parque Azul,Linhares,2026-03-06,Equipe A,8,Acabamento,Normal,51.9,34.2,31.1,110,3507.0,0,0.3,100.0,2026,3,2026-03
+4,Edifício Atlântico,Serra,2025-12-15,Equipe B,11,Fundação,Normal,86.4,96.2,77.3,320,23658.73,2,0.0,100.0,2025,12,2025-12
+5,Residencial Parque Azul,Serra,2025-04-10,Equipe A,9,Estrutura,Normal,67.8,75.8,66.4,410,31258.11,1,0.0,100.0,2025,4,2025-04
+6,Edifício Horizonte,Linhares,2025-05-08,Equipe A,9,Instalações Hidráulicas,Chuva intensa,63.5,54.0,32.3,145,4185.86,9,1.9,91.3,2025,5,2025-05
+7,Residencial Monte Belo,Vitória,2025-07-16,Equipe C,7,Cobertura,Normal,55.2,54.9,41.4,210,8193.33,0,2.3,93.3,2025,7,2025-07
+8,Residencial Jardim das Acácias,Colatina,2025-08-27,Equipe C,6,Instalações Elétricas,Chuva,35.7,58.2,35.1,155,5145.88,6,2.2,94.8,2025,8,2025-08
+9,Residencial Monte Belo,Serra,2026-01-15,Equipe C,7,Pavimentação,Normal,50.1,56.7,60.3,130,8450.78,0,0.8,95.2,2026,1,2026-01
+10,Condomínio Morada do Sol,Colatina,2025-09-08,Equipe E,6,Estrutura,Normal,39.6,91.7,72.9,410,29716.82,5,1.4,94.2,2025,9,2025-09
+11,Residencial Monte Belo,Serra,2025-02-27,Equipe B,10,Cobertura,Normal,82.5,74.1,52.4,210,12381.39,0,2.0,93.8,2025,2,2025-02
+12,Residencial Jardim das Acácias,Serra,2025-08-05,Equipe C,6,Pintura,Chuva,45.9,42.7,36.1,85,3014.57,6,3.8,86.8,2025,8,2025-08
+13,Edifício Atlântico,Colatina,2026-02-10,Equipe B,11,Revestimento,Chuva,82.3,43.7,54.8,120,6748.95,3,2.6,91.9,2026,2,2026-02
+14,Condomínio Alameda,Vila Velha,2025-09-27,Equipe B,10,Instalações Hidráulicas,Chuva,86.8,45.4,49.9,145,7008.53,0,1.4,96.0,2025,9,2025-09
+15,Residencial Monte Belo,Linhares,2025-05-22,Equipe C,7,Pintura,Normal,56.0,40.2,41.1,85,3375.94,0,1.0,96.5,2025,5,2025-05
+16,Condomínio Vila Verde,Vitória,2026-03-09,Equipe B,10,Estrutura,Normal,82.8,107.2,80.3,410,33601.35,1,0.0,99.9,2026,3,2026-03
+17,Residencial Monte Belo,Cariacica,2025-01-12,Equipe D,9,Acabamento,Normal,72.4,54.8,42.9,110,4832.84,1,0.6,100.0,2025,1,2025-01
+18,Condomínio Vila Verde,Colatina,2025-04-25,Equipe C,7,Cobertura,Normal,61.3,66.3,49.8,210,11631.63,0,1.7,98.9,2025,4,2025-04
+19,Edifício Costa Norte,Cariacica,2026-06-04,Equipe C,7,Fundação,Chuva,49.1,85.3,84.3,320,25889.46,0,1.1,94.4,2026,6,2026-06
+20,Condomínio Morada do Sol,Colatina,2025-06-06,Equipe E,6,Cobertura,Normal,51.3,48.4,64.7,210,12735.64,1,2.0,91.1,2025,6,2025-06
+21,Edifício Costa Norte,Linhares,2026-05-16,Equipe A,8,Cobertura,Normal,65.6,71.6,42.2,210,8992.9,2,1.9,91.4,2026,5,2026-05
+22,Edifício Horizonte,Serra,2025-03-22,Equipe A,8,Instalações Elétricas,Normal,54.8,60.2,43.9,155,6940.86,3,0.2,99.8,2025,3,2025-03
+23,Condomínio Alameda,Vitória,2026-05-02,Equipe B,10,Cobertura,Chuva intensa,82.1,50.5,64.1,210,13971.26,4,1.8,89.3,2026,5,2026-05
+24,Edifício Costa Norte,Serra,2025-08-05,Equipe E,7,Cobertura,Chuva,61.5,70.1,50.5,210,11422.33,6,2.0,97.4,2025,8,2025-08
+25,Residencial Parque Azul,Colatina,2026-03-25,Equipe D,9,Instalações Hidráulicas,Chuva,70.3,44.9,41.7,145,5651.88,4,1.4,96.1,2026,3,2026-03
+26,Condomínio Alameda,Vitória,2025-12-13,Equipe B,9,Instalações Elétricas,Normal,77.8,55.1,62.8,155,9527.91,10,1.8,92.5,2025,12,2025-12
+27,Residencial Vitória Park,Vila Velha,2025-03-14,Equipe B,9,Acabamento,Normal,64.5,41.3,38.1,110,4430.39,3,1.9,92.2,2025,3,2025-03
+28,Residencial Jardim das Acácias,Vila Velha,2025-03-14,Equipe A,8,Estrutura,Normal,53.4,73.6,69.9,410,29149.86,0,1.2,96.9,2025,3,2025-03
+29,Condomínio Morada do Sol,Colatina,2026-04-30,Equipe B,10,Pavimentação,Normal,73.8,61.7,60.2,130,7110.41,3,1.7,96.7,2026,4,2026-04
+30,Condomínio Alameda,Cariacica,2026-03-18,Equipe A,7,Instalações Elétricas,Normal,63.4,41.4,49.7,155,8020.91,3,1.6,100.0,2026,3,2026-03
+31,Residencial Monte Belo,Cariacica,2026-02-17,Equipe A,7,Fundação,Chuva,60.0,114.4,113.4,320,38179.01,4,1.9,92.4,2026,2,2026-02
+32,Condomínio Vila Verde,Vila Velha,2025-05-24,Equipe B,11,Instalações Elétricas,Normal,86.3,50.2,49.0,155,9001.39,0,1.8,91.0,2025,5,2025-05
+33,Condomínio Morada do Sol,Cariacica,2025-04-11,Equipe A,9,Instalações Elétricas,Normal,68.7,65.8,47.6,155,6741.87,0,1.8,92.8,2025,4,2025-04
+34,Residencial Vitória Park,Vitória,2026-02-21,Equipe B,10,Estrutura,Normal,81.5,80.7,71.4,410,34294.95,3,0.0,100.0,2026,2,2026-02
+35,Residencial Parque Azul,Cariacica,2025-01-03,Equipe B,11,Fundação,Chuva intensa,83.4,109.6,81.5,320,25840.61,10,2.0,88.2,2025,1,2025-01
+36,Condomínio Morada do Sol,Cariacica,2025-06-08,Equipe D,10,Instalações Hidráulicas,Normal,77.7,47.6,42.8,145,7082.51,3,0.0,100.0,2025,6,2025-06
+37,Residencial Parque Azul,Vitória,2025-11-18,Equipe E,5,Acabamento,Normal,54.9,45.1,49.0,110,5181.2,5,1.2,97.0,2025,11,2025-11
+38,Edifício Atlântico,Cariacica,2025-02-28,Equipe E,6,Cobertura,Chuva intensa,53.4,48.3,56.4,210,8772.83,5,0.7,92.3,2025,2,2025-02
+39,Condomínio Vila Verde,Vila Velha,2025-08-29,Equipe E,5,Estrutura,Normal,51.4,59.4,92.5,410,38321.67,6,0.0,100.0,2025,8,2025-08
+40,Edifício Atlântico,Vila Velha,2025-03-25,Equipe E,5,Acabamento,Normal,40.1,31.3,46.2,110,5162.93,0,2.1,92.5,2025,3,2025-03
+41,Edifício Atlântico,Linhares,2025-07-29,Equipe C,7,Cobertura,Normal,56.8,64.9,61.6,210,11655.01,8,0.0,99.7,2025,7,2025-07
+42,Edifício Horizonte,Vila Velha,2025-11-04,Equipe D,9,Instalações Hidráulicas,Normal,76.1,54.6,46.8,145,6673.01,0,0.3,100.0,2025,11,2025-11
+43,Condomínio Vila Verde,Vitória,2025-03-17,Equipe E,5,Pavimentação,Normal,42.5,52.5,76.3,130,10162.85,4,1.8,92.6,2025,3,2025-03
+44,Residencial Vitória Park,Serra,2025-09-08,Equipe C,6,Alvenaria,Normal,44.1,73.7,67.3,180,12093.74,2,2.5,90.8,2025,9,2025-09
+45,Edifício Costa Norte,Cariacica,2025-11-03,Equipe C,6,Cobertura,Chuva,51.8,55.9,53.6,210,12245.43,7,2.0,96.2,2025,11,2025-11
+46,Condomínio Vila Verde,Vila Velha,2025-06-09,Equipe A,7,Instalações Hidráulicas,Normal,56.1,58.4,46.1,145,6857.85,1,1.1,97.7,2025,6,2025-06
+47,Edifício Atlântico,Vila Velha,2026-06-02,Equipe B,10,Revestimento,Normal,74.3,66.1,43.1,120,4669.62,5,2.9,92.0,2026,6,2026-06
+48,Residencial Jardim das Acácias,Vitória,2025-01-04,Equipe C,6,Pintura,Normal,52.4,41.9,48.3,85,4130.4,0,3.2,89.5,2025,1,2025-01
+49,Edifício Costa Norte,Colatina,2026-03-14,Equipe B,11,Instalações Hidráulicas,Normal,82.2,49.0,46.9,145,6493.81,0,1.3,96.3,2026,3,2026-03
+50,Condomínio Vila Verde,Vitória,2026-01-14,Equipe E,5,Alvenaria,Normal,36.5,59.5,64.0,180,10185.45,0,0.1,99.3,2026,1,2026-01
+51,Edifício Costa Norte,Cariacica,2026-01-09,Equipe A,8,Alvenaria,Chuva,66.2,82.3,77.9,180,13842.59,4,0.0,100.0,2026,1,2026-01
+52,Residencial Jardim das Acácias,Serra,2025-12-29,Equipe B,9,Instalações Elétricas,Chuva,70.0,58.2,43.3,155,6990.35,9,0.9,97.9,2025,12,2025-12
+53,Residencial Monte Belo,Linhares,2025-07-01,Equipe B,10,Alvenaria,Chuva,84.8,60.3,74.3,180,13387.47,5,0.1,99.7,2025,7,2025-07
+54,Residencial Jardim das Acácias,Vila Velha,2025-10-01,Equipe D,9,Revestimento,Normal,75.5,60.5,61.7,120,8679.37,0,3.0,90.8,2025,10,2025-10
+55,Condomínio Vila Verde,Cariacica,2025-07-24,Equipe D,9,Fundação,Chuva,87.3,81.2,103.6,320,31562.31,0,0.4,97.2,2025,7,2025-07
+56,Condomínio Alameda,Serra,2025-01-25,Equipe B,10,Instalações Hidráulicas,Normal,81.1,55.2,59.4,145,9267.88,0,0.0,100.0,2025,1,2025-01
+57,Residencial Monte Belo,Serra,2025-12-26,Equipe A,8,Instalações Hidráulicas,Normal,54.8,69.1,46.8,145,6531.29,0,2.6,91.5,2025,12,2025-12
+58,Residencial Monte Belo,Colatina,2025-04-29,Equipe C,6,Cobertura,Chuva,56.7,41.4,56.0,210,11764.93,5,0.5,99.6,2025,4,2025-04
+59,Condomínio Morada do Sol,Vila Velha,2025-04-22,Equipe C,6,Acabamento,Normal,40.5,37.0,37.4,110,4283.31,4,0.7,94.7,2025,4,2025-04
+60,Edifício Horizonte,Colatina,2026-01-30,Equipe D,8,Revestimento,Chuva,72.9,50.9,54.7,120,7378.54,5,3.4,89.3,2026,1,2026-01
+61,Residencial Parque Azul,Serra,2026-06-17,Equipe D,8,Fundação,Chuva,78.4,125.0,112.9,320,38936.07,6,2.6,89.8,2026,6,2026-06
+62,Residencial Vitória Park,Colatina,2025-03-13,Equipe C,8,Instalações Elétricas,Chuva intensa,68.8,65.5,42.0,155,5893.76,2,0.7,96.2,2025,3,2025-03
+63,Edifício Horizonte,Linhares,2026-06-04,Equipe A,8,Revestimento,Normal,74.5,48.6,73.5,120,7846.2,0,1.9,94.7,2026,6,2026-06
+64,Residencial Monte Belo,Serra,2025-07-16,Equipe C,7,Pintura,Normal,55.8,26.4,48.9,85,3722.74,4,2.4,90.4,2025,7,2025-07
+65,Residencial Monte Belo,Colatina,2026-02-20,Equipe E,6,Alvenaria,Normal,44.4,52.6,62.7,180,12148.38,0,1.6,93.8,2026,2,2026-02
+66,Residencial Jardim das Acácias,Serra,2025-11-26,Equipe B,11,Instalações Hidráulicas,Normal,82.4,51.0,39.2,145,5432.24,0,3.4,89.2,2025,11,2025-11
+67,Condomínio Alameda,Colatina,2025-06-23,Equipe E,7,Instalações Elétricas,Normal,51.1,57.1,44.6,155,6790.79,3,1.9,92.9,2025,6,2025-06
+68,Condomínio Morada do Sol,Linhares,2025-08-29,Equipe C,6,Acabamento,Normal,44.0,36.1,29.0,110,2803.32,6,4.0,86.7,2025,8,2025-08
+69,Residencial Parque Azul,Vila Velha,2025-09-08,Equipe A,7,Alvenaria,Chuva intensa,60.0,68.6,100.1,180,19631.8,8,0.0,93.8,2025,9,2025-09
+70,Edifício Atlântico,Vitória,2026-01-29,Equipe D,9,Pavimentação,Normal,73.4,51.8,54.8,130,6755.51,0,3.0,92.2,2026,1,2026-01
+71,Residencial Parque Azul,Vila Velha,2025-08-13,Equipe A,9,Fundação,Normal,71.9,120.3,95.7,320,28513.92,6,1.6,92.8,2025,8,2025-08
+72,Residencial Vitória Park,Cariacica,2025-05-05,Equipe E,6,Fundação,Normal,46.7,80.0,77.1,320,26500.05,7,0.0,100.0,2025,5,2025-05
+73,Condomínio Alameda,Colatina,2026-03-30,Equipe E,6,Cobertura,Normal,43.4,52.9,42.9,210,8386.3,2,0.0,100.0,2026,3,2026-03
+74,Residencial Vitória Park,Cariacica,2026-05-02,Equipe D,9,Cobertura,Normal,71.6,55.5,45.2,210,9054.02,4,1.6,92.9,2026,5,2026-05
+75,Residencial Parque Azul,Colatina,2025-09-02,Equipe E,7,Instalações Hidráulicas,Normal,56.7,59.0,38.7,145,5855.43,0,1.7,93.0,2025,9,2025-09
+76,Condomínio Vila Verde,Colatina,2025-12-10,Equipe B,10,Instalações Hidráulicas,Normal,67.4,36.8,40.5,145,5994.52,0,1.8,90.9,2025,12,2025-12
+77,Residencial Vitória Park,Vitória,2026-01-28,Equipe B,10,Alvenaria,Normal,79.5,50.8,62.5,180,11292.66,0,0.5,100.0,2026,1,2026-01
+78,Residencial Parque Azul,Vitória,2026-04-23,Equipe D,9,Pintura,Normal,68.0,48.3,40.5,85,3588.41,6,0.0,98.4,2026,4,2026-04
+79,Residencial Parque Azul,Cariacica,2026-01-25,Equipe E,5,Pintura,Normal,44.0,40.5,56.9,85,4602.81,2,1.8,96.6,2026,1,2026-01
+80,Edifício Horizonte,Serra,2026-05-15,Equipe D,9,Pintura,Normal,73.8,44.6,48.3,85,3945.35,0,2.5,91.2,2026,5,2026-05
+81,Residencial Monte Belo,Cariacica,2026-02-19,Equipe D,9,Fundação,Chuva,74.0,130.5,107.8,320,33596.28,8,0.5,94.3,2026,2,2026-02
+82,Condomínio Alameda,Vila Velha,2026-02-08,Equipe E,5,Acabamento,Normal,32.9,25.2,34.4,110,3789.58,7,2.4,91.9,2026,2,2026-02
+83,Residencial Jardim das Acácias,Vitória,2025-07-06,Equipe B,11,Pintura,Normal,93.8,25.3,54.3,85,4900.13,0,3.4,89.8,2025,7,2025-07
+84,Residencial Monte Belo,Serra,2025-12-12,Equipe D,9,Instalações Elétricas,Chuva,69.1,61.3,60.5,155,9513.94,5,0.4,97.0,2025,12,2025-12
+85,Residencial Monte Belo,Serra,2026-04-27,Equipe C,6,Pintura,Normal,53.8,35.5,56.0,85,4578.11,3,2.4,94.4,2026,4,2026-04
+86,Residencial Vitória Park,Vitória,2025-02-11,Equipe B,9,Revestimento,Chuva,68.4,45.7,44.3,120,5127.05,6,2.9,88.9,2025,2,2025-02
+87,Residencial Parque Azul,Vila Velha,2025-09-02,Equipe E,6,Fundação,Normal,54.1,118.2,112.4,320,41368.37,0,0.0,96.4,2025,9,2025-09
+88,Condomínio Vila Verde,Linhares,2026-01-13,Equipe D,9,Instalações Elétricas,Normal,82.5,61.5,56.3,155,8921.95,0,3.9,87.8,2026,1,2026-01
+89,Edifício Atlântico,Colatina,2025-04-21,Equipe B,10,Estrutura,Normal,80.8,90.5,81.2,410,33888.28,0,1.6,98.6,2025,4,2025-04
+90,Condomínio Morada do Sol,Linhares,2025-03-19,Equipe D,9,Pintura,Normal,81.4,54.0,52.6,85,4117.04,1,2.1,95.5,2025,3,2025-03
+91,Residencial Parque Azul,Vitória,2025-02-12,Equipe E,5,Instalações Hidráulicas,Normal,28.2,66.3,33.1,145,4635.59,0,0.0,100.0,2025,2,2025-02
+92,Residencial Monte Belo,Colatina,2025-01-13,Equipe A,8,Revestimento,Chuva,64.5,36.9,44.9,120,5243.26,10,1.7,91.6,2025,1,2025-01
+93,Condomínio Alameda,Vitória,2025-06-06,Equipe C,8,Pintura,Normal,62.3,39.9,32.6,85,2758.96,1,2.8,94.7,2025,6,2025-06
+94,Residencial Vitória Park,Colatina,2026-04-22,Equipe E,7,Instalações Hidráulicas,Normal,63.9,49.5,47.3,145,8270.45,2,1.0,96.8,2026,4,2026-04
+95,Edifício Atlântico,Serra,2025-10-13,Equipe B,9,Revestimento,Chuva,73.4,46.8,50.1,120,5748.98,4,1.3,94.4,2025,10,2025-10
+96,Residencial Parque Azul,Cariacica,2025-12-11,Equipe E,7,Acabamento,Normal,56.7,36.3,52.2,110,4524.25,5,3.5,84.7,2025,12,2025-12
+97,Edifício Horizonte,Vila Velha,2025-09-22,Equipe B,10,Pavimentação,Normal,77.6,56.0,52.2,130,6363.74,0,3.1,92.0,2025,9,2025-09
+98,Edifício Atlântico,Colatina,2026-06-14,Equipe E,5,Instalações Hidráulicas,Chuva intensa,48.9,58.8,50.6,145,7029.13,9,0.0,98.4,2026,6,2026-06
+99,Condomínio Vila Verde,Vila Velha,2026-05-03,Equipe D,9,Pintura,Normal,70.3,39.2,52.5,85,4621.1,0,3.4,87.0,2026,5,2026-05
+100,Condomínio Alameda,Cariacica,2025-08-15,Equipe A,8,Fundação,Normal,68.3,105.1,97.6,320,32046.86,0,2.1,92.9,2025,8,2025-08
+101,Residencial Parque Azul,Serra,2025-12-19,Equipe C,8,Acabamento,Normal,60.3,45.2,37.7,110,3679.73,0,2.7,88.8,2025,12,2025-12
+102,Residencial Vitória Park,Serra,2025-11-10,Equipe D,9,Revestimento,Normal,84.3,30.0,74.4,120,9078.72,1,1.3,96.6,2025,11,2025-11
+103,Condomínio Vila Verde,Colatina,2025-07-09,Equipe C,6,Instalações Elétricas,Normal,47.7,65.9,49.9,155,7827.5,0,0.9,97.7,2025,7,2025-07
+104,Condomínio Alameda,Serra,2025-04-13,Equipe E,6,Acabamento,Chuva,36.0,28.8,35.7,110,3980.68,4,2.0,94.3,2025,4,2025-04
+105,Condomínio Morada do Sol,Vila Velha,2025-01-15,Equipe B,10,Revestimento,Normal,76.2,41.3,51.5,120,5696.29,3,0.0,100.0,2025,1,2025-01
+106,Edifício Costa Norte,Serra,2025-05-10,Equipe A,8,Fundação,Normal,67.3,99.4,111.7,320,40506.46,5,0.0,97.4,2025,5,2025-05
+107,Condomínio Alameda,Vitória,2026-04-26,Equipe E,6,Fundação,Normal,43.6,95.4,91.7,320,27640.3,2,0.1,98.5,2026,4,2026-04
+108,Edifício Horizonte,Vila Velha,2025-04-27,Equipe C,8,Fundação,Chuva,54.2,79.2,67.4,320,19884.19,8,0.0,100.0,2025,4,2025-04
+109,Residencial Monte Belo,Cariacica,2025-06-05,Equipe E,5,Estrutura,Normal,43.5,82.7,74.1,410,32083.09,0,1.1,100.0,2025,6,2025-06
+110,Edifício Atlântico,Serra,2026-03-03,Equipe B,9,Estrutura,Normal,71.3,96.5,68.9,410,28169.93,7,0.2,100.0,2026,3,2026-03
+111,Edifício Atlântico,Vila Velha,2026-03-30,Equipe D,10,Cobertura,Normal,85.0,52.1,58.3,210,13195.56,3,0.0,98.5,2026,3,2026-03
+112,Edifício Atlântico,Cariacica,2025-04-12,Equipe E,5,Instalações Hidráulicas,Chuva intensa,38.3,51.3,49.2,145,7235.42,4,1.5,93.4,2025,4,2025-04
+113,Residencial Parque Azul,Colatina,2025-06-10,Equipe C,6,Instalações Elétricas,Normal,51.9,65.7,58.9,155,9464.87,1,0.0,100.0,2025,6,2025-06
+114,Residencial Vitória Park,Vitória,2026-04-07,Equipe A,9,Alvenaria,Normal,73.5,68.2,59.0,180,9701.53,5,1.0,98.2,2026,4,2026-04
+115,Condomínio Alameda,Serra,2025-10-17,Equipe B,10,Fundação,Normal,80.2,95.5,106.0,320,32519.66,2,0.4,97.9,2025,10,2025-10
+116,Condomínio Alameda,Vitória,2026-03-12,Equipe C,7,Instalações Elétricas,Normal,53.8,57.2,44.8,155,7641.6,0,0.8,96.6,2026,3,2026-03
+117,Residencial Parque Azul,Colatina,2025-03-15,Equipe C,7,Alvenaria,Normal,66.1,67.3,90.5,180,14354.02,2,2.1,93.4,2025,3,2025-03
+118,Condomínio Morada do Sol,Linhares,2025-05-08,Equipe C,8,Acabamento,Normal,71.5,34.5,57.1,110,7436.15,0,1.5,98.1,2025,5,2025-05
+119,Condomínio Morada do Sol,Colatina,2026-03-25,Equipe C,8,Pintura,Normal,75.1,38.0,55.2,85,4586.23,0,0.9,95.1,2026,3,2026-03
+120,Residencial Jardim das Acácias,Cariacica,2025-01-27,Equipe E,6,Revestimento,Normal,42.6,47.7,48.2,120,6501.45,0,3.2,89.3,2025,1,2025-01
+121,Edifício Atlântico,Linhares,2025-06-29,Equipe C,6,Fundação,Normal,47.7,106.5,81.7,320,26943.82,2,1.6,95.5,2025,6,2025-06
+122,Condomínio Alameda,Serra,2026-05-19,Equipe E,7,Alvenaria,Chuva intensa,73.2,57.5,83.5,180,14280.74,6,0.2,98.7,2026,5,2026-05
+123,Condomínio Alameda,Serra,2025-04-18,Equipe C,7,Pintura,Chuva,65.9,37.7,52.5,85,4630.8,3,2.8,91.4,2025,4,2025-04
+124,Edifício Horizonte,Cariacica,2025-02-07,Equipe C,8,Pavimentação,Normal,53.4,76.7,65.7,130,8122.29,0,1.3,96.5,2025,2,2025-02
+125,Edifício Horizonte,Serra,2026-06-11,Equipe A,9,Revestimento,Chuva,76.6,65.4,55.0,120,6178.5,0,1.1,96.4,2026,6,2026-06
+126,Residencial Jardim das Acácias,Colatina,2025-02-25,Equipe D,10,Cobertura,Normal,92.6,52.6,60.7,210,12730.25,5,4.0,86.1,2025,2,2025-02
+127,Edifício Horizonte,Linhares,2025-07-28,Equipe D,8,Pavimentação,Normal,60.6,71.3,66.4,130,9907.26,3,0.6,99.3,2025,7,2025-07
+128,Edifício Costa Norte,Serra,2025-01-30,Equipe D,8,Pavimentação,Chuva intensa,71.8,68.9,77.1,130,10878.3,12,2.7,89.7,2025,1,2025-01
+129,Edifício Atlântico,Vila Velha,2026-02-22,Equipe C,6,Alvenaria,Normal,46.8,66.7,76.2,180,12819.59,3,0.5,98.5,2026,2,2026-02
+130,Condomínio Vila Verde,Cariacica,2025-10-26,Equipe B,11,Estrutura,Normal,96.9,82.8,84.2,410,30766.4,4,1.8,98.6,2025,10,2025-10
+131,Condomínio Morada do Sol,Cariacica,2026-04-13,Equipe D,9,Pavimentação,Normal,69.8,62.4,64.7,130,9472.44,1,1.3,97.1,2026,4,2026-04
+132,Residencial Monte Belo,Vila Velha,2025-03-13,Equipe E,6,Acabamento,Normal,49.3,34.9,45.9,110,5482.66,0,2.2,91.6,2025,3,2025-03
+133,Residencial Monte Belo,Serra,2025-10-17,Equipe C,6,Cobertura,Chuva,56.4,42.1,55.9,210,12093.25,9,0.9,96.0,2025,10,2025-10
+134,Edifício Atlântico,Linhares,2026-05-11,Equipe B,11,Pavimentação,Normal,101.2,44.4,54.9,130,7388.23,0,0.0,100.0,2026,5,2026-05
+135,Residencial Vitória Park,Linhares,2025-07-13,Equipe D,9,Pintura,Chuva intensa,73.7,37.7,42.9,85,3901.01,10,1.9,94.6,2025,7,2025-07
+136,Residencial Parque Azul,Linhares,2025-02-14,Equipe B,11,Pintura,Normal,80.5,30.5,41.6,85,3523.1,2,1.7,95.3,2025,2,2025-02
+137,Condomínio Alameda,Colatina,2026-05-23,Equipe D,9,Pintura,Chuva intensa,63.2,52.9,43.1,85,3990.96,9,2.5,90.1,2026,5,2026-05
+138,Edifício Costa Norte,Linhares,2026-03-27,Equipe C,6,Acabamento,Normal,51.1,42.4,53.9,110,6022.21,4,1.9,96.8,2026,3,2026-03
+139,Condomínio Alameda,Vitória,2025-03-18,Equipe D,9,Alvenaria,Normal,67.3,86.1,63.5,180,10121.7,2,0.2,100.0,2025,3,2025-03
+140,Condomínio Morada do Sol,Serra,2025-12-03,Equipe D,8,Acabamento,Chuva,59.4,34.9,31.4,110,3329.02,0,0.1,100.0,2025,12,2025-12
+141,Residencial Vitória Park,Cariacica,2025-03-12,Equipe D,8,Revestimento,Normal,69.5,51.7,50.7,120,6060.78,1,0.6,100.0,2025,3,2025-03
+142,Condomínio Morada do Sol,Vila Velha,2025-04-13,Equipe D,8,Estrutura,Normal,70.1,76.8,83.5,410,34805.72,0,0.7,96.4,2025,4,2025-04
+143,Condomínio Morada do Sol,Vitória,2025-10-28,Equipe C,6,Fundação,Normal,41.0,90.2,98.7,320,33203.23,0,1.7,97.4,2025,10,2025-10
+144,Residencial Monte Belo,Vila Velha,2025-07-04,Equipe E,7,Instalações Elétricas,Normal,62.5,55.6,51.0,155,8346.56,3,2.1,94.6,2025,7,2025-07
+145,Condomínio Vila Verde,Linhares,2026-05-25,Equipe E,6,Pintura,Chuva,55.3,38.0,66.1,85,5707.32,11,1.2,99.6,2026,5,2026-05
+146,Edifício Costa Norte,Vila Velha,2025-09-19,Equipe C,8,Pavimentação,Normal,65.4,53.0,62.4,130,7904.11,3,1.6,93.7,2025,9,2025-09
+147,Condomínio Alameda,Serra,2026-03-29,Equipe B,9,Cobertura,Chuva intensa,71.8,80.4,61.4,210,13344.08,8,1.1,94.7,2026,3,2026-03
+148,Edifício Atlântico,Serra,2025-11-06,Equipe C,8,Pintura,Normal,56.8,40.1,35.2,85,3087.56,3,1.4,98.7,2025,11,2025-11
+149,Residencial Monte Belo,Cariacica,2026-01-03,Equipe B,11,Estrutura,Normal,79.4,58.9,70.4,410,31281.88,7,0.4,100.0,2026,1,2026-01
+150,Condomínio Morada do Sol,Vitória,2025-02-20,Equipe C,6,Pintura,Chuva,47.7,40.7,54.5,85,4874.25,0,3.8,90.6,2025,2,2025-02
+151,Condomínio Alameda,Serra,2025-08-13,Equipe E,6,Instalações Elétricas,Normal,43.6,58.9,47.6,155,7531.86,0,0.2,99.3,2025,8,2025-08
+152,Edifício Atlântico,Serra,2025-11-13,Equipe A,7,Alvenaria,Chuva,64.2,71.4,74.8,180,14295.21,0,2.4,88.8,2025,11,2025-11
+153,Residencial Jardim das Acácias,Linhares,2025-10-30,Equipe B,9,Revestimento,Normal,69.5,38.3,43.0,120,5639.19,0,2.4,92.2,2025,10,2025-10
+154,Residencial Monte Belo,Vila Velha,2026-05-29,Equipe B,10,Instalações Elétricas,Chuva,83.3,55.8,43.6,155,7296.62,3,0.0,99.1,2026,5,2026-05
+155,Edifício Costa Norte,Serra,2025-04-28,Equipe C,7,Pavimentação,Normal,66.5,69.2,73.7,130,9313.3,1,3.5,89.6,2025,4,2025-04
+156,Condomínio Vila Verde,Vila Velha,2025-04-03,Equipe D,9,Instalações Elétricas,Chuva,75.0,65.2,53.0,155,8044.76,4,0.9,97.0,2025,4,2025-04
+157,Residencial Jardim das Acácias,Serra,2026-01-13,Equipe A,9,Cobertura,Normal,77.1,58.5,59.5,210,12414.32,2,0.0,100.0,2026,1,2026-01
+158,Condomínio Morada do Sol,Linhares,2025-08-28,Equipe C,6,Pintura,Normal,50.4,49.5,34.0,85,3372.83,1,3.3,87.4,2025,8,2025-08
+159,Edifício Atlântico,Linhares,2025-03-06,Equipe E,6,Revestimento,Normal,52.3,38.9,53.2,120,7361.53,1,2.3,94.4,2025,3,2025-03
+160,Condomínio Alameda,Colatina,2025-05-24,Equipe D,8,Instalações Hidráulicas,Normal,67.5,53.4,52.7,145,9110.76,1,1.2,98.3,2025,5,2025-05
+161,Residencial Jardim das Acácias,Serra,2025-08-29,Equipe A,7,Pavimentação,Chuva,63.7,72.8,79.4,130,9378.15,9,0.0,100.0,2025,8,2025-08
+162,Edifício Costa Norte,Cariacica,2025-06-08,Equipe C,8,Pavimentação,Chuva,58.7,59.3,61.8,130,8240.54,6,2.9,91.6,2025,6,2025-06
+163,Condomínio Vila Verde,Cariacica,2025-02-03,Equipe D,9,Acabamento,Normal,70.3,44.6,48.8,110,4840.82,3,2.8,90.4,2025,2,2025-02
+164,Residencial Parque Azul,Cariacica,2025-04-12,Equipe B,10,Pavimentação,Chuva intensa,89.6,58.4,73.7,130,9448.34,8,0.0,94.1,2025,4,2025-04
+165,Edifício Horizonte,Linhares,2025-10-10,Equipe A,9,Revestimento,Normal,83.2,40.7,53.8,120,5343.82,0,0.4,100.0,2025,10,2025-10
+166,Condomínio Vila Verde,Cariacica,2025-02-21,Equipe B,9,Estrutura,Chuva,79.1,70.1,106.1,410,46917.62,4,0.0,100.0,2025,2,2025-02
+167,Residencial Parque Azul,Vila Velha,2025-08-01,Equipe B,9,Acabamento,Normal,62.3,26.7,42.5,110,5587.47,6,2.7,92.5,2025,8,2025-08
+168,Residencial Parque Azul,Serra,2025-10-11,Equipe E,5,Alvenaria,Chuva,46.0,73.9,81.1,180,14719.69,4,0.1,99.1,2025,10,2025-10
+169,Edifício Costa Norte,Vila Velha,2025-04-23,Equipe C,7,Cobertura,Normal,44.1,57.0,35.4,210,6777.67,2,2.7,93.2,2025,4,2025-04
+170,Residencial Jardim das Acácias,Vila Velha,2025-11-28,Equipe C,7,Fundação,Normal,45.0,78.1,85.0,320,25062.11,1,1.7,92.6,2025,11,2025-11
+171,Condomínio Morada do Sol,Vitória,2025-03-07,Equipe D,8,Alvenaria,Normal,64.7,49.4,64.0,180,11814.71,0,1.5,95.2,2025,3,2025-03
+172,Edifício Horizonte,Linhares,2026-05-31,Equipe A,9,Acabamento,Normal,75.9,39.5,53.6,110,5955.07,0,2.1,94.4,2026,5,2026-05
+173,Edifício Atlântico,Vitória,2025-02-01,Equipe C,8,Cobertura,Normal,64.3,58.4,47.0,210,9346.57,0,3.1,87.6,2025,2,2025-02
+174,Condomínio Alameda,Cariacica,2026-03-31,Equipe A,9,Pintura,Normal,67.1,36.6,51.1,85,4241.01,5,1.2,96.7,2026,3,2026-03
+175,Condomínio Vila Verde,Serra,2025-05-10,Equipe B,9,Acabamento,Normal,66.2,52.7,34.5,110,3889.06,3,2.5,91.6,2025,5,2025-05
+176,Edifício Atlântico,Linhares,2026-04-10,Equipe D,9,Revestimento,Normal,71.1,48.4,51.2,120,6617.77,8,1.3,93.1,2026,4,2026-04
+177,Residencial Monte Belo,Vitória,2026-03-17,Equipe E,6,Estrutura,Normal,47.4,117.1,67.8,410,31443.13,7,0.3,100.0,2026,3,2026-03
+178,Residencial Parque Azul,Cariacica,2026-03-02,Equipe D,10,Revestimento,Chuva,91.4,44.7,58.9,120,6739.09,1,1.2,93.7,2026,3,2026-03
+179,Edifício Horizonte,Cariacica,2025-06-06,Equipe C,7,Revestimento,Normal,56.2,41.3,54.5,120,5725.96,2,3.0,86.4,2025,6,2025-06
+180,Condomínio Alameda,Vitória,2026-03-19,Equipe A,7,Estrutura,Normal,58.6,97.7,68.0,410,31610.51,3,0.2,99.2,2026,3,2026-03
+181,Edifício Horizonte,Vila Velha,2025-05-06,Equipe A,8,Cobertura,Normal,67.9,58.8,57.7,210,11224.54,2,0.0,99.8,2025,5,2025-05
+182,Residencial Monte Belo,Colatina,2025-12-27,Equipe C,7,Fundação,Normal,49.7,82.4,96.8,320,33680.35,3,0.0,99.4,2025,12,2025-12
+183,Residencial Vitória Park,Vila Velha,2025-04-21,Equipe D,9,Alvenaria,Normal,80.5,66.7,97.5,180,18102.22,2,0.6,98.3,2025,4,2025-04
+184,Residencial Vitória Park,Serra,2026-03-16,Equipe C,7,Estrutura,Chuva,54.9,90.2,83.1,410,31928.64,1,0.0,100.0,2026,3,2026-03
+185,Edifício Atlântico,Linhares,2025-01-30,Equipe A,8,Cobertura,Normal,56.3,35.5,47.0,210,11838.47,1,2.0,93.8,2025,1,2025-01
+186,Condomínio Morada do Sol,Serra,2025-05-27,Equipe A,8,Revestimento,Normal,63.3,55.9,50.4,120,6177.38,2,1.2,98.1,2025,5,2025-05
+187,Residencial Monte Belo,Vitória,2025-08-09,Equipe A,7,Alvenaria,Normal,54.8,56.2,71.1,180,11878.11,2,1.0,99.0,2025,8,2025-08
+188,Condomínio Alameda,Serra,2025-11-29,Equipe C,7,Alvenaria,Chuva,59.3,64.7,79.4,180,15881.51,6,1.0,94.2,2025,11,2025-11
+189,Edifício Atlântico,Linhares,2025-06-11,Equipe A,8,Estrutura,Chuva,56.5,75.6,62.2,410,25120.55,5,1.6,94.7,2025,6,2025-06
+190,Residencial Jardim das Acácias,Colatina,2026-03-11,Equipe C,8,Estrutura,Normal,67.4,80.9,61.1,410,23168.5,1,0.0,100.0,2026,3,2026-03
+191,Condomínio Alameda,Cariacica,2025-12-20,Equipe B,9,Instalações Hidráulicas,Normal,82.7,63.4,53.5,145,8682.64,2,0.6,96.9,2025,12,2025-12
+192,Condomínio Morada do Sol,Colatina,2025-02-16,Equipe D,9,Acabamento,Normal,69.9,35.3,43.3,110,4824.19,2,2.5,94.4,2025,2,2025-02
+193,Edifício Atlântico,Vitória,2025-08-05,Equipe B,10,Fundação,Chuva,86.6,69.6,71.3,320,24521.4,0,0.7,95.4,2025,8,2025-08
+194,Condomínio Morada do Sol,Serra,2026-05-25,Equipe A,7,Revestimento,Chuva,43.4,52.7,44.6,120,5105.16,0,1.3,96.6,2026,5,2026-05
+195,Edifício Costa Norte,Vila Velha,2026-05-28,Equipe E,6,Pintura,Normal,37.6,43.4,38.8,85,3450.84,2,0.8,99.8,2026,5,2026-05
+196,Edifício Horizonte,Vitória,2025-01-20,Equipe A,9,Pintura,Normal,70.9,41.8,43.3,85,3549.98,0,1.8,97.7,2025,1,2025-01
+197,Condomínio Vila Verde,Serra,2026-03-04,Equipe D,10,Acabamento,Normal,70.4,27.0,45.2,110,4888.74,0,3.2,88.5,2026,3,2026-03
+198,Residencial Monte Belo,Vitória,2026-01-06,Equipe B,11,Revestimento,Normal,100.8,53.9,56.9,120,8006.41,0,2.9,91.3,2026,1,2026-01
+199,Condomínio Vila Verde,Vila Velha,2026-06-21,Equipe E,7,Pintura,Normal,65.1,53.8,57.8,85,4616.88,3,1.2,100.0,2026,6,2026-06
+200,Condomínio Morada do Sol,Colatina,2025-06-22,Equipe B,10,Revestimento,Normal,81.0,44.8,54.6,120,5845.89,0,3.4,87.8,2025,6,2025-06
+201,Condomínio Vila Verde,Linhares,2025-12-26,Equipe B,10,Cobertura,Chuva,72.7,63.6,53.0,210,11770.16,7,0.1,96.8,2025,12,2025-12
+202,Edifício Costa Norte,Vila Velha,2025-07-22,Equipe B,10,Estrutura,Normal,90.5,75.4,83.4,410,37827.3,3,1.5,99.5,2025,7,2025-07
+203,Edifício Costa Norte,Colatina,2026-04-21,Equipe B,11,Estrutura,Chuva,83.5,93.4,72.6,410,30405.59,9,1.6,96.0,2026,4,2026-04
+204,Edifício Atlântico,Cariacica,2025-11-20,Equipe E,6,Acabamento,Normal,55.5,35.5,45.4,110,4576.58,0,4.5,83.4,2025,11,2025-11
+205,Condomínio Vila Verde,Cariacica,2025-02-27,Equipe C,7,Pavimentação,Normal,54.5,57.0,65.4,130,9056.83,4,0.3,98.7,2025,2,2025-02
+206,Condomínio Vila Verde,Serra,2025-02-28,Equipe D,8,Pavimentação,Normal,66.0,57.3,79.7,130,10767.96,4,1.8,96.6,2025,2,2025-02
+207,Condomínio Morada do Sol,Vitória,2026-04-19,Equipe E,7,Estrutura,Normal,57.3,61.3,81.5,410,31673.79,0,1.7,97.0,2026,4,2026-04
+208,Residencial Jardim das Acácias,Cariacica,2026-05-03,Equipe B,10,Acabamento,Normal,80.1,40.1,52.7,110,5908.65,9,2.7,87.8,2026,5,2026-05
+209,Residencial Jardim das Acácias,Cariacica,2026-06-01,Equipe C,6,Estrutura,Normal,53.3,85.5,97.5,410,42127.83,1,0.0,99.6,2026,6,2026-06
+210,Residencial Jardim das Acácias,Vila Velha,2026-01-08,Equipe D,9,Pavimentação,Normal,66.0,53.7,63.6,130,9372.54,3,0.0,100.0,2026,1,2026-01
+211,Condomínio Morada do Sol,Cariacica,2025-12-09,Equipe C,6,Pintura,Normal,56.4,37.4,57.3,85,4876.22,0,2.8,90.8,2025,12,2025-12
+212,Condomínio Vila Verde,Linhares,2025-06-03,Equipe C,7,Pintura,Normal,58.9,35.3,49.4,85,4441.66,0,4.1,86.1,2025,6,2025-06
+213,Edifício Atlântico,Colatina,2026-02-06,Equipe C,7,Alvenaria,Normal,57.6,75.9,58.3,180,9015.77,0,2.5,90.9,2026,2,2026-02
+214,Condomínio Vila Verde,Serra,2025-05-11,Equipe D,9,Cobertura,Normal,89.9,52.1,65.1,210,15357.57,8,3.5,91.2,2025,5,2025-05
+215,Residencial Vitória Park,Vitória,2025-01-19,Equipe E,6,Pintura,Normal,55.2,46.5,62.3,85,5062.0,0,2.0,93.3,2025,1,2025-01
+216,Edifício Costa Norte,Vila Velha,2025-08-20,Equipe D,9,Revestimento,Chuva intensa,68.8,54.0,56.2,120,6791.7,12,0.6,94.7,2025,8,2025-08
+217,Edifício Costa Norte,Vitória,2025-12-11,Equipe A,7,Instalações Hidráulicas,Chuva,51.0,34.5,43.1,145,6188.63,9,1.8,92.2,2025,12,2025-12
+218,Edifício Atlântico,Vila Velha,2025-06-16,Equipe D,9,Acabamento,Normal,85.0,46.4,55.2,110,5961.98,0,1.6,97.1,2025,6,2025-06
+219,Edifício Atlântico,Vila Velha,2026-01-09,Equipe A,9,Pavimentação,Normal,85.2,76.7,72.2,130,8545.3,2,0.0,100.0,2026,1,2026-01
+220,Residencial Parque Azul,Cariacica,2025-08-28,Equipe C,8,Acabamento,Normal,63.0,34.8,34.8,110,3985.28,0,0.6,92.3,2025,8,2025-08
+221,Condomínio Morada do Sol,Cariacica,2026-04-18,Equipe C,8,Instalações Elétricas,Chuva,63.8,72.5,59.2,155,8840.45,3,1.6,92.9,2026,4,2026-04
+222,Residencial Monte Belo,Linhares,2025-07-24,Equipe D,9,Cobertura,Chuva,74.1,66.0,60.3,210,12561.54,4,0.0,98.3,2025,7,2025-07
+223,Edifício Costa Norte,Serra,2025-04-16,Equipe D,9,Fundação,Normal,70.4,101.3,103.1,320,30872.12,6,0.7,97.7,2025,4,2025-04
+224,Residencial Vitória Park,Vitória,2025-10-07,Equipe A,8,Instalações Hidráulicas,Normal,58.8,29.3,48.6,145,7462.4,1,1.1,97.5,2025,10,2025-10
+225,Residencial Vitória Park,Vila Velha,2026-04-07,Equipe A,8,Pintura,Chuva,53.1,38.0,45.0,85,3441.19,5,0.4,99.7,2026,4,2026-04
+226,Residencial Jardim das Acácias,Cariacica,2025-08-30,Equipe D,9,Fundação,Normal,71.8,67.4,108.0,320,32529.0,0,1.2,98.5,2025,8,2025-08
+227,Condomínio Vila Verde,Serra,2025-04-12,Equipe A,8,Instalações Elétricas,Chuva,56.9,55.6,46.3,155,7574.43,5,0.6,96.4,2025,4,2025-04
+228,Edifício Horizonte,Vila Velha,2026-04-29,Equipe A,8,Alvenaria,Normal,64.6,52.5,44.7,180,8327.0,4,0.0,98.0,2026,4,2026-04
+229,Edifício Costa Norte,Colatina,2025-03-23,Equipe D,8,Pavimentação,Normal,68.3,82.2,69.3,130,8484.31,1,2.6,90.4,2025,3,2025-03
+230,Residencial Parque Azul,Vila Velha,2025-04-24,Equipe E,7,Cobertura,Chuva,50.4,53.0,40.7,210,8630.88,9,1.4,95.0,2025,4,2025-04
+231,Residencial Parque Azul,Serra,2026-03-06,Equipe A,8,Estrutura,Normal,62.0,57.5,81.4,410,33166.18,1,4.8,85.2,2026,3,2026-03
+232,Edifício Atlântico,Cariacica,2025-01-17,Equipe A,9,Estrutura,Normal,66.7,73.9,80.1,410,33138.59,0,2.1,91.9,2025,1,2025-01
+233,Edifício Atlântico,Vila Velha,2025-01-02,Equipe C,8,Alvenaria,Normal,77.1,77.6,77.8,180,15439.15,2,2.0,94.6,2025,1,2025-01
+234,Residencial Parque Azul,Linhares,2026-06-21,Equipe B,9,Pintura,Chuva intensa,66.1,37.1,51.1,85,4227.17,7,0.9,95.0,2026,6,2026-06
+235,Condomínio Vila Verde,Linhares,2026-02-04,Equipe E,5,Cobertura,Chuva,54.4,46.9,69.6,210,16267.28,4,1.5,93.1,2026,2,2026-02
+236,Residencial Jardim das Acácias,Colatina,2025-01-17,Equipe C,7,Pintura,Normal,59.0,40.6,58.4,85,5435.53,9,2.7,92.0,2025,1,2025-01
+237,Condomínio Vila Verde,Serra,2025-05-17,Equipe A,8,Instalações Elétricas,Normal,65.4,51.5,52.6,155,7960.33,2,2.6,89.7,2025,5,2025-05
+238,Residencial Vitória Park,Serra,2025-07-06,Equipe D,10,Alvenaria,Chuva,88.0,80.4,74.0,180,11058.95,3,2.6,91.6,2025,7,2025-07
+239,Condomínio Vila Verde,Colatina,2025-07-26,Equipe A,8,Pavimentação,Normal,57.0,54.5,63.5,130,8616.06,1,0.6,97.3,2025,7,2025-07
+240,Residencial Parque Azul,Vitória,2026-04-30,Equipe C,8,Revestimento,Normal,57.5,62.0,45.6,120,6004.82,6,3.2,88.9,2026,4,2026-04
+241,Residencial Parque Azul,Serra,2025-10-07,Equipe A,8,Revestimento,Normal,66.8,47.8,49.1,120,6044.89,0,3.4,88.2,2025,10,2025-10
+242,Edifício Horizonte,Cariacica,2025-12-14,Equipe D,10,Pintura,Chuva intensa,81.4,44.1,48.9,85,4351.59,7,3.0,84.7,2025,12,2025-12
+243,Condomínio Alameda,Colatina,2025-03-26,Equipe C,7,Pavimentação,Chuva,56.9,80.9,57.9,130,7118.89,6,1.2,96.9,2025,3,2025-03
+244,Condomínio Vila Verde,Cariacica,2025-11-25,Equipe B,10,Acabamento,Normal,83.4,42.3,51.6,110,5862.09,1,2.8,94.8,2025,11,2025-11
+245,Edifício Horizonte,Colatina,2026-03-13,Equipe C,8,Instalações Hidráulicas,Normal,63.1,42.9,53.4,145,7668.43,0,2.0,92.5,2026,3,2026-03
+246,Condomínio Alameda,Serra,2026-03-22,Equipe A,8,Pavimentação,Normal,63.4,63.6,65.7,130,9025.75,0,1.6,94.4,2026,3,2026-03
+247,Residencial Jardim das Acácias,Vitória,2025-02-01,Equipe C,7,Pintura,Normal,61.2,46.7,48.1,85,4443.7,0,3.0,91.1,2025,2,2025-02
+248,Edifício Atlântico,Colatina,2025-03-10,Equipe A,8,Pavimentação,Normal,76.9,57.6,74.6,130,9682.93,1,2.0,90.4,2025,3,2025-03
+249,Edifício Horizonte,Serra,2025-06-07,Equipe E,5,Pintura,Normal,32.6,33.9,45.0,85,4348.45,1,1.8,94.4,2025,6,2025-06
+250,Edifício Horizonte,Serra,2026-01-11,Equipe A,8,Pavimentação,Normal,72.1,50.0,75.1,130,10524.67,3,1.2,98.2,2026,1,2026-01
+251,Condomínio Morada do Sol,Vila Velha,2026-05-27,Equipe A,8,Estrutura,Normal,45.1,89.8,49.4,410,17287.79,3,2.6,91.4,2026,5,2026-05
+252,Residencial Vitória Park,Vitória,2025-08-08,Equipe C,8,Instalações Hidráulicas,Chuva intensa,70.7,67.1,61.2,145,10038.24,10,1.1,90.3,2025,8,2025-08
+253,Condomínio Morada do Sol,Colatina,2025-05-19,Equipe B,9,Pavimentação,Chuva,70.3,50.9,79.8,130,10228.03,5,1.7,94.6,2025,5,2025-05
+254,Condomínio Alameda,Vila Velha,2025-12-22,Equipe A,8,Pavimentação,Normal,75.9,53.3,78.6,130,9611.07,0,0.3,99.0,2025,12,2025-12
+255,Residencial Vitória Park,Linhares,2025-06-28,Equipe C,7,Instalações Hidráulicas,Chuva,53.0,45.5,37.6,145,5415.75,0,1.9,94.1,2025,6,2025-06
+256,Residencial Vitória Park,Vila Velha,2025-08-31,Equipe B,10,Estrutura,Chuva,69.8,75.5,60.3,410,25354.28,9,0.0,100.0,2025,8,2025-08
+257,Residencial Jardim das Acácias,Serra,2026-04-24,Equipe E,6,Cobertura,Chuva,46.9,65.0,51.1,210,10085.45,4,0.0,100.0,2026,4,2026-04
+258,Residencial Vitória Park,Vila Velha,2025-11-13,Equipe A,7,Acabamento,Normal,56.1,51.0,43.5,110,4513.82,0,0.0,96.8,2025,11,2025-11
+259,Condomínio Alameda,Linhares,2025-05-09,Equipe D,8,Pintura,Chuva intensa,65.9,45.8,41.3,85,3761.86,7,2.2,93.2,2025,5,2025-05
+260,Condomínio Vila Verde,Cariacica,2025-05-12,Equipe E,6,Pavimentação,Chuva,54.3,57.1,65.5,130,7049.18,2,0.7,95.8,2025,5,2025-05
+261,Residencial Vitória Park,Colatina,2026-03-20,Equipe B,10,Acabamento,Normal,79.1,38.5,42.0,110,4379.76,2,2.5,89.8,2026,3,2026-03
+262,Residencial Jardim das Acácias,Vitória,2025-06-18,Equipe B,10,Cobertura,Normal,89.9,57.0,57.5,210,12759.14,2,2.1,93.9,2025,6,2025-06
+263,Residencial Parque Azul,Serra,2025-09-14,Equipe C,6,Cobertura,Normal,43.7,61.8,40.1,210,8494.13,1,0.8,97.2,2025,9,2025-09
+264,Residencial Vitória Park,Serra,2026-05-30,Equipe C,6,Alvenaria,Normal,34.8,58.6,50.0,180,9115.1,0,2.5,90.3,2026,5,2026-05
+265,Edifício Atlântico,Linhares,2025-02-12,Equipe B,10,Alvenaria,Chuva,86.8,70.0,68.3,180,14040.05,1,2.1,95.3,2025,2,2025-02
+266,Residencial Jardim das Acácias,Vitória,2025-08-04,Equipe E,6,Fundação,Chuva,43.3,118.8,83.1,320,27206.16,5,0.8,99.1,2025,8,2025-08
+267,Residencial Monte Belo,Linhares,2025-11-06,Equipe D,9,Fundação,Normal,77.6,65.1,118.4,320,32848.92,5,2.4,90.1,2025,11,2025-11
+268,Residencial Monte Belo,Serra,2025-06-11,Equipe A,7,Pavimentação,Normal,53.1,48.1,59.9,130,7595.11,4,2.6,94.5,2025,6,2025-06
+269,Condomínio Alameda,Cariacica,2025-11-17,Equipe C,7,Instalações Elétricas,Chuva,52.1,52.9,36.7,155,5321.76,7,2.9,88.3,2025,11,2025-11
+270,Edifício Horizonte,Colatina,2026-01-15,Equipe D,9,Revestimento,Normal,67.9,47.8,51.5,120,5779.73,3,1.4,95.5,2026,1,2026-01
+271,Condomínio Vila Verde,Serra,2025-10-01,Equipe D,8,Instalações Elétricas,Normal,67.8,55.1,49.7,155,7635.95,1,0.6,97.6,2025,10,2025-10
+272,Edifício Costa Norte,Vitória,2026-03-05,Equipe C,8,Fundação,Normal,75.2,104.6,107.7,320,36385.59,0,2.4,93.1,2026,3,2026-03
+273,Edifício Costa Norte,Serra,2025-06-13,Equipe C,7,Acabamento,Normal,55.2,41.1,35.0,110,3502.96,0,2.2,96.4,2025,6,2025-06
+274,Residencial Vitória Park,Cariacica,2025-01-24,Equipe C,8,Pavimentação,Normal,79.6,66.9,85.4,130,9502.37,0,0.1,98.4,2025,1,2025-01
+275,Residencial Monte Belo,Linhares,2025-12-28,Equipe B,10,Pavimentação,Normal,78.8,54.9,48.7,130,6709.8,0,1.3,100.0,2025,12,2025-12
+276,Condomínio Morada do Sol,Cariacica,2025-01-09,Equipe D,9,Acabamento,Chuva,65.6,20.7,38.4,110,4596.04,10,0.5,99.4,2025,1,2025-01
+277,Residencial Monte Belo,Vila Velha,2026-01-10,Equipe C,8,Instalações Hidráulicas,Normal,60.7,51.0,59.8,145,7628.42,2,1.6,97.1,2026,1,2026-01
+278,Residencial Jardim das Acácias,Linhares,2025-10-23,Equipe B,10,Cobertura,Normal,80.7,61.2,49.1,210,10533.0,0,1.7,93.8,2025,10,2025-10
+279,Residencial Vitória Park,Cariacica,2025-05-12,Equipe C,6,Cobertura,Chuva intensa,50.6,57.7,61.1,210,12778.25,3,2.5,87.2,2025,5,2025-05
+280,Residencial Monte Belo,Serra,2025-05-28,Equipe E,6,Revestimento,Normal,43.4,42.9,55.6,120,5532.06,11,3.3,89.9,2025,5,2025-05
+281,Residencial Vitória Park,Cariacica,2025-02-09,Equipe A,7,Cobertura,Normal,55.6,61.0,53.8,210,11881.17,3,1.1,96.1,2025,2,2025-02
+282,Edifício Horizonte,Cariacica,2026-06-12,Equipe D,9,Cobertura,Normal,70.9,56.0,57.1,210,12560.39,0,1.8,94.6,2026,6,2026-06
+283,Edifício Atlântico,Serra,2025-12-11,Equipe D,9,Alvenaria,Normal,71.9,60.5,77.3,180,14968.71,0,1.5,93.3,2025,12,2025-12
+284,Residencial Vitória Park,Linhares,2026-05-02,Equipe E,6,Pavimentação,Chuva,38.3,53.2,57.1,130,7989.0,6,1.9,95.0,2026,5,2026-05
+285,Edifício Horizonte,Serra,2025-01-28,Equipe D,9,Estrutura,Normal,67.5,86.2,78.1,410,33953.25,5,1.8,94.9,2025,1,2025-01
+286,Condomínio Morada do Sol,Colatina,2025-02-22,Equipe E,6,Acabamento,Normal,55.5,37.8,45.2,110,4907.14,0,1.2,95.9,2025,2,2025-02
+287,Edifício Costa Norte,Linhares,2025-09-06,Equipe D,9,Acabamento,Normal,66.5,35.9,31.2,110,3490.56,2,1.0,98.1,2025,9,2025-09
+288,Condomínio Vila Verde,Vila Velha,2026-03-05,Equipe D,9,Fundação,Normal,78.6,67.5,94.2,320,28289.2,0,2.0,93.2,2026,3,2026-03
+289,Residencial Parque Azul,Cariacica,2025-03-05,Equipe E,7,Cobertura,Normal,54.1,37.1,53.1,210,10045.48,2,1.3,98.6,2025,3,2025-03
+290,Residencial Vitória Park,Vila Velha,2026-06-23,Equipe C,8,Cobertura,Normal,54.8,26.5,44.7,210,10739.11,5,1.3,94.9,2026,6,2026-06
+291,Edifício Costa Norte,Cariacica,2025-09-28,Equipe C,7,Cobertura,Normal,61.6,47.8,59.4,210,12978.42,5,4.3,87.0,2025,9,2025-09
+292,Residencial Parque Azul,Vila Velha,2025-08-19,Equipe E,6,Instalações Hidráulicas,Chuva intensa,44.4,51.8,34.9,145,4779.25,7,0.4,96.0,2025,8,2025-08
+293,Condomínio Morada do Sol,Serra,2026-05-07,Equipe D,9,Instalações Elétricas,Normal,66.2,66.1,45.5,155,7047.25,1,1.2,97.8,2026,5,2026-05
+294,Condomínio Morada do Sol,Serra,2026-02-09,Equipe E,7,Estrutura,Chuva,49.9,70.5,65.3,410,23890.36,2,0.4,100.0,2026,2,2026-02
+295,Edifício Costa Norte,Serra,2025-12-21,Equipe C,6,Fundação,Chuva,49.8,98.3,108.6,320,34370.08,6,0.9,97.7,2025,12,2025-12
+296,Condomínio Morada do Sol,Colatina,2025-10-05,Equipe B,10,Pavimentação,Chuva,75.9,33.7,60.5,130,8760.19,7,2.2,95.4,2025,10,2025-10
+297,Condomínio Morada do Sol,Vila Velha,2025-09-06,Equipe E,6,Estrutura,Normal,48.6,82.8,71.2,410,28453.86,3,2.4,92.0,2025,9,2025-09
+298,Residencial Vitória Park,Vila Velha,2026-02-28,Equipe A,7,Instalações Elétricas,Normal,52.8,55.0,50.0,155,6854.81,0,0.3,96.6,2026,2,2026-02
+299,Condomínio Alameda,Vitória,2026-02-21,Equipe A,8,Alvenaria,Normal,60.4,63.3,60.9,180,12235.76,2,1.4,96.8,2026,2,2026-02
+300,Condomínio Alameda,Cariacica,2025-10-20,Equipe C,7,Instalações Elétricas,Normal,48.0,65.3,42.0,155,6859.19,0,0.0,100.0,2025,10,2025-10
+301,Condomínio Vila Verde,Colatina,2025-06-29,Equipe B,9,Acabamento,Normal,74.6,31.8,40.6,110,4868.1,0,4.0,85.4,2025,6,2025-06
+302,Edifício Costa Norte,Vitória,2025-10-24,Equipe D,9,Pintura,Chuva,76.5,39.5,56.5,85,4593.45,4,2.0,91.6,2025,10,2025-10
+303,Residencial Jardim das Acácias,Serra,2025-12-10,Equipe E,5,Acabamento,Normal,45.2,34.5,48.0,110,4859.99,0,1.8,99.1,2025,12,2025-12
+304,Residencial Vitória Park,Linhares,2025-10-07,Equipe B,11,Pavimentação,Normal,93.5,59.8,66.7,130,8686.58,3,0.0,100.0,2025,10,2025-10
+305,Condomínio Vila Verde,Serra,2025-07-10,Equipe D,9,Alvenaria,Normal,77.0,73.4,76.8,180,13845.69,4,1.7,93.9,2025,7,2025-07
+306,Edifício Horizonte,Serra,2026-02-20,Equipe B,10,Acabamento,Chuva,76.0,38.7,49.2,110,4875.52,0,2.2,93.1,2026,2,2026-02
+307,Residencial Vitória Park,Serra,2025-07-09,Equipe D,8,Estrutura,Chuva intensa,65.2,83.5,75.4,410,34598.61,3,0.0,96.8,2025,7,2025-07
+308,Condomínio Alameda,Serra,2026-01-28,Equipe A,8,Instalações Elétricas,Normal,52.5,53.3,48.7,155,7561.11,2,0.0,98.8,2026,1,2026-01
+309,Condomínio Morada do Sol,Serra,2025-09-25,Equipe E,5,Instalações Hidráulicas,Normal,37.4,49.0,51.6,145,7815.81,0,1.3,96.8,2025,9,2025-09
+310,Residencial Parque Azul,Vitória,2025-06-13,Equipe D,9,Estrutura,Normal,80.0,102.8,74.2,410,28448.57,0,0.7,98.7,2025,6,2025-06
+311,Residencial Vitória Park,Colatina,2026-01-12,Equipe A,8,Instalações Hidráulicas,Normal,70.9,51.3,51.0,145,7484.78,0,3.5,85.6,2026,1,2026-01
+312,Residencial Parque Azul,Vila Velha,2026-01-18,Equipe B,11,Pavimentação,Normal,89.3,81.9,65.8,130,8423.95,0,0.8,100.0,2026,1,2026-01
+313,Residencial Vitória Park,Cariacica,2025-03-25,Equipe B,10,Cobertura,Normal,64.5,74.0,34.1,210,7008.24,0,1.7,91.4,2025,3,2025-03
+314,Residencial Vitória Park,Colatina,2025-03-05,Equipe A,7,Revestimento,Chuva,59.2,65.5,46.7,120,5689.05,3,2.5,92.0,2025,3,2025-03
+315,Residencial Vitória Park,Vila Velha,2025-06-18,Equipe E,6,Acabamento,Normal,43.5,41.3,48.2,110,5221.03,4,0.4,96.8,2025,6,2025-06
+316,Residencial Vitória Park,Cariacica,2025-04-04,Equipe B,11,Estrutura,Chuva,91.3,101.4,82.2,410,32857.95,4,0.0,100.0,2025,4,2025-04
+317,Condomínio Alameda,Vitória,2026-04-13,Equipe B,11,Pavimentação,Normal,94.2,55.1,65.5,130,8696.12,0,0.9,100.0,2026,4,2026-04
+318,Residencial Vitória Park,Cariacica,2025-09-18,Equipe A,9,Instalações Hidráulicas,Chuva,70.3,48.6,43.1,145,6621.57,4,0.2,100.0,2025,9,2025-09
+319,Residencial Parque Azul,Linhares,2025-12-19,Equipe A,9,Estrutura,Normal,81.9,71.4,67.1,410,29728.42,0,1.9,90.0,2025,12,2025-12
+320,Residencial Vitória Park,Vitória,2025-10-21,Equipe D,8,Estrutura,Normal,70.2,62.6,90.7,410,37229.46,0,0.5,99.8,2025,10,2025-10
+321,Edifício Costa Norte,Colatina,2026-04-05,Equipe C,8,Pintura,Chuva,64.7,46.4,62.0,85,4610.52,9,2.1,91.5,2026,4,2026-04
+322,Residencial Monte Belo,Cariacica,2025-12-23,Equipe E,6,Estrutura,Normal,38.7,77.3,68.1,410,27636.1,6,0.0,100.0,2025,12,2025-12
+323,Residencial Vitória Park,Cariacica,2025-01-04,Equipe B,10,Cobertura,Chuva,71.2,61.8,50.3,210,10207.44,0,1.2,97.0,2025,1,2025-01
+324,Condomínio Morada do Sol,Cariacica,2025-08-24,Equipe D,10,Cobertura,Normal,82.8,70.9,46.0,210,10185.67,5,0.0,100.0,2025,8,2025-08
+325,Edifício Horizonte,Vila Velha,2025-02-02,Equipe B,9,Instalações Hidráulicas,Chuva,68.5,51.2,47.4,145,6605.1,2,1.0,94.6,2025,2,2025-02
+326,Residencial Monte Belo,Linhares,2025-03-10,Equipe B,10,Fundação,Normal,72.4,106.6,74.1,320,24975.97,3,0.0,98.6,2025,3,2025-03
+327,Residencial Jardim das Acácias,Cariacica,2025-02-15,Equipe A,8,Acabamento,Normal,72.4,31.3,46.7,110,5326.89,4,1.7,93.4,2025,2,2025-02
+328,Residencial Parque Azul,Linhares,2026-05-31,Equipe A,8,Instalações Elétricas,Chuva intensa,74.0,72.2,64.0,155,9987.71,6,0.0,98.0,2026,5,2026-05
+329,Residencial Parque Azul,Colatina,2025-08-31,Equipe C,7,Acabamento,Normal,58.9,47.6,49.6,110,4799.94,5,0.8,96.7,2025,8,2025-08
+330,Edifício Costa Norte,Colatina,2025-11-04,Equipe B,11,Cobertura,Normal,89.8,78.8,71.5,210,15743.8,1,1.6,96.7,2025,11,2025-11
+331,Residencial Vitória Park,Linhares,2025-02-18,Equipe D,10,Alvenaria,Chuva intensa,77.8,86.0,68.2,180,12764.82,10,1.5,93.9,2025,2,2025-02
+332,Residencial Monte Belo,Linhares,2025-06-02,Equipe D,10,Revestimento,Normal,75.7,43.2,43.4,120,5391.11,4,2.5,95.3,2025,6,2025-06
+333,Edifício Costa Norte,Linhares,2025-11-04,Equipe B,10,Pavimentação,Chuva,80.0,67.2,56.3,130,7092.35,7,2.0,93.0,2025,11,2025-11
+334,Edifício Costa Norte,Cariacica,2026-03-03,Equipe E,7,Fundação,Normal,55.5,69.0,90.1,320,30885.72,3,1.6,95.0,2026,3,2026-03
+335,Edifício Costa Norte,Cariacica,2025-12-05,Equipe C,7,Instalações Elétricas,Normal,56.0,48.5,53.7,155,8603.82,3,0.4,94.4,2025,12,2025-12
+336,Condomínio Alameda,Serra,2025-02-22,Equipe E,6,Estrutura,Normal,55.7,73.1,79.1,410,34230.22,0,2.3,93.9,2025,2,2025-02
+337,Edifício Atlântico,Linhares,2025-08-11,Equipe A,8,Fundação,Normal,68.8,71.6,117.0,320,38222.5,0,1.2,92.6,2025,8,2025-08
+338,Edifício Horizonte,Serra,2025-05-01,Equipe B,10,Fundação,Chuva,82.9,77.4,82.5,320,23184.78,8,0.2,100.0,2025,5,2025-05
+339,Condomínio Alameda,Vila Velha,2025-09-03,Equipe B,11,Acabamento,Normal,84.2,26.3,36.2,110,4375.68,1,1.3,96.2,2025,9,2025-09
+340,Condomínio Morada do Sol,Cariacica,2025-11-12,Equipe E,6,Pavimentação,Normal,51.5,72.1,81.6,130,10302.69,0,0.5,98.9,2025,11,2025-11
+341,Residencial Vitória Park,Cariacica,2025-11-24,Equipe A,9,Pavimentação,Chuva,65.3,49.7,61.2,130,7925.03,5,0.1,99.2,2025,11,2025-11
+342,Edifício Horizonte,Serra,2025-05-30,Equipe A,8,Pintura,Normal,57.5,48.7,50.1,85,3629.54,0,0.2,98.1,2025,5,2025-05
+343,Residencial Vitória Park,Linhares,2025-06-06,Equipe D,9,Acabamento,Normal,71.4,28.1,38.5,110,3894.86,2,2.1,91.8,2025,6,2025-06
+344,Residencial Parque Azul,Cariacica,2025-12-12,Equipe B,11,Acabamento,Normal,89.2,34.3,42.9,110,5350.76,6,0.4,100.0,2025,12,2025-12
+345,Condomínio Alameda,Colatina,2025-12-27,Equipe D,9,Pavimentação,Normal,77.7,47.6,76.8,130,11212.38,0,0.0,100.0,2025,12,2025-12
+346,Residencial Vitória Park,Cariacica,2026-06-21,Equipe E,5,Alvenaria,Normal,41.9,71.5,74.4,180,13810.58,0,2.3,95.0,2026,6,2026-06
+347,Condomínio Vila Verde,Colatina,2025-05-21,Equipe A,9,Fundação,Chuva,70.4,94.3,75.8,320,25253.9,6,0.9,99.4,2025,5,2025-05
+348,Residencial Parque Azul,Vitória,2026-06-02,Equipe A,8,Alvenaria,Normal,61.7,71.6,57.7,180,10366.43,1,1.3,95.1,2026,6,2026-06
+349,Residencial Jardim das Acácias,Linhares,2025-01-17,Equipe D,10,Acabamento,Normal,79.1,43.7,40.9,110,3920.76,7,3.7,85.6,2025,1,2025-01
+350,Residencial Vitória Park,Cariacica,2025-10-21,Equipe A,8,Fundação,Normal,68.8,86.4,105.4,320,34521.89,1,0.1,98.3,2025,10,2025-10
+351,Residencial Monte Belo,Vila Velha,2025-09-04,Equipe A,8,Estrutura,Normal,57.6,68.0,67.8,410,26206.26,4,2.8,89.9,2025,9,2025-09
+352,Residencial Vitória Park,Serra,2025-03-22,Equipe C,8,Revestimento,Normal,65.7,52.3,57.3,120,6917.78,4,2.6,89.2,2025,3,2025-03
+353,Residencial Monte Belo,Cariacica,2025-11-04,Equipe B,10,Acabamento,Normal,86.1,44.1,42.7,110,4711.26,4,1.7,96.7,2025,11,2025-11
+354,Condomínio Vila Verde,Colatina,2026-01-24,Equipe A,9,Fundação,Normal,88.5,81.6,97.4,320,31925.55,4,0.7,100.0,2026,1,2026-01
+355,Condomínio Alameda,Vitória,2026-05-27,Equipe B,9,Fundação,Chuva,62.6,106.8,76.6,320,27883.63,10,0.1,98.6,2026,5,2026-05
+356,Edifício Horizonte,Linhares,2025-08-24,Equipe E,5,Estrutura,Normal,46.0,74.4,86.9,410,35701.37,0,1.0,95.4,2025,8,2025-08
+357,Edifício Atlântico,Cariacica,2025-10-15,Equipe A,7,Instalações Hidráulicas,Chuva,52.5,65.5,38.1,145,5883.9,4,0.7,99.3,2025,10,2025-10
+358,Edifício Atlântico,Colatina,2025-01-17,Equipe B,10,Fundação,Chuva intensa,82.4,104.8,109.2,320,34017.82,6,0.0,95.3,2025,1,2025-01
+359,Edifício Atlântico,Vila Velha,2025-06-16,Equipe A,8,Pintura,Normal,84.6,51.4,54.9,85,4172.8,3,2.7,92.5,2025,6,2025-06
+360,Edifício Atlântico,Cariacica,2025-05-24,Equipe C,8,Cobertura,Chuva,62.2,56.7,51.6,210,10910.46,0,0.7,96.1,2025,5,2025-05
+361,Condomínio Vila Verde,Linhares,2026-03-24,Equipe A,7,Revestimento,Normal,57.2,73.8,56.3,120,6586.54,4,2.6,92.5,2026,3,2026-03
+362,Condomínio Vila Verde,Serra,2025-12-01,Equipe E,7,Acabamento,Normal,60.2,52.1,40.6,110,4635.22,0,2.7,89.5,2025,12,2025-12
+363,Condomínio Morada do Sol,Cariacica,2026-01-20,Equipe B,10,Pavimentação,Normal,77.1,56.8,69.8,130,9740.72,0,1.1,95.1,2026,1,2026-01
+364,Edifício Atlântico,Colatina,2025-09-10,Equipe A,8,Pintura,Normal,55.2,40.4,41.2,85,4181.87,3,0.3,97.9,2025,9,2025-09
+365,Condomínio Vila Verde,Serra,2026-02-03,Equipe D,9,Alvenaria,Normal,79.1,89.4,60.7,180,9282.8,7,1.5,93.5,2026,2,2026-02
+366,Condomínio Vila Verde,Vitória,2026-01-04,Equipe C,8,Fundação,Chuva,67.7,49.9,100.5,320,33003.42,7,0.0,100.0,2026,1,2026-01
+367,Condomínio Vila Verde,Vila Velha,2026-04-05,Equipe B,11,Estrutura,Normal,81.5,83.7,62.8,410,24907.38,0,1.8,96.0,2026,4,2026-04
+368,Residencial Vitória Park,Cariacica,2025-12-29,Equipe A,7,Estrutura,Normal,54.4,80.6,61.0,410,24410.41,1,4.1,84.7,2025,12,2025-12
+369,Edifício Atlântico,Linhares,2025-10-26,Equipe D,8,Revestimento,Normal,74.2,56.6,63.3,120,8664.68,3,2.5,91.9,2025,10,2025-10
+370,Condomínio Vila Verde,Colatina,2026-01-25,Equipe B,10,Cobertura,Normal,88.6,69.4,52.3,210,9823.86,1,0.0,99.9,2026,1,2026-01
+371,Condomínio Morada do Sol,Serra,2025-03-06,Equipe D,9,Instalações Hidráulicas,Normal,80.7,47.7,53.3,145,7764.37,4,0.0,98.8,2025,3,2025-03
+372,Condomínio Morada do Sol,Cariacica,2026-01-05,Equipe D,8,Instalações Hidráulicas,Normal,65.5,63.2,46.1,145,5680.99,3,0.2,97.0,2026,1,2026-01
+373,Residencial Parque Azul,Colatina,2026-04-14,Equipe E,6,Pavimentação,Normal,43.6,58.0,54.6,130,5845.59,4,2.5,93.3,2026,4,2026-04
+374,Condomínio Morada do Sol,Vitória,2025-12-04,Equipe C,8,Pintura,Normal,56.0,40.5,43.3,85,3856.81,4,1.1,96.6,2025,12,2025-12
+375,Residencial Monte Belo,Colatina,2025-11-25,Equipe B,10,Acabamento,Normal,83.2,48.0,49.3,110,5765.32,2,3.7,89.0,2025,11,2025-11
+376,Residencial Parque Azul,Cariacica,2025-11-23,Equipe B,11,Revestimento,Normal,82.0,60.1,53.3,120,6169.3,0,2.4,93.2,2025,11,2025-11
+377,Condomínio Alameda,Linhares,2025-10-15,Equipe C,8,Instalações Elétricas,Chuva,65.4,58.1,60.9,155,10248.69,5,2.1,91.2,2025,10,2025-10
+378,Residencial Monte Belo,Serra,2025-07-04,Equipe E,6,Estrutura,Normal,50.8,106.1,78.3,410,29926.07,0,0.0,98.4,2025,7,2025-07
+379,Residencial Vitória Park,Vitória,2025-10-26,Equipe B,11,Pavimentação,Chuva,85.4,44.8,63.0,130,8781.17,2,2.8,92.1,2025,10,2025-10
+380,Condomínio Vila Verde,Cariacica,2025-09-05,Equipe B,10,Pavimentação,Normal,87.2,52.9,77.9,130,9242.36,4,1.2,97.3,2025,9,2025-09
+381,Edifício Costa Norte,Colatina,2026-04-05,Equipe D,8,Pintura,Chuva intensa,55.8,35.2,46.3,85,3636.92,9,0.4,97.4,2026,4,2026-04
+382,Condomínio Alameda,Linhares,2025-02-07,Equipe E,7,Pintura,Chuva,47.4,46.2,45.1,85,3619.81,6,2.3,91.6,2025,2,2025-02
+383,Edifício Horizonte,Colatina,2025-04-22,Equipe E,5,Cobertura,Chuva,32.9,37.5,43.7,210,8028.18,5,0.7,99.1,2025,4,2025-04
+384,Edifício Horizonte,Vila Velha,2025-12-06,Equipe A,9,Acabamento,Chuva intensa,69.9,35.7,46.2,110,5218.22,9,2.6,85.6,2025,12,2025-12
+385,Residencial Monte Belo,Vitória,2025-08-16,Equipe A,8,Fundação,Normal,69.3,105.5,90.3,320,28331.76,1,0.8,98.1,2025,8,2025-08
+386,Residencial Vitória Park,Linhares,2026-04-02,Equipe E,6,Acabamento,Normal,58.0,45.4,44.5,110,5138.6,5,2.5,94.2,2026,4,2026-04
+387,Condomínio Alameda,Colatina,2025-12-20,Equipe E,6,Acabamento,Chuva intensa,62.1,45.0,58.2,110,6937.25,8,2.0,89.9,2025,12,2025-12
+388,Condomínio Alameda,Vitória,2025-04-29,Equipe D,8,Instalações Hidráulicas,Chuva,74.9,44.3,66.3,145,9997.94,0,1.4,91.3,2025,4,2025-04
+389,Edifício Costa Norte,Serra,2025-07-31,Equipe C,8,Instalações Hidráulicas,Normal,68.4,60.3,47.5,145,6955.57,7,0.4,96.6,2025,7,2025-07
+390,Edifício Horizonte,Cariacica,2025-11-23,Equipe D,10,Estrutura,Normal,90.4,108.3,85.9,410,38068.82,6,0.1,98.7,2025,11,2025-11
+391,Residencial Jardim das Acácias,Colatina,2025-04-22,Equipe A,8,Estrutura,Normal,72.6,104.3,92.0,410,35065.07,7,0.4,98.0,2025,4,2025-04
+392,Edifício Costa Norte,Colatina,2025-06-13,Equipe E,6,Instalações Elétricas,Normal,50.4,70.4,57.3,155,9176.27,3,1.1,97.6,2025,6,2025-06
+393,Residencial Monte Belo,Cariacica,2025-07-10,Equipe D,9,Instalações Elétricas,Normal,54.3,52.1,38.4,155,5403.93,3,0.8,100.0,2025,7,2025-07
+394,Residencial Monte Belo,Cariacica,2026-04-06,Equipe E,6,Fundação,Normal,59.0,87.0,114.7,320,36486.87,0,1.2,94.6,2026,4,2026-04
+395,Residencial Monte Belo,Vitória,2025-03-06,Equipe B,10,Instalações Elétricas,Normal,72.1,61.2,48.0,155,6961.27,4,0.2,99.9,2025,3,2025-03
+396,Residencial Vitória Park,Vila Velha,2026-04-14,Equipe C,7,Revestimento,Normal,61.7,47.7,61.3,120,7052.09,1,1.8,92.7,2026,4,2026-04
+397,Condomínio Alameda,Linhares,2026-02-06,Equipe E,7,Revestimento,Normal,54.8,34.6,48.6,120,5699.09,1,1.7,94.4,2026,2,2026-02
+398,Edifício Horizonte,Serra,2025-11-01,Equipe E,6,Pavimentação,Chuva,51.4,69.4,64.0,130,7519.15,1,0.4,98.0,2025,11,2025-11
+399,Edifício Atlântico,Vitória,2025-09-02,Equipe C,6,Alvenaria,Normal,42.6,49.8,57.3,180,10463.7,3,0.3,98.2,2025,9,2025-09
+400,Edifício Costa Norte,Serra,2026-03-05,Equipe E,7,Alvenaria,Normal,49.5,64.6,54.2,180,10203.31,0,0.6,98.7,2026,3,2026-03
+401,Edifício Atlântico,Cariacica,2025-06-27,Equipe B,11,Pintura,Normal,89.3,62.4,52.4,85,4096.24,1,0.0,99.8,2025,6,2025-06
+402,Condomínio Alameda,Serra,2026-04-07,Equipe B,10,Alvenaria,Normal,74.2,75.7,59.1,180,10538.63,0,3.1,89.4,2026,4,2026-04
+403,Edifício Horizonte,Vitória,2026-01-29,Equipe B,10,Pavimentação,Chuva intensa,92.8,68.8,79.5,130,10639.87,9,0.0,96.4,2026,1,2026-01
+404,Residencial Vitória Park,Colatina,2026-03-02,Equipe D,10,Pavimentação,Normal,85.9,59.5,57.8,130,7482.5,7,2.5,91.9,2026,3,2026-03
+405,Condomínio Alameda,Cariacica,2025-08-14,Equipe A,7,Alvenaria,Normal,62.7,60.7,60.8,180,10134.61,6,0.7,97.3,2025,8,2025-08
+406,Condomínio Morada do Sol,Vila Velha,2026-04-14,Equipe C,7,Cobertura,Normal,53.9,77.9,58.7,210,14515.07,1,1.4,92.5,2026,4,2026-04
+407,Condomínio Alameda,Linhares,2025-10-02,Equipe A,7,Cobertura,Chuva,66.3,45.8,62.0,210,11877.05,3,0.0,98.8,2025,10,2025-10
+408,Edifício Horizonte,Linhares,2026-03-12,Equipe D,9,Fundação,Normal,68.2,85.6,99.0,320,28879.84,2,2.5,91.0,2026,3,2026-03
+409,Residencial Parque Azul,Serra,2025-12-23,Equipe D,9,Fundação,Chuva,67.0,91.1,100.9,320,32789.39,3,1.6,92.7,2025,12,2025-12
+410,Condomínio Vila Verde,Cariacica,2025-12-26,Equipe B,10,Estrutura,Chuva,84.8,85.9,77.6,410,29681.56,2,1.6,97.3,2025,12,2025-12
+411,Edifício Atlântico,Colatina,2025-07-31,Equipe B,10,Pintura,Chuva,75.5,45.5,35.1,85,2843.96,4,0.9,95.2,2025,7,2025-07
+412,Residencial Jardim das Acácias,Linhares,2025-06-22,Equipe E,6,Revestimento,Normal,43.3,50.5,46.6,120,4590.7,0,1.3,96.8,2025,6,2025-06
+413,Condomínio Morada do Sol,Serra,2025-05-19,Equipe C,6,Acabamento,Chuva intensa,28.8,34.6,24.6,110,3006.55,7,2.5,89.3,2025,5,2025-05
+414,Residencial Monte Belo,Vitória,2025-09-13,Equipe B,10,Instalações Hidráulicas,Normal,65.1,59.2,39.9,145,6020.75,13,0.0,100.0,2025,9,2025-09
+415,Edifício Horizonte,Vila Velha,2025-10-03,Equipe D,9,Pintura,Normal,70.0,44.2,47.9,85,3933.32,0,2.4,89.3,2025,10,2025-10
+416,Residencial Monte Belo,Cariacica,2026-06-12,Equipe A,9,Estrutura,Chuva,77.3,74.0,70.5,410,27864.39,8,0.4,99.4,2026,6,2026-06
+417,Edifício Horizonte,Cariacica,2025-04-06,Equipe C,6,Pavimentação,Chuva,42.9,68.2,62.7,130,9356.44,4,1.8,94.4,2025,4,2025-04
+418,Condomínio Alameda,Colatina,2025-08-12,Equipe A,9,Revestimento,Chuva intensa,81.1,41.8,64.8,120,7654.88,8,2.1,90.8,2025,8,2025-08
+419,Residencial Parque Azul,Cariacica,2025-12-12,Equipe C,7,Instalações Hidráulicas,Normal,55.2,54.0,56.1,145,8775.79,4,0.5,96.6,2025,12,2025-12
+420,Edifício Costa Norte,Linhares,2025-02-17,Equipe C,6,Pavimentação,Normal,54.7,69.5,86.9,130,10751.15,1,0.0,99.2,2025,2,2025-02
+421,Condomínio Alameda,Vitória,2026-04-13,Equipe B,11,Estrutura,Normal,95.0,73.3,88.4,410,35691.63,2,0.0,100.0,2026,4,2026-04
+422,Residencial Monte Belo,Vila Velha,2025-10-08,Equipe C,7,Alvenaria,Normal,35.1,62.8,34.4,180,6789.4,4,1.6,97.9,2025,10,2025-10
+423,Edifício Horizonte,Serra,2025-02-23,Equipe C,7,Estrutura,Normal,49.4,105.2,74.5,410,29966.95,5,0.0,98.4,2025,2,2025-02
+424,Condomínio Morada do Sol,Colatina,2025-04-08,Equipe D,8,Instalações Elétricas,Normal,59.7,49.8,40.3,155,6857.7,1,1.4,94.4,2025,4,2025-04
+425,Condomínio Alameda,Vitória,2026-06-16,Equipe E,6,Alvenaria,Normal,35.3,68.2,38.7,180,6927.75,0,3.4,90.9,2026,6,2026-06
+426,Residencial Jardim das Acácias,Vitória,2025-05-16,Equipe A,9,Revestimento,Normal,72.7,58.9,47.9,120,5997.91,2,2.3,95.2,2025,5,2025-05
+427,Residencial Parque Azul,Cariacica,2025-11-17,Equipe A,7,Estrutura,Normal,61.1,84.2,66.5,410,25170.95,1,1.1,94.2,2025,11,2025-11
+428,Condomínio Morada do Sol,Vila Velha,2025-03-12,Equipe B,10,Pintura,Normal,96.9,53.5,64.4,85,5505.55,1,0.9,97.3,2025,3,2025-03
+429,Residencial Jardim das Acácias,Linhares,2025-08-07,Equipe D,9,Alvenaria,Normal,73.8,50.5,72.8,180,12941.24,0,0.0,99.2,2025,8,2025-08
+430,Edifício Costa Norte,Cariacica,2025-03-30,Equipe D,9,Acabamento,Chuva,85.2,41.8,43.4,110,4959.63,0,3.3,88.5,2025,3,2025-03
+431,Edifício Costa Norte,Vitória,2026-03-16,Equipe D,9,Acabamento,Normal,71.3,47.1,36.6,110,3576.02,0,3.2,86.7,2026,3,2026-03
+432,Edifício Costa Norte,Vila Velha,2025-10-19,Equipe A,8,Instalações Hidráulicas,Chuva,44.2,47.8,35.2,145,5594.09,3,0.5,100.0,2025,10,2025-10
+433,Residencial Jardim das Acácias,Colatina,2026-02-06,Equipe B,10,Instalações Hidráulicas,Normal,66.9,48.4,40.9,145,6143.63,0,1.0,91.8,2026,2,2026-02
+434,Residencial Jardim das Acácias,Vila Velha,2025-09-04,Equipe D,8,Pavimentação,Normal,59.4,64.9,53.1,130,6935.57,3,0.6,98.4,2025,9,2025-09
+435,Edifício Atlântico,Vitória,2025-11-21,Equipe A,8,Cobertura,Normal,57.3,55.8,49.0,210,10419.22,0,1.3,97.3,2025,11,2025-11
+436,Edifício Atlântico,Cariacica,2026-04-28,Equipe E,6,Revestimento,Chuva intensa,33.7,58.0,35.6,120,4417.42,12,0.4,94.3,2026,4,2026-04
+437,Condomínio Vila Verde,Vitória,2025-09-26,Equipe A,7,Acabamento,Normal,54.0,32.6,50.9,110,5215.23,0,2.2,90.6,2025,9,2025-09
+438,Residencial Jardim das Acácias,Cariacica,2026-03-10,Equipe C,8,Cobertura,Normal,61.2,61.3,46.9,210,9775.42,0,0.0,100.0,2026,3,2026-03
+439,Condomínio Vila Verde,Colatina,2025-10-12,Equipe E,6,Cobertura,Normal,60.3,58.2,65.9,210,14605.93,0,3.0,90.8,2025,10,2025-10
+440,Condomínio Vila Verde,Linhares,2026-02-05,Equipe B,10,Instalações Elétricas,Normal,91.4,47.7,68.9,155,11341.76,3,1.3,95.3,2026,2,2026-02
+441,Condomínio Vila Verde,Serra,2025-09-08,Equipe B,9,Pintura,Normal,80.4,43.1,42.3,85,3274.15,1,2.4,92.2,2025,9,2025-09
+442,Residencial Monte Belo,Vitória,2025-11-13,Equipe E,5,Pavimentação,Normal,48.5,38.9,79.9,130,8876.33,4,0.9,98.0,2025,11,2025-11
+443,Edifício Costa Norte,Vitória,2025-06-17,Equipe B,9,Fundação,Normal,66.0,116.9,98.0,320,32824.0,1,1.7,93.1,2025,6,2025-06
+444,Edifício Horizonte,Linhares,2026-01-16,Equipe C,7,Cobertura,Normal,62.0,75.2,63.8,210,12615.98,3,0.0,100.0,2026,1,2026-01
+445,Condomínio Morada do Sol,Colatina,2026-03-16,Equipe A,8,Estrutura,Normal,67.2,53.1,68.7,410,27528.99,1,0.0,100.0,2026,3,2026-03
+446,Condomínio Vila Verde,Serra,2026-04-12,Equipe A,9,Acabamento,Normal,73.8,36.7,40.7,110,4852.6,6,1.4,94.3,2026,4,2026-04
+447,Residencial Jardim das Acácias,Cariacica,2025-06-11,Equipe B,10,Acabamento,Normal,83.4,35.6,44.8,110,5219.6,0,3.6,88.6,2025,6,2025-06
+448,Condomínio Vila Verde,Linhares,2025-02-15,Equipe B,9,Estrutura,Chuva,69.1,78.7,72.6,410,25643.52,9,1.0,97.7,2025,2,2025-02
+449,Residencial Jardim das Acácias,Vila Velha,2026-01-28,Equipe D,9,Fundação,Chuva,78.7,77.5,109.7,320,34352.38,7,0.0,99.8,2026,1,2026-01
+450,Edifício Costa Norte,Vitória,2025-11-26,Equipe D,9,Cobertura,Normal,67.8,62.5,50.8,210,10064.08,0,0.9,95.3,2025,11,2025-11
+451,Edifício Horizonte,Serra,2025-05-03,Equipe E,6,Estrutura,Normal,53.9,74.7,55.6,410,22112.44,0,0.0,97.5,2025,5,2025-05
+452,Residencial Jardim das Acácias,Vila Velha,2026-02-15,Equipe E,5,Instalações Elétricas,Normal,40.8,68.2,52.4,155,7727.92,3,0.4,97.3,2026,2,2026-02
+453,Condomínio Alameda,Serra,2026-04-13,Equipe C,6,Instalações Hidráulicas,Normal,39.9,35.6,37.9,145,5564.99,1,0.5,96.5,2026,4,2026-04
+454,Residencial Parque Azul,Serra,2026-04-21,Equipe C,7,Acabamento,Normal,60.3,29.0,51.4,110,5200.68,0,0.2,98.4,2026,4,2026-04
+455,Condomínio Alameda,Vila Velha,2025-01-07,Equipe B,10,Cobertura,Chuva,86.8,63.4,61.9,210,13541.99,1,0.6,96.5,2025,1,2025-01
+456,Residencial Jardim das Acácias,Vila Velha,2025-12-10,Equipe C,6,Cobertura,Normal,57.3,45.5,67.5,210,15187.61,7,0.5,99.8,2025,12,2025-12
+457,Residencial Monte Belo,Colatina,2025-09-01,Equipe A,8,Instalações Hidráulicas,Normal,80.0,46.2,48.8,145,6011.76,4,0.0,99.3,2025,9,2025-09
+458,Residencial Jardim das Acácias,Vila Velha,2025-08-26,Equipe A,7,Instalações Hidráulicas,Chuva,59.1,53.7,53.1,145,7836.42,8,0.0,98.6,2025,8,2025-08
+459,Residencial Vitória Park,Cariacica,2025-04-08,Equipe D,8,Revestimento,Normal,58.6,55.2,53.6,120,6664.18,5,0.6,100.0,2025,4,2025-04
+460,Residencial Monte Belo,Vitória,2026-03-22,Equipe E,5,Acabamento,Normal,50.7,43.0,67.2,110,6412.34,0,1.1,97.9,2026,3,2026-03
+461,Edifício Costa Norte,Vila Velha,2026-02-07,Equipe C,7,Instalações Hidráulicas,Normal,48.6,59.1,48.3,145,7393.01,2,0.0,98.3,2026,2,2026-02
+462,Edifício Horizonte,Serra,2025-03-18,Equipe C,7,Pavimentação,Chuva intensa,64.7,68.4,74.5,130,9361.2,2,0.0,100.0,2025,3,2025-03
+463,Edifício Costa Norte,Linhares,2025-06-18,Equipe B,9,Estrutura,Normal,63.0,82.7,74.5,410,27478.47,2,2.1,93.3,2025,6,2025-06
+464,Edifício Horizonte,Cariacica,2025-08-01,Equipe E,6,Estrutura,Normal,68.1,56.0,121.5,410,49126.35,4,1.5,93.7,2025,8,2025-08
+465,Condomínio Alameda,Serra,2025-11-08,Equipe A,8,Estrutura,Chuva,65.6,53.2,83.5,410,35051.6,6,2.3,93.4,2025,11,2025-11
+466,Edifício Atlântico,Vitória,2025-04-04,Equipe C,7,Instalações Elétricas,Normal,57.0,46.3,46.1,155,7823.88,6,0.7,97.9,2025,4,2025-04
+467,Edifício Horizonte,Cariacica,2025-09-24,Equipe A,8,Cobertura,Chuva,57.7,70.2,49.7,210,12057.84,2,0.5,98.9,2025,9,2025-09
+468,Edifício Costa Norte,Vitória,2025-04-07,Equipe D,9,Pintura,Normal,76.5,40.4,47.1,85,4285.8,4,0.9,99.8,2025,4,2025-04
+469,Edifício Costa Norte,Vitória,2025-05-14,Equipe A,8,Fundação,Normal,72.2,97.3,108.2,320,36158.7,0,1.0,92.5,2025,5,2025-05
+470,Residencial Monte Belo,Serra,2025-03-18,Equipe E,6,Estrutura,Normal,54.1,57.5,101.1,410,40356.3,1,0.2,98.8,2025,3,2025-03
+471,Condomínio Vila Verde,Vila Velha,2025-12-06,Equipe B,9,Pavimentação,Normal,81.9,33.1,85.0,130,11348.81,0,0.0,100.0,2025,12,2025-12
+472,Condomínio Alameda,Vitória,2026-02-09,Equipe E,7,Alvenaria,Normal,49.4,51.5,68.4,180,12645.46,0,1.3,93.8,2026,2,2026-02
+473,Residencial Monte Belo,Colatina,2025-08-08,Equipe B,10,Pintura,Chuva,87.7,50.0,57.8,85,5055.15,10,2.0,91.2,2025,8,2025-08
+474,Condomínio Morada do Sol,Serra,2025-09-09,Equipe B,9,Pavimentação,Normal,75.1,82.5,59.4,130,7498.7,3,0.9,95.2,2025,9,2025-09
+475,Condomínio Alameda,Cariacica,2025-03-31,Equipe D,8,Cobertura,Normal,71.9,82.2,58.7,210,11435.44,0,1.3,98.0,2025,3,2025-03
+476,Edifício Costa Norte,Cariacica,2025-01-20,Equipe E,6,Instalações Elétricas,Chuva intensa,51.3,55.0,49.2,155,6959.69,11,2.1,87.2,2025,1,2025-01
+477,Edifício Horizonte,Cariacica,2026-05-30,Equipe D,9,Cobertura,Normal,83.1,64.0,68.8,210,12896.72,0,0.8,98.4,2026,5,2026-05
+478,Condomínio Morada do Sol,Vila Velha,2025-01-31,Equipe C,7,Fundação,Chuva,68.6,107.1,113.0,320,33190.92,8,0.0,100.0,2025,1,2025-01
+479,Condomínio Morada do Sol,Vitória,2025-08-27,Equipe E,6,Pavimentação,Chuva intensa,46.0,77.2,67.2,130,8640.26,6,0.6,95.9,2025,8,2025-08
+480,Condomínio Vila Verde,Vila Velha,2025-08-13,Equipe C,6,Instalações Elétricas,Normal,48.5,49.1,49.0,155,7642.74,0,1.5,93.2,2025,8,2025-08
+481,Residencial Monte Belo,Serra,2025-11-22,Equipe B,10,Alvenaria,Chuva,71.9,45.3,48.1,180,7719.16,2,3.3,88.4,2025,11,2025-11
+482,Edifício Horizonte,Linhares,2025-07-12,Equipe C,7,Fundação,Chuva,57.2,101.8,98.6,320,31356.52,1,2.7,95.0,2025,7,2025-07
+483,Condomínio Alameda,Linhares,2025-02-08,Equipe B,11,Instalações Hidráulicas,Normal,76.2,42.4,40.0,145,5352.45,3,0.1,100.0,2025,2,2025-02
+484,Residencial Parque Azul,Linhares,2025-01-01,Equipe A,9,Instalações Elétricas,Normal,80.3,57.1,62.0,155,10460.22,0,0.0,100.0,2025,1,2025-01
+485,Edifício Atlântico,Vila Velha,2025-11-28,Equipe C,7,Alvenaria,Normal,62.0,66.6,61.3,180,10325.33,1,0.9,100.0,2025,11,2025-11
+486,Edifício Costa Norte,Linhares,2025-03-16,Equipe A,8,Alvenaria,Normal,54.3,70.9,68.3,180,14528.02,0,1.6,96.0,2025,3,2025-03
+487,Residencial Monte Belo,Linhares,2025-11-27,Equipe C,7,Estrutura,Normal,57.4,78.6,82.0,410,26809.27,4,1.2,95.7,2025,11,2025-11
+488,Edifício Costa Norte,Colatina,2025-06-28,Equipe D,9,Pintura,Normal,86.3,36.9,56.5,85,5567.65,0,1.3,95.5,2025,6,2025-06
+489,Residencial Vitória Park,Colatina,2025-06-29,Equipe C,7,Acabamento,Normal,61.9,39.4,40.8,110,4296.93,0,1.9,94.8,2025,6,2025-06
+490,Condomínio Morada do Sol,Vila Velha,2025-02-03,Equipe A,9,Alvenaria,Normal,74.9,44.2,80.1,180,14709.32,6,1.5,97.4,2025,2,2025-02
+491,Edifício Horizonte,Linhares,2026-05-24,Equipe E,5,Instalações Elétricas,Normal,43.3,68.3,56.9,155,8750.41,8,2.1,94.4,2026,5,2026-05
+492,Condomínio Vila Verde,Vila Velha,2025-04-01,Equipe C,7,Revestimento,Chuva,47.1,36.9,46.0,120,5584.26,3,2.2,96.1,2025,4,2025-04
+493,Edifício Horizonte,Cariacica,2025-09-13,Equipe C,7,Fundação,Normal,60.9,75.5,101.9,320,30508.13,0,0.5,97.4,2025,9,2025-09
+494,Edifício Horizonte,Serra,2026-01-31,Equipe A,7,Estrutura,Normal,47.2,78.2,59.7,410,18740.67,8,2.3,91.9,2026,1,2026-01
+495,Residencial Monte Belo,Vila Velha,2025-12-26,Equipe D,10,Pintura,Normal,80.1,33.1,59.7,85,5844.72,2,3.2,90.1,2025,12,2025-12
+496,Condomínio Vila Verde,Cariacica,2026-04-08,Equipe B,10,Acabamento,Normal,70.6,35.2,39.2,110,4155.2,1,1.9,93.8,2026,4,2026-04
+497,Residencial Jardim das Acácias,Serra,2025-04-18,Equipe C,7,Fundação,Normal,56.4,76.9,87.4,320,25093.82,4,0.0,100.0,2025,4,2025-04
+498,Edifício Costa Norte,Cariacica,2025-12-13,Equipe A,7,Alvenaria,Normal,65.7,61.5,55.1,180,9631.32,1,0.0,99.0,2025,12,2025-12
+499,Edifício Atlântico,Cariacica,2026-03-21,Equipe D,9,Fundação,Normal,82.7,106.4,97.0,320,27072.84,1,0.7,98.8,2026,3,2026-03
+500,Condomínio Vila Verde,Serra,2025-09-29,Equipe B,11,Instalações Elétricas,Normal,84.3,60.1,58.4,155,9642.55,1,0.8,96.7,2025,9,2025-09
+501,Condomínio Morada do Sol,Vila Velha,2026-05-18,Equipe A,9,Estrutura,Normal,80.3,71.0,85.2,410,35075.08,0,0.0,100.0,2026,5,2026-05
+502,Edifício Horizonte,Vitória,2026-05-07,Equipe A,8,Pintura,Normal,63.6,45.8,46.1,85,4301.2,0,4.1,83.4,2026,5,2026-05
+503,Residencial Jardim das Acácias,Vila Velha,2026-04-30,Equipe C,6,Alvenaria,Chuva,51.0,70.6,65.6,180,12208.9,8,0.0,100.0,2026,4,2026-04
+504,Condomínio Morada do Sol,Cariacica,2025-04-04,Equipe D,9,Pavimentação,Normal,54.5,49.6,58.6,130,7263.44,0,0.8,100.0,2025,4,2025-04
+505,Residencial Monte Belo,Vila Velha,2025-07-11,Equipe D,9,Revestimento,Normal,59.2,38.9,51.2,120,7057.1,1,0.5,100.0,2025,7,2025-07
+506,Condomínio Morada do Sol,Cariacica,2025-10-03,Equipe C,7,Pavimentação,Normal,67.2,67.3,70.2,130,9090.2,1,1.4,98.4,2025,10,2025-10
+507,Edifício Costa Norte,Colatina,2026-02-28,Equipe A,8,Estrutura,Chuva intensa,70.2,64.5,97.1,410,40808.29,10,2.8,85.8,2026,2,2026-02
+508,Edifício Atlântico,Vila Velha,2026-06-20,Equipe A,9,Cobertura,Normal,71.7,52.5,41.3,210,8913.56,9,0.0,99.9,2026,6,2026-06
+509,Residencial Vitória Park,Colatina,2026-05-03,Equipe E,6,Pavimentação,Normal,52.5,61.3,69.9,130,8142.52,2,0.1,95.3,2026,5,2026-05
+510,Residencial Monte Belo,Colatina,2025-05-04,Equipe E,6,Fundação,Chuva intensa,56.4,111.4,112.3,320,36594.56,11,1.3,94.6,2025,5,2025-05
+511,Condomínio Alameda,Vila Velha,2025-05-10,Equipe B,10,Alvenaria,Normal,77.9,80.4,69.0,180,12612.81,0,1.3,94.2,2025,5,2025-05
+512,Condomínio Vila Verde,Colatina,2025-09-22,Equipe B,10,Pintura,Normal,75.5,35.8,40.8,85,4057.5,5,4.3,83.8,2025,9,2025-09
+513,Condomínio Vila Verde,Vitória,2025-11-30,Equipe E,7,Pintura,Chuva,56.5,32.2,45.8,85,3607.06,8,1.5,97.3,2025,11,2025-11
+514,Residencial Vitória Park,Cariacica,2025-04-26,Equipe E,7,Fundação,Normal,60.2,134.4,84.0,320,29587.86,5,0.0,100.0,2025,4,2025-04
+515,Edifício Costa Norte,Linhares,2025-04-19,Equipe E,5,Acabamento,Normal,42.4,36.4,41.7,110,4323.12,8,2.0,95.2,2025,4,2025-04
+516,Condomínio Vila Verde,Serra,2025-09-28,Equipe C,8,Cobertura,Normal,58.5,49.9,52.7,210,9872.14,0,1.0,97.0,2025,9,2025-09
+517,Condomínio Alameda,Linhares,2025-06-26,Equipe D,8,Acabamento,Normal,62.7,40.7,46.4,110,5403.97,0,1.7,96.9,2025,6,2025-06
+518,Edifício Costa Norte,Linhares,2026-02-10,Equipe D,8,Acabamento,Chuva,70.3,28.6,50.0,110,4629.58,5,4.3,84.3,2026,2,2026-02
+519,Edifício Horizonte,Colatina,2025-10-03,Equipe A,9,Instalações Elétricas,Chuva,66.2,62.6,37.1,155,5459.41,6,0.2,98.9,2025,10,2025-10
+520,Residencial Jardim das Acácias,Serra,2026-05-19,Equipe C,7,Instalações Hidráulicas,Chuva,61.2,55.9,54.0,145,7617.57,6,0.9,98.0,2026,5,2026-05
+521,Condomínio Vila Verde,Vila Velha,2025-11-25,Equipe C,8,Alvenaria,Normal,60.5,62.9,56.9,180,10213.32,0,0.0,100.0,2025,11,2025-11
+522,Residencial Monte Belo,Linhares,2025-08-05,Equipe B,11,Estrutura,Chuva,89.5,91.3,73.3,410,31034.06,6,1.5,93.5,2025,8,2025-08
+523,Residencial Monte Belo,Colatina,2025-02-27,Equipe E,6,Pavimentação,Normal,49.0,63.9,66.2,130,7169.5,2,3.7,87.4,2025,2,2025-02
+524,Edifício Costa Norte,Vitória,2025-05-19,Equipe E,7,Instalações Hidráulicas,Chuva,50.9,55.5,45.1,145,7163.49,1,1.9,95.1,2025,5,2025-05
+525,Residencial Vitória Park,Linhares,2025-07-25,Equipe B,10,Fundação,Chuva,79.0,100.8,105.4,320,36081.72,1,2.0,93.5,2025,7,2025-07
+526,Residencial Parque Azul,Vitória,2025-07-23,Equipe A,8,Pavimentação,Normal,64.5,60.8,64.1,130,9127.44,1,0.0,99.2,2025,7,2025-07
+527,Condomínio Alameda,Linhares,2025-09-05,Equipe A,7,Pintura,Normal,57.3,51.3,54.4,85,4309.37,9,2.3,95.2,2025,9,2025-09
+528,Edifício Atlântico,Cariacica,2025-12-19,Equipe D,9,Alvenaria,Normal,70.9,71.2,74.0,180,14618.11,5,2.0,93.0,2025,12,2025-12
+529,Condomínio Morada do Sol,Colatina,2026-01-31,Equipe C,6,Estrutura,Normal,44.0,84.8,77.5,410,31208.84,5,2.7,89.5,2026,1,2026-01
+530,Edifício Atlântico,Vila Velha,2025-10-03,Equipe B,10,Instalações Elétricas,Normal,74.1,53.6,47.5,155,7053.53,6,1.5,95.3,2025,10,2025-10
+531,Residencial Vitória Park,Vitória,2025-06-27,Equipe D,9,Fundação,Normal,61.9,72.5,84.4,320,22400.23,5,0.8,100.0,2025,6,2025-06
+532,Residencial Jardim das Acácias,Vila Velha,2025-10-09,Equipe E,6,Instalações Hidráulicas,Normal,64.2,50.3,63.2,145,9893.88,7,0.0,96.4,2025,10,2025-10
+533,Residencial Monte Belo,Serra,2026-04-23,Equipe C,7,Pavimentação,Normal,51.6,66.3,63.3,130,8933.25,0,0.0,100.0,2026,4,2026-04
+534,Residencial Vitória Park,Linhares,2025-01-08,Equipe E,5,Pintura,Normal,34.2,26.7,43.1,85,3895.96,1,1.5,94.9,2025,1,2025-01
+535,Edifício Horizonte,Linhares,2025-11-02,Equipe E,6,Acabamento,Normal,45.4,28.8,37.8,110,4331.4,2,2.2,91.0,2025,11,2025-11
+536,Condomínio Alameda,Vitória,2025-10-11,Equipe C,7,Revestimento,Normal,54.7,29.2,52.7,120,7046.89,0,1.3,96.5,2025,10,2025-10
+537,Condomínio Morada do Sol,Vila Velha,2025-02-28,Equipe E,6,Alvenaria,Chuva,56.8,59.8,74.1,180,11237.08,5,3.5,89.4,2025,2,2025-02
+538,Edifício Atlântico,Cariacica,2026-05-25,Equipe B,9,Revestimento,Chuva intensa,71.8,50.8,52.6,120,5901.46,10,2.3,89.7,2026,5,2026-05
+539,Condomínio Morada do Sol,Cariacica,2025-07-14,Equipe D,8,Pintura,Normal,57.2,51.9,47.8,85,3883.28,5,1.4,94.0,2025,7,2025-07
+540,Residencial Parque Azul,Colatina,2026-06-04,Equipe D,9,Cobertura,Normal,66.7,39.5,50.0,210,8961.84,0,0.0,99.8,2026,6,2026-06
+541,Edifício Costa Norte,Colatina,2025-04-10,Equipe B,10,Cobertura,Normal,78.9,54.6,44.0,210,8373.48,3,0.3,99.7,2025,4,2025-04
+542,Condomínio Morada do Sol,Colatina,2025-04-02,Equipe B,10,Cobertura,Normal,73.8,59.9,54.4,210,11959.71,0,1.3,95.4,2025,4,2025-04
+543,Residencial Parque Azul,Colatina,2026-01-16,Equipe D,9,Instalações Hidráulicas,Normal,72.1,49.0,47.0,145,6930.63,0,0.0,97.2,2026,1,2026-01
+544,Condomínio Morada do Sol,Cariacica,2025-03-14,Equipe D,8,Estrutura,Normal,52.8,62.5,63.9,410,24327.79,3,1.0,92.9,2025,3,2025-03
+545,Residencial Parque Azul,Linhares,2026-02-28,Equipe D,9,Estrutura,Normal,76.6,91.7,71.2,410,30173.3,0,1.1,94.0,2026,2,2026-02
+546,Edifício Costa Norte,Vila Velha,2026-04-14,Equipe C,8,Instalações Elétricas,Normal,51.4,51.2,39.2,155,5882.7,0,0.5,98.9,2026,4,2026-04
+547,Edifício Costa Norte,Vitória,2025-11-17,Equipe C,7,Pavimentação,Normal,55.7,62.0,59.3,130,8431.62,0,1.6,97.2,2025,11,2025-11
+548,Residencial Jardim das Acácias,Cariacica,2025-06-12,Equipe B,10,Instalações Hidráulicas,Normal,83.4,50.1,46.7,145,7332.77,0,0.0,99.2,2025,6,2025-06
+549,Condomínio Vila Verde,Vila Velha,2026-02-18,Equipe D,10,Acabamento,Normal,88.7,40.6,42.8,110,4591.13,0,1.1,98.4,2026,2,2026-02
+550,Condomínio Alameda,Cariacica,2026-01-18,Equipe A,8,Fundação,Chuva intensa,54.4,122.5,88.8,320,30895.83,7,0.8,91.6,2026,1,2026-01
+551,Edifício Horizonte,Linhares,2025-09-12,Equipe A,7,Instalações Elétricas,Normal,52.3,59.9,53.4,155,7543.89,0,0.8,94.6,2025,9,2025-09
+552,Edifício Horizonte,Serra,2026-05-31,Equipe A,9,Alvenaria,Normal,76.1,56.5,70.4,180,12213.83,0,1.0,96.4,2026,5,2026-05
+553,Edifício Costa Norte,Vitória,2026-04-12,Equipe C,7,Fundação,Chuva,53.4,82.5,94.1,320,34095.5,5,2.2,90.2,2026,4,2026-04
+554,Edifício Atlântico,Linhares,2025-12-17,Equipe D,9,Revestimento,Chuva intensa,73.1,38.5,44.1,120,4978.98,12,3.1,87.6,2025,12,2025-12
+555,Condomínio Alameda,Serra,2025-01-20,Equipe B,11,Instalações Elétricas,Normal,77.3,53.1,45.1,155,7088.67,0,0.0,99.9,2025,1,2025-01
+556,Edifício Costa Norte,Vila Velha,2025-05-07,Equipe E,6,Fundação,Normal,51.8,57.4,100.5,320,32528.04,4,1.8,95.4,2025,5,2025-05
+557,Residencial Jardim das Acácias,Cariacica,2025-02-19,Equipe E,5,Instalações Hidráulicas,Normal,34.4,34.1,39.2,145,6139.46,6,1.9,94.8,2025,2,2025-02
+558,Residencial Jardim das Acácias,Vitória,2026-01-25,Equipe D,10,Estrutura,Normal,82.7,72.0,77.3,410,35924.83,0,2.9,90.1,2026,1,2026-01
+559,Condomínio Morada do Sol,Cariacica,2025-11-05,Equipe B,9,Alvenaria,Normal,81.3,48.5,82.5,180,13974.72,0,1.3,97.9,2025,11,2025-11
+560,Condomínio Vila Verde,Colatina,2026-03-05,Equipe C,7,Cobertura,Chuva,50.1,42.4,45.2,210,9425.61,6,2.1,93.2,2026,3,2026-03
+561,Condomínio Vila Verde,Linhares,2025-04-27,Equipe A,8,Acabamento,Chuva,77.0,39.5,50.4,110,4829.24,4,1.6,96.8,2025,4,2025-04
+562,Condomínio Alameda,Vila Velha,2026-06-20,Equipe B,10,Acabamento,Chuva intensa,83.2,29.9,46.4,110,5378.2,13,3.1,88.6,2026,6,2026-06
+563,Edifício Horizonte,Colatina,2025-02-10,Equipe C,7,Pintura,Normal,56.4,44.9,57.4,85,4358.79,0,1.1,97.2,2025,2,2025-02
+564,Residencial Parque Azul,Colatina,2025-01-03,Equipe C,7,Pavimentação,Normal,64.6,53.6,53.3,130,6700.5,4,1.6,95.7,2025,1,2025-01
+565,Condomínio Vila Verde,Vitória,2025-04-03,Equipe D,9,Acabamento,Chuva,70.0,29.3,45.1,110,4629.89,11,2.7,90.2,2025,4,2025-04
+566,Condomínio Vila Verde,Colatina,2026-04-13,Equipe C,7,Estrutura,Chuva intensa,51.7,78.7,68.1,410,30415.65,9,0.1,100.0,2026,4,2026-04
+567,Condomínio Morada do Sol,Serra,2025-06-28,Equipe A,7,Pavimentação,Chuva,56.3,68.3,60.4,130,8080.09,5,0.0,100.0,2025,6,2025-06
+568,Condomínio Morada do Sol,Serra,2025-04-08,Equipe D,8,Revestimento,Chuva,73.0,44.6,52.3,120,6450.5,5,2.4,92.7,2025,4,2025-04
+569,Residencial Jardim das Acácias,Vitória,2026-01-02,Equipe B,10,Alvenaria,Chuva,83.5,81.9,76.1,180,12547.75,9,3.0,96.7,2026,1,2026-01
+570,Edifício Atlântico,Serra,2025-07-07,Equipe C,7,Estrutura,Normal,48.1,83.5,49.0,410,20979.02,0,3.3,87.9,2025,7,2025-07
+571,Residencial Monte Belo,Cariacica,2026-03-08,Equipe D,10,Instalações Hidráulicas,Normal,68.2,47.6,31.1,145,4780.47,0,1.0,92.6,2026,3,2026-03
+572,Edifício Costa Norte,Vitória,2025-04-17,Equipe A,8,Alvenaria,Normal,61.8,84.2,68.8,180,11528.52,1,1.0,97.7,2025,4,2025-04
+573,Edifício Atlântico,Cariacica,2026-01-24,Equipe D,9,Acabamento,Chuva,62.4,42.1,25.6,110,2674.1,3,2.8,91.1,2026,1,2026-01
+574,Edifício Atlântico,Vitória,2025-04-26,Equipe D,10,Alvenaria,Chuva,70.2,53.5,61.3,180,10964.21,3,0.4,100.0,2025,4,2025-04
+575,Condomínio Alameda,Vitória,2025-01-13,Equipe C,7,Estrutura,Normal,52.4,78.7,89.6,410,32551.97,0,1.9,92.6,2025,1,2025-01
+576,Residencial Vitória Park,Colatina,2025-12-13,Equipe E,6,Acabamento,Normal,45.8,32.7,40.4,110,5012.31,4,3.0,87.6,2025,12,2025-12
+577,Edifício Atlântico,Vitória,2025-12-21,Equipe B,11,Pintura,Normal,79.9,20.5,40.6,85,3715.13,3,1.7,94.5,2025,12,2025-12
+578,Residencial Monte Belo,Vila Velha,2025-01-12,Equipe E,5,Cobertura,Normal,35.2,60.1,49.0,210,8959.8,2,2.1,92.4,2025,1,2025-01
+579,Edifício Costa Norte,Linhares,2025-03-18,Equipe D,9,Pavimentação,Chuva,76.9,90.4,68.3,130,9158.37,2,1.2,97.1,2025,3,2025-03
+580,Edifício Horizonte,Vila Velha,2026-06-04,Equipe C,6,Revestimento,Normal,49.4,39.2,55.7,120,7465.87,3,3.2,89.3,2026,6,2026-06
+581,Residencial Monte Belo,Cariacica,2026-03-31,Equipe A,9,Instalações Elétricas,Chuva,77.2,57.8,47.0,155,7470.63,2,0.2,99.7,2026,3,2026-03
+582,Condomínio Alameda,Vitória,2025-05-02,Equipe D,9,Pavimentação,Chuva intensa,74.1,47.2,75.1,130,10209.76,6,0.0,96.7,2025,5,2025-05
+583,Residencial Jardim das Acácias,Vitória,2025-01-01,Equipe D,8,Pintura,Chuva,60.9,42.9,45.1,85,3217.85,3,1.6,96.1,2025,1,2025-01
+584,Edifício Atlântico,Linhares,2026-04-13,Equipe E,6,Instalações Hidráulicas,Chuva intensa,43.1,67.7,33.1,145,5302.94,7,2.0,90.8,2026,4,2026-04
+585,Edifício Horizonte,Vitória,2026-04-30,Equipe D,9,Instalações Elétricas,Normal,80.0,51.2,47.7,155,8233.7,1,1.3,98.3,2026,4,2026-04
+586,Edifício Horizonte,Colatina,2025-08-16,Equipe A,7,Pavimentação,Normal,48.8,66.4,52.5,130,6752.84,2,0.0,98.4,2025,8,2025-08
+587,Edifício Horizonte,Colatina,2025-04-19,Equipe E,6,Instalações Hidráulicas,Normal,57.5,60.3,56.9,145,8410.97,1,2.6,91.3,2025,4,2025-04
+588,Edifício Costa Norte,Cariacica,2025-09-18,Equipe D,8,Alvenaria,Normal,65.6,78.4,63.4,180,12835.11,0,3.0,89.7,2025,9,2025-09
+589,Residencial Parque Azul,Vitória,2025-07-15,Equipe B,11,Pintura,Normal,86.3,27.7,46.0,85,3584.75,0,1.8,96.2,2025,7,2025-07
+590,Condomínio Vila Verde,Cariacica,2026-04-07,Equipe E,5,Fundação,Normal,41.5,100.3,85.6,320,25461.95,7,0.1,100.0,2026,4,2026-04
+591,Edifício Atlântico,Linhares,2025-02-19,Equipe D,8,Alvenaria,Normal,62.3,65.0,75.0,180,14873.64,1,0.5,98.3,2025,2,2025-02
+592,Residencial Monte Belo,Linhares,2025-06-27,Equipe E,6,Pavimentação,Chuva,50.4,69.6,68.1,130,9291.32,9,1.5,95.8,2025,6,2025-06
+593,Edifício Costa Norte,Vitória,2026-06-01,Equipe E,6,Pintura,Chuva,37.4,22.1,40.4,85,3407.95,3,2.3,92.5,2026,6,2026-06
+594,Residencial Monte Belo,Linhares,2025-12-18,Equipe C,8,Instalações Elétricas,Chuva intensa,71.9,55.9,50.6,155,8464.27,7,1.6,90.9,2025,12,2025-12
+595,Condomínio Alameda,Vila Velha,2025-11-18,Equipe D,9,Alvenaria,Normal,67.5,66.0,64.1,180,11980.9,1,0.0,99.1,2025,11,2025-11
+596,Residencial Vitória Park,Colatina,2025-10-25,Equipe B,10,Instalações Elétricas,Normal,85.6,52.1,51.4,155,8595.68,0,0.0,99.7,2025,10,2025-10
+597,Edifício Costa Norte,Colatina,2025-04-29,Equipe E,6,Alvenaria,Chuva,44.6,53.7,62.1,180,11617.52,4,1.4,99.1,2025,4,2025-04
+598,Residencial Vitória Park,Cariacica,2025-10-20,Equipe E,7,Acabamento,Chuva,53.6,39.9,39.3,110,4030.29,3,1.4,96.2,2025,10,2025-10
+599,Residencial Monte Belo,Vitória,2026-01-26,Equipe A,7,Cobertura,Normal,72.4,50.5,62.7,210,13100.51,3,1.3,98.4,2026,1,2026-01
+600,Residencial Jardim das Acácias,Vila Velha,2025-09-14,Equipe B,10,Instalações Hidráulicas,Normal,63.0,29.7,35.4,145,5583.6,0,0.0,100.0,2025,9,2025-09
+601,Residencial Jardim das Acácias,Colatina,2026-01-03,Equipe B,9,Instalações Hidráulicas,Chuva,73.7,41.8,43.2,145,5778.04,5,0.2,100.0,2026,1,2026-01
+602,Condomínio Vila Verde,Linhares,2025-09-01,Equipe B,11,Cobertura,Normal,68.0,49.1,34.1,210,7014.15,0,2.0,89.9,2025,9,2025-09
+603,Condomínio Morada do Sol,Colatina,2026-03-03,Equipe D,10,Fundação,Chuva intensa,80.3,104.5,116.6,320,35873.95,9,0.0,92.2,2026,3,2026-03
+604,Edifício Horizonte,Linhares,2025-07-27,Equipe A,8,Fundação,Normal,69.9,94.9,118.4,320,33725.16,3,3.2,90.6,2025,7,2025-07
+605,Condomínio Alameda,Vila Velha,2025-07-18,Equipe E,6,Revestimento,Normal,49.9,48.1,44.5,120,5919.1,0,2.6,88.6,2025,7,2025-07
+606,Edifício Costa Norte,Colatina,2026-06-11,Equipe B,10,Estrutura,Normal,71.7,100.7,65.3,410,29885.68,1,0.0,100.0,2026,6,2026-06
+607,Residencial Jardim das Acácias,Cariacica,2025-05-14,Equipe E,6,Instalações Hidráulicas,Normal,43.9,58.5,43.9,145,5579.68,2,3.6,89.5,2025,5,2025-05
+608,Condomínio Morada do Sol,Vitória,2025-02-10,Equipe D,9,Revestimento,Normal,71.6,57.3,53.8,120,6564.22,0,2.3,94.7,2025,2,2025-02
+609,Edifício Horizonte,Linhares,2026-05-18,Equipe E,6,Fundação,Chuva,42.1,119.4,82.4,320,24495.3,7,0.7,99.3,2026,5,2026-05
+610,Residencial Vitória Park,Serra,2025-07-08,Equipe C,7,Estrutura,Normal,54.0,79.1,77.6,410,32556.41,0,0.0,100.0,2025,7,2025-07
+611,Residencial Vitória Park,Vila Velha,2025-04-05,Equipe E,7,Pintura,Normal,55.1,38.0,40.8,85,3168.44,0,1.9,92.7,2025,4,2025-04
+612,Residencial Parque Azul,Colatina,2025-10-28,Equipe C,7,Revestimento,Normal,49.2,47.4,48.4,120,6780.58,0,3.4,91.1,2025,10,2025-10
+613,Edifício Atlântico,Linhares,2025-04-28,Equipe E,5,Pavimentação,Normal,34.5,62.2,52.8,130,6965.97,6,1.7,95.6,2025,4,2025-04
+614,Condomínio Alameda,Vila Velha,2025-02-10,Equipe E,6,Acabamento,Normal,45.0,27.8,39.9,110,4812.66,0,0.7,98.0,2025,2,2025-02
+615,Edifício Horizonte,Cariacica,2025-10-17,Equipe D,9,Estrutura,Normal,65.1,68.6,65.2,410,23811.55,0,1.8,91.6,2025,10,2025-10
+616,Residencial Vitória Park,Serra,2026-05-14,Equipe E,7,Cobertura,Normal,44.8,51.4,44.4,210,9177.11,0,1.1,93.0,2026,5,2026-05
+617,Residencial Parque Azul,Serra,2025-06-21,Equipe A,7,Cobertura,Chuva intensa,59.5,62.0,51.6,210,11708.02,5,2.4,89.6,2025,6,2025-06
+618,Residencial Vitória Park,Linhares,2025-08-07,Equipe A,8,Fundação,Chuva,61.6,94.7,90.3,320,31716.9,1,0.1,100.0,2025,8,2025-08
+619,Residencial Monte Belo,Vitória,2025-03-15,Equipe E,7,Instalações Elétricas,Chuva,51.8,63.9,55.1,155,8265.98,7,0.0,100.0,2025,3,2025-03
+620,Edifício Costa Norte,Vitória,2025-03-31,Equipe C,6,Pavimentação,Normal,49.4,65.1,61.5,130,6932.57,3,0.0,99.4,2025,3,2025-03
+621,Edifício Costa Norte,Serra,2025-09-22,Equipe A,8,Cobertura,Normal,70.6,60.0,69.5,210,15791.92,0,1.0,96.7,2025,9,2025-09
+622,Condomínio Alameda,Colatina,2025-01-18,Equipe D,9,Pintura,Normal,60.9,34.9,39.1,85,2782.11,2,1.7,91.2,2025,1,2025-01
+623,Condomínio Vila Verde,Linhares,2025-02-16,Equipe E,5,Fundação,Normal,42.8,107.2,104.4,320,32541.88,3,1.8,94.9,2025,2,2025-02
+624,Condomínio Vila Verde,Serra,2025-11-05,Equipe A,8,Cobertura,Normal,58.2,60.9,53.1,210,10618.76,8,0.4,98.8,2025,11,2025-11
+625,Condomínio Morada do Sol,Cariacica,2026-05-01,Equipe D,8,Pintura,Normal,59.3,43.7,36.3,85,2950.72,0,2.2,94.9,2026,5,2026-05
+626,Residencial Parque Azul,Vila Velha,2025-05-28,Equipe E,6,Pintura,Normal,52.5,24.1,67.5,85,5873.03,0,2.2,93.3,2025,5,2025-05
+627,Edifício Horizonte,Vitória,2025-05-07,Equipe E,6,Cobertura,Normal,43.3,60.1,42.7,210,8676.93,0,0.0,100.0,2025,5,2025-05
+628,Edifício Atlântico,Linhares,2025-11-09,Equipe E,5,Pintura,Normal,44.1,45.9,60.0,85,5232.33,0,3.0,87.7,2025,11,2025-11
+629,Edifício Horizonte,Vila Velha,2025-06-14,Equipe E,6,Pintura,Normal,41.7,34.7,48.6,85,4442.57,3,3.3,87.7,2025,6,2025-06
+630,Edifício Atlântico,Serra,2025-02-25,Equipe A,8,Instalações Elétricas,Chuva,66.4,53.8,56.6,155,8692.13,3,1.6,96.6,2025,2,2025-02
+631,Residencial Vitória Park,Cariacica,2025-03-10,Equipe A,8,Cobertura,Normal,59.3,57.4,41.3,210,6939.75,2,1.7,95.1,2025,3,2025-03
+632,Residencial Parque Azul,Colatina,2026-01-01,Equipe D,9,Acabamento,Normal,58.4,35.6,26.0,110,3173.39,0,3.5,90.7,2026,1,2026-01
+633,Residencial Parque Azul,Vitória,2025-07-18,Equipe E,5,Instalações Hidráulicas,Normal,33.7,41.4,42.0,145,5678.65,2,0.4,95.2,2025,7,2025-07
+634,Condomínio Alameda,Serra,2026-01-09,Equipe C,7,Acabamento,Chuva,40.4,39.6,29.4,110,3090.9,7,3.4,88.6,2026,1,2026-01
+635,Residencial Monte Belo,Vila Velha,2025-08-15,Equipe C,7,Fundação,Normal,53.6,103.6,76.1,320,24786.74,3,1.8,90.4,2025,8,2025-08
+636,Residencial Monte Belo,Serra,2026-05-07,Equipe B,10,Revestimento,Normal,74.7,40.4,49.9,120,6218.3,6,1.4,94.5,2026,5,2026-05
+637,Edifício Horizonte,Serra,2025-06-29,Equipe E,5,Pavimentação,Normal,48.0,63.2,89.6,130,11917.05,0,0.0,96.9,2025,6,2025-06
+638,Condomínio Vila Verde,Serra,2025-09-27,Equipe E,6,Alvenaria,Chuva,52.6,78.9,91.4,180,17561.66,8,0.3,96.7,2025,9,2025-09
+639,Condomínio Vila Verde,Colatina,2026-02-19,Equipe A,7,Estrutura,Chuva,62.0,86.0,85.2,410,36014.53,5,2.5,94.6,2026,2,2026-02
+640,Residencial Parque Azul,Vitória,2025-06-02,Equipe C,8,Cobertura,Normal,67.8,66.8,57.4,210,11609.28,4,0.0,100.0,2025,6,2025-06
+641,Residencial Parque Azul,Linhares,2026-05-29,Equipe B,11,Instalações Hidráulicas,Normal,79.6,54.7,38.9,145,5890.21,1,0.0,100.0,2026,5,2026-05
+642,Residencial Monte Belo,Serra,2025-06-19,Equipe A,8,Cobertura,Chuva,60.0,67.2,47.9,210,10377.2,2,0.3,98.1,2025,6,2025-06
+643,Edifício Costa Norte,Cariacica,2026-05-11,Equipe B,10,Alvenaria,Chuva,86.0,84.6,66.3,180,12962.09,0,0.0,98.1,2026,5,2026-05
+644,Residencial Jardim das Acácias,Vila Velha,2025-09-28,Equipe B,9,Pavimentação,Normal,62.5,42.9,59.0,130,7538.65,3,1.8,94.8,2025,9,2025-09
+645,Residencial Jardim das Acácias,Colatina,2026-02-02,Equipe E,6,Instalações Elétricas,Normal,52.6,54.3,46.5,155,7817.44,0,0.0,99.6,2026,2,2026-02
+646,Condomínio Alameda,Vitória,2026-06-18,Equipe C,6,Fundação,Normal,41.6,87.9,85.7,320,28188.23,0,0.4,100.0,2026,6,2026-06
+647,Condomínio Morada do Sol,Colatina,2026-01-21,Equipe E,6,Instalações Hidráulicas,Normal,51.5,71.4,58.6,145,9274.84,0,1.9,93.8,2026,1,2026-01
+648,Edifício Horizonte,Linhares,2026-01-21,Equipe E,6,Estrutura,Chuva intensa,44.1,82.4,77.7,410,33133.4,5,1.9,89.6,2026,1,2026-01
+649,Residencial Parque Azul,Linhares,2026-05-14,Equipe C,7,Pintura,Chuva,57.5,39.7,49.6,85,4474.44,1,4.3,82.6,2026,5,2026-05
+650,Edifício Atlântico,Vitória,2025-06-19,Equipe B,11,Cobertura,Normal,83.8,61.9,52.0,210,10832.22,1,1.5,94.7,2025,6,2025-06
+651,Residencial Vitória Park,Colatina,2025-07-11,Equipe B,10,Instalações Hidráulicas,Normal,89.8,59.9,59.3,145,7933.9,1,0.6,96.1,2025,7,2025-07
+652,Edifício Atlântico,Colatina,2025-12-05,Equipe B,11,Estrutura,Chuva,90.5,72.3,84.3,410,31603.88,10,0.0,100.0,2025,12,2025-12
+653,Condomínio Alameda,Colatina,2025-06-15,Equipe D,9,Pavimentação,Normal,77.5,53.8,76.9,130,9013.95,6,1.0,95.6,2025,6,2025-06
+654,Residencial Monte Belo,Vitória,2025-06-14,Equipe A,8,Instalações Elétricas,Normal,61.9,63.0,44.5,155,6484.0,1,0.0,100.0,2025,6,2025-06
+655,Residencial Vitória Park,Vitória,2025-06-20,Equipe B,9,Acabamento,Normal,68.0,43.7,42.3,110,4286.52,1,2.9,90.3,2025,6,2025-06
+656,Edifício Costa Norte,Linhares,2025-10-18,Equipe E,5,Pintura,Chuva intensa,48.4,49.7,66.6,85,5452.83,5,1.3,93.2,2025,10,2025-10
+657,Residencial Parque Azul,Cariacica,2025-06-24,Equipe D,10,Acabamento,Normal,83.8,23.1,45.7,110,5090.58,1,3.5,89.6,2025,6,2025-06
+658,Residencial Monte Belo,Linhares,2026-06-08,Equipe E,6,Alvenaria,Normal,57.2,62.5,90.5,180,18420.82,5,0.0,99.5,2026,6,2026-06
+659,Edifício Horizonte,Cariacica,2025-08-24,Equipe E,5,Acabamento,Normal,37.6,41.3,44.5,110,4566.49,2,0.0,100.0,2025,8,2025-08
+660,Edifício Costa Norte,Vitória,2025-06-03,Equipe B,11,Fundação,Normal,84.4,96.0,87.7,320,30636.97,0,1.0,96.6,2025,6,2025-06
+661,Edifício Costa Norte,Cariacica,2026-05-31,Equipe E,5,Acabamento,Chuva,36.8,49.8,35.9,110,4192.83,6,3.5,87.5,2026,5,2026-05
+662,Condomínio Vila Verde,Cariacica,2026-03-18,Equipe E,5,Alvenaria,Normal,34.9,77.8,62.6,180,9875.33,0,1.5,96.9,2026,3,2026-03
+663,Edifício Horizonte,Vitória,2026-05-09,Equipe D,9,Cobertura,Chuva,67.2,27.6,50.6,210,9588.63,0,0.0,100.0,2026,5,2026-05
+664,Residencial Monte Belo,Serra,2026-03-12,Equipe E,5,Acabamento,Normal,40.9,36.5,52.1,110,6023.2,6,0.3,99.0,2026,3,2026-03
+665,Condomínio Alameda,Vila Velha,2025-09-21,Equipe C,8,Estrutura,Normal,52.7,76.7,60.7,410,26134.56,2,1.7,96.0,2025,9,2025-09
+666,Residencial Jardim das Acácias,Linhares,2026-01-20,Equipe A,7,Cobertura,Normal,71.1,54.7,57.5,210,12312.72,0,2.8,90.5,2026,1,2026-01
+667,Edifício Horizonte,Cariacica,2026-03-13,Equipe A,8,Revestimento,Normal,60.0,43.9,53.8,120,6374.53,0,4.0,85.5,2026,3,2026-03
+668,Condomínio Morada do Sol,Serra,2025-10-10,Equipe D,9,Cobertura,Chuva intensa,72.2,64.8,41.2,210,8984.42,5,2.0,88.7,2025,10,2025-10
+669,Residencial Monte Belo,Vila Velha,2025-07-03,Equipe E,7,Pintura,Normal,60.8,50.4,59.4,85,5150.51,1,1.3,98.8,2025,7,2025-07
+670,Residencial Vitória Park,Cariacica,2026-02-12,Equipe C,7,Instalações Hidráulicas,Chuva,51.1,42.3,47.1,145,6394.52,2,0.0,99.0,2026,2,2026-02
+671,Condomínio Vila Verde,Colatina,2025-04-13,Equipe D,9,Instalações Elétricas,Normal,71.4,57.4,54.7,155,8835.88,1,0.8,98.5,2025,4,2025-04
+672,Residencial Monte Belo,Serra,2025-06-14,Equipe E,5,Cobertura,Normal,48.9,59.3,58.9,210,11386.54,0,1.8,95.4,2025,6,2025-06
+673,Residencial Jardim das Acácias,Vitória,2025-04-01,Equipe D,10,Alvenaria,Normal,84.0,63.5,83.8,180,14499.8,4,1.0,95.6,2025,4,2025-04
+674,Residencial Parque Azul,Serra,2026-01-29,Equipe E,5,Estrutura,Chuva,44.1,85.9,87.4,410,36067.0,4,3.9,89.9,2026,1,2026-01
+675,Residencial Monte Belo,Linhares,2025-06-29,Equipe C,6,Cobertura,Normal,53.1,59.2,63.3,210,13843.86,2,0.6,97.9,2025,6,2025-06
+676,Condomínio Alameda,Vitória,2025-07-19,Equipe E,6,Instalações Elétricas,Normal,25.8,57.1,25.0,155,4368.73,2,0.0,99.9,2025,7,2025-07
+677,Edifício Atlântico,Linhares,2025-02-06,Equipe B,10,Cobertura,Normal,72.7,62.9,48.0,210,10852.4,0,1.0,94.1,2025,2,2025-02
+678,Residencial Jardim das Acácias,Vila Velha,2025-12-28,Equipe C,8,Estrutura,Normal,68.9,87.5,86.7,410,35551.6,3,2.9,90.1,2025,12,2025-12
+679,Residencial Monte Belo,Linhares,2025-03-12,Equipe E,5,Instalações Elétricas,Chuva,41.0,44.2,45.5,155,7107.69,8,0.7,97.3,2025,3,2025-03
+680,Residencial Vitória Park,Serra,2025-12-22,Equipe E,6,Cobertura,Chuva intensa,45.2,52.4,49.8,210,9205.33,12,0.2,97.8,2025,12,2025-12
+681,Condomínio Morada do Sol,Vila Velha,2026-02-18,Equipe B,11,Acabamento,Normal,79.1,42.6,42.4,110,4807.35,0,2.3,90.3,2026,2,2026-02
+682,Condomínio Morada do Sol,Vila Velha,2025-03-16,Equipe E,5,Pintura,Normal,38.2,49.8,51.9,85,4416.86,0,2.8,91.1,2025,3,2025-03
+683,Edifício Horizonte,Vitória,2026-03-30,Equipe C,7,Cobertura,Chuva intensa,39.8,66.2,36.2,210,8333.28,5,0.0,97.6,2026,3,2026-03
+684,Edifício Atlântico,Cariacica,2026-04-17,Equipe C,8,Instalações Elétricas,Chuva,66.0,38.3,45.1,155,8531.33,4,1.9,92.6,2026,4,2026-04
+685,Residencial Jardim das Acácias,Cariacica,2026-01-27,Equipe C,6,Estrutura,Normal,33.4,77.5,51.2,410,20320.46,1,1.3,95.5,2026,1,2026-01
+686,Residencial Parque Azul,Colatina,2025-12-28,Equipe C,8,Instalações Elétricas,Normal,55.2,59.8,32.7,155,4237.12,4,1.6,94.8,2025,12,2025-12
+687,Residencial Jardim das Acácias,Colatina,2025-04-06,Equipe B,10,Instalações Hidráulicas,Normal,70.2,45.4,40.7,145,5148.05,0,1.8,97.1,2025,4,2025-04
+688,Edifício Horizonte,Vitória,2025-11-18,Equipe B,11,Cobertura,Normal,85.1,65.9,38.0,210,8400.99,0,1.4,95.0,2025,11,2025-11
+689,Edifício Atlântico,Serra,2025-07-24,Equipe B,11,Alvenaria,Normal,97.2,54.8,81.1,180,14271.58,1,0.8,95.7,2025,7,2025-07
+690,Residencial Parque Azul,Serra,2025-09-13,Equipe B,10,Instalações Elétricas,Chuva,79.9,54.4,50.9,155,7942.84,7,2.1,91.2,2025,9,2025-09
+691,Edifício Horizonte,Vila Velha,2026-05-20,Equipe A,7,Estrutura,Normal,62.1,62.9,90.2,410,38815.53,0,1.1,95.5,2026,5,2026-05
+692,Residencial Vitória Park,Vitória,2026-05-20,Equipe C,7,Pavimentação,Chuva,50.7,74.6,54.1,130,6579.3,5,1.8,94.0,2026,5,2026-05
+693,Edifício Atlântico,Serra,2026-02-12,Equipe B,10,Pavimentação,Normal,88.2,65.7,52.8,130,6573.26,0,1.6,89.6,2026,2,2026-02
+694,Edifício Atlântico,Vila Velha,2026-05-05,Equipe E,7,Fundação,Chuva,73.8,104.1,127.4,320,44621.61,12,2.0,95.5,2026,5,2026-05
+695,Residencial Jardim das Acácias,Linhares,2026-04-14,Equipe D,9,Revestimento,Chuva intensa,72.9,46.8,50.4,120,5648.29,6,0.4,95.6,2026,4,2026-04
+696,Residencial Vitória Park,Cariacica,2025-08-04,Equipe A,7,Revestimento,Normal,44.2,49.6,41.5,120,5038.54,0,5.7,84.5,2025,8,2025-08
+697,Condomínio Vila Verde,Serra,2025-07-11,Equipe E,6,Revestimento,Normal,39.3,50.0,40.1,120,4421.47,0,2.5,90.6,2025,7,2025-07
+698,Residencial Parque Azul,Serra,2026-01-10,Equipe E,6,Pavimentação,Normal,54.8,70.7,86.2,130,10441.85,3,1.8,93.3,2026,1,2026-01
+699,Residencial Monte Belo,Vila Velha,2026-02-15,Equipe C,7,Pintura,Normal,50.6,54.2,46.0,85,4108.93,0,0.5,97.3,2026,2,2026-02
+700,Edifício Costa Norte,Linhares,2025-04-13,Equipe E,6,Alvenaria,Chuva,47.1,52.5,66.9,180,10415.36,1,1.8,95.4,2025,4,2025-04
+701,Residencial Parque Azul,Linhares,2025-05-30,Equipe D,9,Pintura,Chuva,69.3,34.3,41.8,85,3446.9,6,3.1,89.1,2025,5,2025-05
+702,Edifício Costa Norte,Cariacica,2026-05-27,Equipe B,11,Fundação,Normal,79.9,99.6,77.7,320,23833.13,5,2.0,93.9,2026,5,2026-05
+703,Residencial Vitória Park,Linhares,2025-09-14,Equipe D,9,Revestimento,Normal,63.1,49.8,52.2,120,6075.76,6,3.6,91.8,2025,9,2025-09
+704,Edifício Atlântico,Vitória,2025-03-03,Equipe A,8,Pintura,Normal,66.1,46.4,59.9,85,5273.73,0,1.5,95.7,2025,3,2025-03
+705,Condomínio Morada do Sol,Cariacica,2025-09-24,Equipe D,9,Estrutura,Normal,63.0,77.9,75.3,410,25460.95,6,2.3,91.7,2025,9,2025-09
+706,Residencial Vitória Park,Linhares,2026-02-26,Equipe C,6,Instalações Hidráulicas,Normal,51.8,52.0,59.2,145,9258.83,0,1.7,94.1,2026,2,2026-02
+707,Edifício Atlântico,Vila Velha,2025-10-19,Equipe E,6,Acabamento,Normal,48.6,33.0,53.5,110,6374.66,0,0.4,97.9,2025,10,2025-10
+708,Residencial Vitória Park,Cariacica,2025-10-21,Equipe A,9,Pavimentação,Normal,75.0,62.6,77.7,130,10739.32,4,1.4,92.7,2025,10,2025-10
+709,Edifício Costa Norte,Vila Velha,2025-03-15,Equipe D,10,Revestimento,Normal,78.6,57.2,51.6,120,6441.21,1,0.8,97.2,2025,3,2025-03
+710,Edifício Horizonte,Vila Velha,2025-10-01,Equipe C,7,Revestimento,Normal,58.2,42.3,53.3,120,5915.3,5,1.6,97.8,2025,10,2025-10
+711,Residencial Monte Belo,Serra,2026-02-28,Equipe C,8,Pavimentação,Normal,74.7,59.1,66.5,130,7202.39,0,0.0,100.0,2026,2,2026-02
+712,Residencial Jardim das Acácias,Vila Velha,2025-08-04,Equipe C,6,Instalações Elétricas,Normal,48.8,58.9,36.9,155,5171.36,4,1.3,95.5,2025,8,2025-08
+713,Condomínio Vila Verde,Vitória,2025-01-27,Equipe D,8,Estrutura,Chuva,68.0,103.6,78.6,410,32404.84,5,3.9,83.3,2025,1,2025-01
+714,Residencial Vitória Park,Vitória,2025-03-28,Equipe C,7,Estrutura,Normal,60.8,78.3,88.1,410,34221.4,1,1.9,100.0,2025,3,2025-03
+715,Residencial Monte Belo,Serra,2026-03-30,Equipe B,10,Instalações Elétricas,Normal,85.7,46.6,50.3,155,7513.7,0,0.6,99.5,2026,3,2026-03
+716,Edifício Costa Norte,Linhares,2026-01-01,Equipe A,7,Alvenaria,Chuva,47.1,77.3,60.8,180,10301.16,4,2.9,92.2,2026,1,2026-01
+717,Edifício Horizonte,Cariacica,2026-04-01,Equipe E,6,Pavimentação,Normal,48.1,57.4,65.5,130,8166.39,0,3.5,89.1,2026,4,2026-04
+718,Residencial Vitória Park,Vila Velha,2026-03-22,Equipe E,7,Acabamento,Normal,58.8,37.6,41.8,110,4529.61,0,4.7,82.5,2026,3,2026-03
+719,Residencial Vitória Park,Serra,2025-04-02,Equipe D,9,Revestimento,Normal,64.8,44.2,54.9,120,6595.65,0,3.5,90.3,2025,4,2025-04
+720,Edifício Horizonte,Cariacica,2025-01-11,Equipe B,10,Instalações Hidráulicas,Normal,83.8,58.7,64.5,145,10987.39,0,2.9,91.5,2025,1,2025-01
+721,Edifício Costa Norte,Serra,2026-05-19,Equipe D,8,Instalações Hidráulicas,Chuva intensa,67.5,36.2,49.4,145,6697.22,10,2.3,85.5,2026,5,2026-05
+722,Condomínio Alameda,Serra,2025-08-25,Equipe D,9,Fundação,Chuva,71.8,114.2,92.6,320,31360.29,6,1.4,95.0,2025,8,2025-08
+723,Residencial Vitória Park,Serra,2026-02-09,Equipe D,10,Instalações Elétricas,Normal,71.5,43.9,48.0,155,7451.58,1,0.5,97.8,2026,2,2026-02
+724,Residencial Monte Belo,Cariacica,2026-03-09,Equipe C,6,Instalações Elétricas,Normal,55.3,51.7,47.9,155,7866.2,1,1.0,100.0,2026,3,2026-03
+725,Residencial Vitória Park,Linhares,2026-02-27,Equipe C,7,Instalações Hidráulicas,Normal,55.9,54.7,41.0,145,5840.53,3,0.0,100.0,2026,2,2026-02
+726,Condomínio Vila Verde,Vila Velha,2026-04-12,Equipe C,6,Alvenaria,Normal,48.7,65.5,77.9,180,14397.16,6,0.0,100.0,2026,4,2026-04
+727,Condomínio Morada do Sol,Colatina,2025-11-25,Equipe D,9,Acabamento,Normal,72.6,30.7,49.1,110,6405.44,1,2.6,91.8,2025,11,2025-11
+728,Residencial Jardim das Acácias,Linhares,2025-10-16,Equipe B,9,Fundação,Normal,67.0,63.9,80.9,320,23005.2,7,0.9,96.4,2025,10,2025-10
+729,Condomínio Alameda,Colatina,2025-06-04,Equipe B,9,Fundação,Normal,78.2,75.8,93.7,320,30147.29,5,1.6,95.4,2025,6,2025-06
+730,Residencial Parque Azul,Serra,2026-01-16,Equipe C,8,Pintura,Normal,64.5,45.0,51.2,85,3993.4,2,0.7,97.9,2026,1,2026-01
+731,Residencial Jardim das Acácias,Serra,2025-09-30,Equipe B,9,Estrutura,Chuva,68.6,116.6,72.1,410,26240.14,4,1.6,98.2,2025,9,2025-09
+732,Condomínio Vila Verde,Linhares,2025-09-14,Equipe B,10,Pavimentação,Chuva,75.9,42.9,67.5,130,7805.82,3,0.7,97.6,2025,9,2025-09
+733,Residencial Jardim das Acácias,Vitória,2025-09-11,Equipe D,10,Instalações Elétricas,Chuva,84.8,48.2,50.7,155,7849.53,5,1.1,97.4,2025,9,2025-09
+734,Residencial Jardim das Acácias,Vila Velha,2026-04-30,Equipe A,8,Pavimentação,Normal,69.9,64.2,74.6,130,8470.45,2,1.6,96.3,2026,4,2026-04
+735,Condomínio Morada do Sol,Serra,2025-09-17,Equipe A,7,Alvenaria,Normal,51.2,57.3,58.1,180,10906.79,5,0.5,100.0,2025,9,2025-09
+736,Condomínio Morada do Sol,Vila Velha,2025-04-26,Equipe A,8,Revestimento,Normal,64.9,46.9,52.2,120,6638.14,2,4.7,83.3,2025,4,2025-04
+737,Residencial Monte Belo,Serra,2025-05-03,Equipe B,10,Fundação,Normal,83.6,86.0,88.9,320,28423.27,2,4.5,85.2,2025,5,2025-05
+738,Residencial Parque Azul,Vitória,2025-06-08,Equipe E,7,Fundação,Normal,48.1,99.7,61.3,320,19471.69,2,2.0,95.5,2025,6,2025-06
+739,Condomínio Vila Verde,Vila Velha,2025-12-13,Equipe D,8,Alvenaria,Chuva,60.5,63.2,58.6,180,9596.1,5,0.0,99.2,2025,12,2025-12
+740,Residencial Jardim das Acácias,Vitória,2025-05-09,Equipe B,9,Revestimento,Normal,65.0,52.7,58.0,120,6235.28,0,1.9,94.0,2025,5,2025-05
+741,Edifício Horizonte,Linhares,2025-01-22,Equipe D,9,Revestimento,Normal,73.5,44.1,52.6,120,6497.58,5,0.0,99.3,2025,1,2025-01
+742,Edifício Horizonte,Colatina,2026-05-12,Equipe C,6,Alvenaria,Normal,49.5,54.3,85.0,180,14522.26,1,1.7,93.4,2026,5,2026-05
+743,Residencial Vitória Park,Serra,2025-07-11,Equipe D,9,Cobertura,Normal,59.1,53.5,47.1,210,9624.42,0,2.1,92.6,2025,7,2025-07
+744,Edifício Horizonte,Colatina,2025-03-12,Equipe C,7,Pavimentação,Normal,52.4,61.6,66.2,130,10245.76,4,2.4,91.3,2025,3,2025-03
+745,Condomínio Alameda,Serra,2026-04-10,Equipe E,6,Instalações Hidráulicas,Normal,40.8,52.6,41.2,145,5458.56,1,1.5,95.9,2026,4,2026-04
+746,Residencial Vitória Park,Cariacica,2025-09-02,Equipe A,8,Alvenaria,Normal,67.5,68.4,67.6,180,11667.75,0,3.1,90.1,2025,9,2025-09
+747,Condomínio Vila Verde,Colatina,2026-06-21,Equipe D,9,Cobertura,Normal,70.4,48.3,67.5,210,12957.85,0,1.5,96.4,2026,6,2026-06
+748,Residencial Vitória Park,Vila Velha,2026-02-24,Equipe C,7,Acabamento,Normal,62.7,50.4,51.9,110,5226.69,1,2.4,96.5,2026,2,2026-02
+749,Condomínio Vila Verde,Vitória,2025-05-13,Equipe A,7,Cobertura,Normal,46.2,70.6,43.0,210,9635.25,1,0.0,100.0,2025,5,2025-05
+750,Residencial Jardim das Acácias,Vila Velha,2025-04-12,Equipe D,9,Estrutura,Normal,76.6,94.0,80.7,410,31499.3,0,2.0,94.4,2025,4,2025-04
+751,Residencial Monte Belo,Colatina,2025-02-20,Equipe E,6,Pavimentação,Normal,41.2,54.2,52.5,130,6015.29,0,0.0,99.2,2025,2,2025-02
+752,Edifício Atlântico,Colatina,2026-05-19,Equipe A,8,Estrutura,Chuva,58.8,56.6,86.8,410,39154.03,2,1.3,96.7,2026,5,2026-05
+753,Condomínio Vila Verde,Cariacica,2026-01-13,Equipe C,8,Fundação,Chuva,72.3,81.0,121.4,320,37145.2,0,1.9,96.5,2026,1,2026-01
+754,Residencial Jardim das Acácias,Linhares,2025-03-14,Equipe E,5,Instalações Hidráulicas,Chuva,58.1,40.8,75.3,145,10560.55,7,0.0,97.5,2025,3,2025-03
+755,Condomínio Vila Verde,Vila Velha,2025-08-25,Equipe A,7,Cobertura,Normal,50.6,58.8,42.6,210,9417.67,5,1.7,97.8,2025,8,2025-08
+756,Residencial Parque Azul,Vila Velha,2026-03-02,Equipe B,10,Cobertura,Chuva,82.9,45.3,61.5,210,12289.75,7,2.9,91.6,2026,3,2026-03
+757,Edifício Atlântico,Serra,2025-06-20,Equipe D,8,Pavimentação,Chuva,53.5,50.1,62.8,130,8053.54,5,1.9,95.3,2025,6,2025-06
+758,Residencial Vitória Park,Cariacica,2026-03-30,Equipe C,7,Cobertura,Chuva,58.0,55.8,50.9,210,11422.61,6,0.7,99.9,2026,3,2026-03
+759,Edifício Horizonte,Linhares,2026-03-17,Equipe C,8,Revestimento,Chuva,63.1,40.6,47.3,120,5231.57,4,3.5,87.2,2026,3,2026-03
+760,Edifício Horizonte,Linhares,2026-01-20,Equipe E,6,Instalações Elétricas,Chuva,49.3,48.5,49.3,155,6718.38,4,0.8,98.5,2026,1,2026-01
+761,Condomínio Morada do Sol,Serra,2025-01-01,Equipe D,10,Pavimentação,Chuva,81.6,47.1,74.7,130,9874.38,5,1.0,95.8,2025,1,2025-01
+762,Condomínio Morada do Sol,Linhares,2025-11-06,Equipe E,6,Fundação,Normal,49.5,103.1,77.4,320,23700.48,1,1.3,98.2,2025,11,2025-11
+763,Residencial Parque Azul,Vila Velha,2026-06-08,Equipe A,8,Revestimento,Normal,58.6,43.7,45.4,120,5098.66,0,2.9,88.6,2026,6,2026-06
+764,Edifício Atlântico,Vila Velha,2025-12-31,Equipe A,9,Estrutura,Normal,75.0,55.5,73.8,410,29460.43,7,0.7,93.4,2025,12,2025-12
+765,Condomínio Morada do Sol,Serra,2025-09-20,Equipe B,10,Acabamento,Chuva,66.0,38.2,38.7,110,4384.87,5,3.4,88.0,2025,9,2025-09
+766,Condomínio Vila Verde,Linhares,2025-03-21,Equipe E,6,Pintura,Chuva,54.3,29.7,50.0,85,3635.61,4,1.9,94.1,2025,3,2025-03
+767,Condomínio Alameda,Vila Velha,2025-11-04,Equipe E,5,Pavimentação,Normal,40.4,50.0,64.0,130,7323.3,6,0.6,97.1,2025,11,2025-11
+768,Edifício Atlântico,Cariacica,2025-12-23,Equipe A,8,Estrutura,Chuva,75.1,62.1,77.1,410,28838.79,4,1.5,96.7,2025,12,2025-12
+769,Residencial Monte Belo,Cariacica,2026-01-27,Equipe B,9,Estrutura,Normal,90.0,47.6,101.9,410,39916.89,0,0.3,97.2,2026,1,2026-01
+770,Residencial Vitória Park,Vitória,2025-12-01,Equipe E,6,Revestimento,Normal,59.8,55.3,66.0,120,8776.0,0,0.4,94.4,2025,12,2025-12
+771,Residencial Parque Azul,Vila Velha,2026-06-01,Equipe D,10,Fundação,Normal,75.1,97.8,90.3,320,29241.23,0,2.0,94.1,2026,6,2026-06
+772,Residencial Monte Belo,Serra,2025-12-11,Equipe B,10,Pintura,Normal,85.1,27.7,54.7,85,4207.7,0,2.6,91.9,2025,12,2025-12
+773,Edifício Atlântico,Colatina,2025-09-26,Equipe E,7,Fundação,Normal,50.0,95.1,69.2,320,24181.72,1,2.3,91.6,2025,9,2025-09
+774,Residencial Vitória Park,Cariacica,2025-07-22,Equipe B,11,Alvenaria,Normal,84.3,56.1,72.3,180,12275.4,3,0.5,94.4,2025,7,2025-07
+775,Edifício Atlântico,Vila Velha,2025-09-06,Equipe E,6,Cobertura,Normal,44.0,45.7,47.0,210,8930.05,4,0.9,96.8,2025,9,2025-09
+776,Residencial Monte Belo,Serra,2026-02-28,Equipe A,7,Acabamento,Normal,60.6,44.6,47.2,110,4871.67,0,1.2,94.9,2026,2,2026-02
+777,Edifício Horizonte,Vila Velha,2025-11-09,Equipe C,6,Revestimento,Normal,48.7,45.0,58.0,120,6618.69,1,3.4,89.8,2025,11,2025-11
+778,Edifício Horizonte,Linhares,2026-03-28,Equipe E,6,Pavimentação,Normal,47.6,53.5,59.4,130,7196.53,0,1.9,93.5,2026,3,2026-03
+779,Residencial Parque Azul,Vila Velha,2025-04-26,Equipe B,9,Revestimento,Chuva,62.6,63.3,47.7,120,5079.73,3,2.1,96.7,2025,4,2025-04
+780,Residencial Parque Azul,Linhares,2025-12-18,Equipe C,6,Alvenaria,Normal,40.2,76.4,66.8,180,11419.28,1,0.0,99.6,2025,12,2025-12
+781,Condomínio Vila Verde,Serra,2025-12-06,Equipe D,8,Pavimentação,Normal,63.7,67.1,72.9,130,8909.82,0,1.0,97.4,2025,12,2025-12
+782,Residencial Vitória Park,Vila Velha,2026-05-10,Equipe E,6,Instalações Elétricas,Normal,49.7,51.8,52.0,155,9037.16,3,0.6,97.1,2026,5,2026-05
+783,Edifício Costa Norte,Colatina,2025-09-19,Equipe D,8,Fundação,Normal,62.8,123.0,91.2,320,29137.79,0,2.3,96.6,2025,9,2025-09
+784,Condomínio Morada do Sol,Vila Velha,2026-04-22,Equipe C,6,Acabamento,Normal,51.2,38.6,46.8,110,4166.05,4,2.2,93.8,2026,4,2026-04
+785,Residencial Jardim das Acácias,Vitória,2025-04-21,Equipe C,7,Pintura,Normal,51.0,39.1,42.9,85,3944.53,0,4.5,86.5,2025,4,2025-04
+786,Residencial Monte Belo,Vila Velha,2025-11-20,Equipe E,5,Pintura,Normal,31.1,41.0,35.5,85,2487.78,6,2.8,92.1,2025,11,2025-11
+787,Edifício Atlântico,Linhares,2026-05-28,Equipe B,10,Estrutura,Chuva intensa,81.2,60.1,72.7,410,31814.28,5,0.0,96.5,2026,5,2026-05
+788,Residencial Vitória Park,Colatina,2025-11-09,Equipe A,8,Fundação,Normal,63.0,97.3,101.7,320,34204.02,2,2.4,89.3,2025,11,2025-11
+789,Residencial Monte Belo,Colatina,2025-12-27,Equipe A,8,Alvenaria,Normal,67.5,72.3,61.3,180,9707.39,0,0.2,100.0,2025,12,2025-12
+790,Condomínio Morada do Sol,Vila Velha,2025-09-21,Equipe C,6,Cobertura,Chuva,43.7,49.1,43.1,210,9860.98,5,0.8,97.2,2025,9,2025-09
+791,Residencial Jardim das Acácias,Linhares,2025-12-16,Equipe B,10,Instalações Hidráulicas,Chuva,89.0,45.0,61.6,145,9082.41,4,4.0,85.1,2025,12,2025-12
+792,Edifício Costa Norte,Vitória,2026-03-04,Equipe E,6,Pintura,Normal,45.5,32.7,52.3,85,5046.24,7,3.5,88.4,2026,3,2026-03
+793,Edifício Costa Norte,Cariacica,2026-04-05,Equipe E,6,Instalações Hidráulicas,Normal,45.4,36.4,56.3,145,8469.78,0,2.6,89.7,2026,4,2026-04
+794,Residencial Parque Azul,Colatina,2025-05-22,Equipe E,6,Alvenaria,Normal,50.8,63.0,77.8,180,13932.78,0,1.1,98.6,2025,5,2025-05
+795,Residencial Vitória Park,Vila Velha,2025-11-22,Equipe B,10,Pintura,Normal,79.8,47.9,43.2,85,3664.29,0,2.9,90.8,2025,11,2025-11
+796,Residencial Vitória Park,Colatina,2025-05-30,Equipe B,10,Estrutura,Chuva,84.8,95.7,87.2,410,36533.16,2,1.0,95.7,2025,5,2025-05
+797,Edifício Horizonte,Cariacica,2025-10-08,Equipe C,8,Pintura,Normal,61.6,39.2,42.1,85,3018.15,0,2.2,90.3,2025,10,2025-10
+798,Residencial Parque Azul,Vitória,2025-10-01,Equipe B,9,Alvenaria,Normal,72.1,87.2,76.7,180,15621.26,3,2.4,90.9,2025,10,2025-10
+799,Edifício Atlântico,Vila Velha,2025-01-27,Equipe B,10,Acabamento,Normal,75.5,19.3,47.1,110,5819.43,0,1.7,93.1,2025,1,2025-01
+800,Condomínio Alameda,Vila Velha,2026-01-18,Equipe E,7,Cobertura,Normal,58.7,69.7,42.3,210,9173.96,1,1.1,97.4,2026,1,2026-01
+801,Residencial Monte Belo,Cariacica,2025-07-17,Equipe B,10,Pavimentação,Normal,78.7,58.9,62.1,130,8699.67,3,1.3,93.3,2025,7,2025-07
+802,Residencial Monte Belo,Vitória,2025-07-27,Equipe D,9,Instalações Hidráulicas,Chuva,69.3,60.4,46.3,145,7067.72,10,2.2,93.1,2025,7,2025-07
+803,Condomínio Vila Verde,Vila Velha,2025-11-29,Equipe E,7,Pavimentação,Chuva,52.4,32.4,59.4,130,7520.6,6,0.8,96.8,2025,11,2025-11
+804,Residencial Parque Azul,Cariacica,2025-11-17,Equipe A,9,Pintura,Normal,59.5,34.9,43.3,85,4185.73,1,2.4,94.2,2025,11,2025-11
+805,Edifício Atlântico,Linhares,2026-06-18,Equipe E,5,Cobertura,Normal,34.3,61.8,39.9,210,8958.71,2,1.4,94.0,2026,6,2026-06
+806,Condomínio Alameda,Vitória,2025-02-10,Equipe E,7,Instalações Elétricas,Normal,60.9,75.6,47.3,155,7132.22,2,1.9,92.8,2025,2,2025-02
+807,Residencial Vitória Park,Colatina,2026-03-27,Equipe B,10,Fundação,Normal,60.2,118.2,78.0,320,21479.68,0,2.9,93.6,2026,3,2026-03
+808,Condomínio Morada do Sol,Serra,2025-10-29,Equipe B,11,Pavimentação,Normal,94.6,58.1,70.4,130,9056.14,5,0.0,98.4,2025,10,2025-10
+809,Residencial Jardim das Acácias,Colatina,2026-04-08,Equipe B,11,Cobertura,Normal,95.1,57.5,64.3,210,12777.61,1,0.0,100.0,2026,4,2026-04
+810,Residencial Vitória Park,Vitória,2026-02-07,Equipe E,6,Alvenaria,Normal,37.7,59.3,44.4,180,8435.67,4,0.0,100.0,2026,2,2026-02
+811,Condomínio Alameda,Vitória,2026-04-11,Equipe D,9,Alvenaria,Normal,89.5,65.5,78.3,180,17278.49,0,1.0,97.2,2026,4,2026-04
+812,Edifício Horizonte,Colatina,2025-04-27,Equipe A,7,Alvenaria,Normal,65.4,69.2,74.9,180,12456.09,0,0.0,100.0,2025,4,2025-04
+813,Edifício Horizonte,Vitória,2026-01-23,Equipe D,9,Cobertura,Normal,68.1,42.4,55.5,210,11190.97,0,0.8,97.6,2026,1,2026-01
+814,Residencial Jardim das Acácias,Vila Velha,2025-06-16,Equipe E,6,Revestimento,Chuva,35.8,50.9,34.4,120,4693.05,6,1.5,93.7,2025,6,2025-06
+815,Edifício Costa Norte,Colatina,2025-11-13,Equipe D,9,Fundação,Chuva,71.3,105.5,93.8,320,29494.54,5,0.3,98.4,2025,11,2025-11
+816,Condomínio Alameda,Serra,2025-07-27,Equipe A,8,Alvenaria,Normal,49.4,76.4,54.6,180,9219.88,7,1.1,94.4,2025,7,2025-07
+817,Condomínio Morada do Sol,Vitória,2025-01-06,Equipe D,10,Pavimentação,Normal,86.0,64.3,73.0,130,9166.77,3,0.7,98.9,2025,1,2025-01
+818,Condomínio Alameda,Vila Velha,2026-04-10,Equipe E,7,Instalações Elétricas,Normal,42.7,50.7,45.5,155,6619.72,0,0.5,96.0,2026,4,2026-04
+819,Condomínio Vila Verde,Linhares,2025-10-12,Equipe A,8,Acabamento,Normal,48.5,36.4,33.7,110,3691.43,1,2.1,95.3,2025,10,2025-10
+820,Residencial Vitória Park,Vila Velha,2025-02-26,Equipe B,10,Fundação,Normal,78.7,85.2,90.3,320,30235.26,6,0.2,99.6,2025,2,2025-02
+821,Residencial Jardim das Acácias,Vila Velha,2025-12-06,Equipe E,6,Fundação,Chuva,50.4,78.0,100.0,320,28247.87,0,1.4,94.8,2025,12,2025-12
+822,Residencial Jardim das Acácias,Vitória,2025-10-19,Equipe B,10,Pintura,Normal,81.4,41.9,44.5,85,3768.81,0,3.7,85.4,2025,10,2025-10
+823,Edifício Atlântico,Linhares,2026-01-04,Equipe B,11,Cobertura,Chuva,86.6,47.1,53.7,210,10978.0,3,2.0,93.7,2026,1,2026-01
+824,Condomínio Vila Verde,Serra,2025-03-11,Equipe C,8,Revestimento,Chuva,67.6,39.5,46.4,120,5615.75,4,2.8,90.9,2025,3,2025-03
+825,Residencial Vitória Park,Vitória,2025-05-05,Equipe D,9,Instalações Hidráulicas,Normal,73.4,36.8,59.8,145,8557.07,4,0.0,100.0,2025,5,2025-05
+826,Condomínio Morada do Sol,Serra,2025-08-03,Equipe D,9,Cobertura,Normal,62.9,62.7,42.7,210,8987.94,4,0.0,98.6,2025,8,2025-08
+827,Condomínio Vila Verde,Linhares,2025-10-22,Equipe A,9,Cobertura,Normal,75.2,79.9,52.4,210,11524.39,1,3.3,85.9,2025,10,2025-10
+828,Edifício Horizonte,Serra,2025-05-13,Equipe E,6,Cobertura,Normal,48.7,41.0,36.2,210,7782.9,2,0.7,97.5,2025,5,2025-05
+829,Condomínio Alameda,Linhares,2025-08-27,Equipe D,9,Pavimentação,Normal,93.7,57.2,89.5,130,11030.57,2,0.7,96.9,2025,8,2025-08
+830,Residencial Parque Azul,Vitória,2025-05-01,Equipe A,9,Estrutura,Chuva,84.7,97.0,90.9,410,30398.95,3,4.2,86.1,2025,5,2025-05
+831,Residencial Parque Azul,Linhares,2025-12-08,Equipe D,8,Pintura,Normal,71.7,52.9,57.0,85,4518.71,0,2.8,89.4,2025,12,2025-12
+832,Residencial Parque Azul,Vitória,2025-03-11,Equipe C,7,Instalações Elétricas,Normal,57.2,42.6,49.0,155,7615.49,2,0.0,100.0,2025,3,2025-03
+833,Residencial Vitória Park,Linhares,2025-12-08,Equipe A,7,Revestimento,Normal,51.8,33.5,48.2,120,5799.91,2,3.6,88.0,2025,12,2025-12
+834,Edifício Atlântico,Linhares,2025-12-05,Equipe B,10,Fundação,Chuva,79.2,76.1,103.3,320,33543.4,3,0.0,100.0,2025,12,2025-12
+835,Condomínio Alameda,Cariacica,2025-06-09,Equipe B,11,Fundação,Normal,79.4,84.9,89.4,320,25869.51,0,0.0,100.0,2025,6,2025-06
+836,Residencial Vitória Park,Serra,2026-06-18,Equipe D,8,Pavimentação,Normal,60.2,91.6,53.7,130,6466.39,0,1.3,94.9,2026,6,2026-06
+837,Edifício Horizonte,Linhares,2025-12-06,Equipe A,8,Cobertura,Chuva,68.3,47.8,45.4,210,8162.47,0,0.4,98.1,2025,12,2025-12
+838,Edifício Horizonte,Vitória,2025-12-14,Equipe C,6,Alvenaria,Chuva intensa,43.6,79.5,71.1,180,12455.22,3,0.3,94.8,2025,12,2025-12
+839,Residencial Vitória Park,Vila Velha,2025-07-11,Equipe E,7,Acabamento,Normal,51.4,33.2,37.0,110,3944.14,0,2.2,93.7,2025,7,2025-07
+840,Condomínio Morada do Sol,Colatina,2026-02-28,Equipe A,8,Revestimento,Normal,57.6,59.0,41.9,120,4377.26,3,1.0,97.4,2026,2,2026-02
+841,Residencial Parque Azul,Serra,2026-06-22,Equipe C,7,Pavimentação,Normal,39.2,75.0,49.0,130,5605.36,0,3.0,88.9,2026,6,2026-06
+842,Condomínio Vila Verde,Serra,2026-03-31,Equipe B,9,Fundação,Normal,66.2,56.3,83.7,320,26296.06,4,0.0,97.0,2026,3,2026-03
+843,Condomínio Alameda,Linhares,2026-05-11,Equipe B,10,Alvenaria,Chuva,83.2,76.8,57.6,180,11265.05,5,2.3,92.5,2026,5,2026-05
+844,Residencial Vitória Park,Serra,2026-06-13,Equipe B,9,Revestimento,Normal,54.3,46.7,44.9,120,5002.76,0,1.8,88.4,2026,6,2026-06
+845,Edifício Costa Norte,Vila Velha,2026-06-19,Equipe D,10,Fundação,Normal,91.7,79.6,115.5,320,36703.64,5,1.5,94.7,2026,6,2026-06
+846,Condomínio Morada do Sol,Vitória,2026-04-24,Equipe A,8,Acabamento,Chuva,57.7,43.5,30.5,110,3528.36,1,3.5,89.1,2026,4,2026-04
+847,Condomínio Vila Verde,Linhares,2025-08-03,Equipe A,8,Instalações Hidráulicas,Normal,68.5,52.8,40.4,145,5454.63,4,1.2,98.5,2025,8,2025-08
+848,Residencial Parque Azul,Serra,2026-03-28,Equipe E,6,Instalações Hidráulicas,Normal,50.8,43.0,45.8,145,6695.68,0,3.0,91.3,2026,3,2026-03
+849,Condomínio Morada do Sol,Vila Velha,2025-01-16,Equipe C,6,Alvenaria,Chuva intensa,56.6,46.5,92.5,180,19622.36,4,1.9,90.9,2025,1,2025-01
+850,Residencial Vitória Park,Linhares,2025-11-23,Equipe B,10,Estrutura,Normal,69.2,87.1,72.3,410,28217.46,5,0.0,97.0,2025,11,2025-11
+851,Condomínio Morada do Sol,Linhares,2025-11-15,Equipe B,9,Instalações Elétricas,Normal,73.0,55.3,45.9,155,7575.29,3,2.0,93.4,2025,11,2025-11
+852,Edifício Horizonte,Linhares,2025-01-30,Equipe A,8,Pavimentação,Normal,68.2,55.2,86.1,130,10465.41,8,1.0,94.0,2025,1,2025-01
+853,Residencial Jardim das Acácias,Vitória,2026-03-13,Equipe A,7,Pintura,Normal,65.6,43.0,64.0,85,5972.62,3,1.3,97.8,2026,3,2026-03
+854,Edifício Atlântico,Linhares,2025-11-16,Equipe E,6,Pavimentação,Normal,48.0,67.4,48.1,130,6476.6,0,3.0,91.6,2025,11,2025-11
+855,Residencial Parque Azul,Colatina,2025-05-15,Equipe A,9,Cobertura,Normal,73.7,63.1,46.0,210,10914.45,7,1.5,98.4,2025,5,2025-05
+856,Condomínio Alameda,Vitória,2026-04-27,Equipe C,8,Pavimentação,Normal,60.0,51.4,61.0,130,8205.93,0,1.6,95.5,2026,4,2026-04
+857,Residencial Parque Azul,Vila Velha,2026-02-06,Equipe C,7,Acabamento,Normal,49.0,41.5,42.2,110,4705.68,5,0.5,99.3,2026,2,2026-02
+858,Edifício Horizonte,Serra,2025-03-08,Equipe D,8,Pavimentação,Normal,55.8,48.0,52.2,130,6274.57,0,0.7,99.4,2025,3,2025-03
+859,Edifício Horizonte,Cariacica,2025-12-23,Equipe B,10,Pavimentação,Normal,77.8,42.9,71.6,130,8684.67,1,1.5,95.6,2025,12,2025-12
+860,Edifício Costa Norte,Linhares,2025-11-30,Equipe D,8,Estrutura,Normal,71.7,86.9,76.3,410,36735.16,2,0.8,99.4,2025,11,2025-11
+861,Condomínio Vila Verde,Serra,2026-02-28,Equipe D,10,Cobertura,Normal,81.7,62.2,67.7,210,13904.09,1,1.1,98.6,2026,2,2026-02
+862,Residencial Parque Azul,Linhares,2025-03-09,Equipe D,10,Alvenaria,Normal,69.5,42.0,55.1,180,8621.58,0,1.6,93.1,2025,3,2025-03
+863,Edifício Atlântico,Cariacica,2025-08-30,Equipe E,6,Pintura,Normal,38.0,42.5,43.3,85,3181.43,4,3.0,92.3,2025,8,2025-08
+864,Condomínio Vila Verde,Colatina,2026-04-20,Equipe D,8,Acabamento,Normal,72.5,53.1,47.4,110,5259.7,0,2.0,96.7,2026,4,2026-04
+865,Condomínio Vila Verde,Cariacica,2025-03-13,Equipe C,8,Alvenaria,Normal,54.6,54.9,67.8,180,13199.88,0,2.0,94.3,2025,3,2025-03
+866,Edifício Atlântico,Cariacica,2025-04-03,Equipe D,8,Revestimento,Normal,74.5,48.6,69.0,120,10030.07,3,2.1,94.7,2025,4,2025-04
+867,Edifício Costa Norte,Linhares,2026-04-09,Equipe B,10,Fundação,Normal,77.4,135.8,93.9,320,29391.91,0,2.3,94.4,2026,4,2026-04
+868,Residencial Monte Belo,Linhares,2025-07-30,Equipe D,9,Acabamento,Normal,68.5,41.9,34.0,110,3795.34,3,4.0,85.7,2025,7,2025-07
+869,Edifício Horizonte,Serra,2025-12-19,Equipe C,8,Acabamento,Chuva intensa,55.1,31.9,31.6,110,3847.7,13,2.4,91.8,2025,12,2025-12
+870,Edifício Atlântico,Vitória,2025-05-11,Equipe E,7,Acabamento,Chuva,56.9,37.3,42.6,110,4569.64,0,2.3,92.6,2025,5,2025-05
+871,Residencial Jardim das Acácias,Serra,2026-01-03,Equipe A,7,Cobertura,Normal,61.2,59.0,54.7,210,10686.41,2,1.9,91.6,2026,1,2026-01
+872,Condomínio Morada do Sol,Vitória,2025-11-22,Equipe D,10,Instalações Elétricas,Normal,80.6,57.3,45.6,155,6735.6,2,0.0,100.0,2025,11,2025-11
+873,Residencial Monte Belo,Cariacica,2025-06-27,Equipe E,6,Pintura,Normal,41.7,50.0,55.1,85,4360.99,3,1.1,98.6,2025,6,2025-06
+874,Residencial Parque Azul,Linhares,2025-06-07,Equipe C,8,Pintura,Normal,55.1,45.6,38.2,85,3193.23,0,3.0,88.7,2025,6,2025-06
+875,Edifício Costa Norte,Vila Velha,2025-05-28,Equipe A,7,Fundação,Chuva,59.9,89.1,100.2,320,32443.01,2,1.3,98.9,2025,5,2025-05
+876,Condomínio Alameda,Colatina,2025-05-21,Equipe B,9,Pintura,Normal,66.6,50.9,54.1,85,4298.25,0,2.4,91.2,2025,5,2025-05
+877,Residencial Monte Belo,Cariacica,2026-04-11,Equipe D,9,Acabamento,Normal,85.1,38.2,46.7,110,4665.56,5,1.3,95.9,2026,4,2026-04
+878,Residencial Vitória Park,Cariacica,2025-07-10,Equipe C,7,Pintura,Normal,62.7,38.3,55.2,85,4685.78,4,2.7,90.9,2025,7,2025-07
+879,Residencial Jardim das Acácias,Linhares,2026-02-25,Equipe B,10,Pavimentação,Chuva,80.4,56.0,53.6,130,7111.6,10,0.0,98.5,2026,2,2026-02
+880,Edifício Atlântico,Serra,2026-01-13,Equipe A,9,Fundação,Normal,65.9,107.4,91.6,320,28940.24,0,1.1,93.4,2026,1,2026-01
+881,Condomínio Alameda,Colatina,2026-04-22,Equipe B,10,Estrutura,Normal,81.0,92.5,65.4,410,23526.56,6,0.3,100.0,2026,4,2026-04
+882,Residencial Vitória Park,Linhares,2025-03-21,Equipe B,11,Estrutura,Normal,86.9,77.7,79.0,410,30099.38,2,0.5,95.8,2025,3,2025-03
+883,Residencial Vitória Park,Linhares,2025-12-18,Equipe E,5,Instalações Hidráulicas,Normal,42.4,49.5,49.8,145,6521.91,6,2.1,95.2,2025,12,2025-12
+884,Residencial Jardim das Acácias,Cariacica,2025-12-06,Equipe E,7,Pavimentação,Normal,53.9,41.3,77.0,130,9961.07,0,1.5,97.5,2025,12,2025-12
+885,Condomínio Morada do Sol,Serra,2025-09-24,Equipe A,8,Alvenaria,Normal,63.8,80.0,76.9,180,12650.06,0,2.1,87.9,2025,9,2025-09
+886,Condomínio Alameda,Linhares,2025-10-26,Equipe E,5,Alvenaria,Chuva,39.0,48.3,62.7,180,11016.2,3,0.3,96.8,2025,10,2025-10
+887,Edifício Atlântico,Vitória,2025-05-10,Equipe D,8,Instalações Hidráulicas,Normal,80.0,69.5,51.5,145,8412.66,0,1.2,96.0,2025,5,2025-05
+888,Condomínio Morada do Sol,Serra,2025-10-09,Equipe E,6,Alvenaria,Chuva,43.4,76.5,62.6,180,10838.42,1,0.0,96.7,2025,10,2025-10
+889,Residencial Jardim das Acácias,Colatina,2025-06-04,Equipe E,6,Estrutura,Normal,48.1,62.8,73.7,410,33529.03,5,1.0,96.6,2025,6,2025-06
+890,Edifício Horizonte,Vila Velha,2025-07-05,Equipe B,11,Instalações Hidráulicas,Chuva,101.2,56.9,52.9,145,6795.44,6,2.0,92.3,2025,7,2025-07
+891,Residencial Jardim das Acácias,Serra,2026-05-23,Equipe B,10,Estrutura,Chuva,82.0,74.8,76.2,410,25024.04,4,2.2,91.7,2026,5,2026-05
+892,Residencial Monte Belo,Cariacica,2025-08-04,Equipe D,9,Instalações Elétricas,Normal,72.4,47.5,51.9,155,7905.15,0,2.6,93.5,2025,8,2025-08
+893,Edifício Horizonte,Vitória,2025-06-21,Equipe A,7,Instalações Hidráulicas,Normal,51.8,56.7,47.1,145,7180.43,0,2.2,91.8,2025,6,2025-06
+894,Condomínio Alameda,Serra,2026-01-24,Equipe E,6,Pavimentação,Normal,45.5,88.5,63.7,130,8025.07,0,2.7,88.7,2026,1,2026-01
+895,Residencial Monte Belo,Cariacica,2025-01-13,Equipe B,11,Instalações Hidráulicas,Normal,81.0,48.9,51.5,145,7929.43,1,1.4,94.3,2025,1,2025-01
+896,Condomínio Alameda,Cariacica,2025-04-10,Equipe E,5,Revestimento,Chuva,41.0,48.6,60.4,120,7808.81,6,1.6,96.4,2025,4,2025-04
+897,Edifício Horizonte,Cariacica,2025-10-04,Equipe C,7,Acabamento,Normal,55.4,30.6,41.1,110,4551.57,4,1.8,91.8,2025,10,2025-10
+898,Condomínio Vila Verde,Serra,2025-09-05,Equipe D,10,Acabamento,Chuva,80.4,38.8,44.9,110,5302.46,8,1.3,94.6,2025,9,2025-09
+899,Edifício Atlântico,Vila Velha,2025-11-17,Equipe C,7,Cobertura,Normal,48.7,65.3,52.1,210,10665.22,1,2.8,92.1,2025,11,2025-11
+900,Residencial Jardim das Acácias,Vitória,2026-06-22,Equipe D,8,Fundação,Normal,67.1,74.6,107.7,320,31902.26,0,0.6,96.9,2026,6,2026-06
+901,Condomínio Alameda,Serra,2025-07-17,Equipe C,7,Instalações Elétricas,Normal,54.4,40.7,53.6,155,9057.51,0,2.2,91.3,2025,7,2025-07
+902,Edifício Atlântico,Vitória,2025-05-05,Equipe E,6,Fundação,Normal,54.0,93.8,107.2,320,33796.03,5,0.0,100.0,2025,5,2025-05
+903,Condomínio Vila Verde,Vitória,2025-07-09,Equipe B,11,Acabamento,Chuva,95.7,42.9,60.8,110,6404.99,7,1.9,96.4,2025,7,2025-07
+904,Edifício Costa Norte,Serra,2026-04-10,Equipe D,8,Instalações Hidráulicas,Chuva,63.9,48.4,55.3,145,7703.17,0,0.4,100.0,2026,4,2026-04
+905,Condomínio Morada do Sol,Cariacica,2025-03-17,Equipe C,7,Revestimento,Normal,65.7,49.0,71.7,120,7669.14,0,1.7,94.3,2025,3,2025-03
+906,Residencial Jardim das Acácias,Cariacica,2025-09-22,Equipe C,6,Pintura,Chuva intensa,48.6,47.2,47.5,85,4082.41,8,0.9,93.9,2025,9,2025-09
+907,Condomínio Morada do Sol,Vila Velha,2025-07-25,Equipe A,9,Pavimentação,Normal,71.0,58.2,64.1,130,8383.45,0,2.5,89.7,2025,7,2025-07
+908,Edifício Costa Norte,Colatina,2026-03-18,Equipe A,8,Pavimentação,Normal,59.0,90.0,52.3,130,6062.67,4,0.0,99.5,2026,3,2026-03
+909,Condomínio Vila Verde,Cariacica,2025-03-16,Equipe A,7,Instalações Hidráulicas,Normal,71.0,37.5,46.2,145,5895.56,4,2.3,91.6,2025,3,2025-03
+910,Condomínio Morada do Sol,Cariacica,2025-01-01,Equipe D,9,Fundação,Chuva,76.8,118.8,123.1,320,38615.71,0,0.0,99.1,2025,1,2025-01
+911,Residencial Monte Belo,Serra,2025-01-04,Equipe C,8,Alvenaria,Normal,62.2,62.8,75.2,180,14916.05,1,2.3,93.4,2025,1,2025-01
+912,Condomínio Alameda,Cariacica,2025-08-20,Equipe D,8,Pintura,Normal,64.5,48.9,50.4,85,4989.25,0,1.4,95.3,2025,8,2025-08
+913,Condomínio Alameda,Vitória,2025-12-08,Equipe E,6,Acabamento,Normal,51.1,46.7,46.4,110,4523.28,4,2.9,86.8,2025,12,2025-12
+914,Residencial Monte Belo,Vitória,2025-03-24,Equipe C,7,Estrutura,Chuva,56.0,57.1,69.9,410,26589.11,7,1.1,93.9,2025,3,2025-03
+915,Condomínio Morada do Sol,Colatina,2026-01-29,Equipe B,9,Instalações Elétricas,Normal,78.2,40.8,55.9,155,8100.26,0,1.6,95.9,2026,1,2026-01
+916,Condomínio Morada do Sol,Colatina,2026-05-14,Equipe A,8,Pintura,Normal,73.4,41.4,58.9,85,4831.18,2,2.5,91.8,2026,5,2026-05
+917,Condomínio Alameda,Colatina,2025-07-17,Equipe B,9,Instalações Elétricas,Normal,59.4,58.3,42.6,155,6243.71,0,2.8,92.0,2025,7,2025-07
+918,Edifício Atlântico,Vila Velha,2025-11-12,Equipe D,8,Pavimentação,Normal,62.4,47.7,56.9,130,8167.82,2,0.3,100.0,2025,11,2025-11
+919,Condomínio Alameda,Vitória,2025-12-12,Equipe C,6,Fundação,Chuva,42.3,120.7,97.3,320,29973.82,3,0.0,97.0,2025,12,2025-12
+920,Residencial Jardim das Acácias,Cariacica,2025-06-02,Equipe B,11,Estrutura,Chuva,78.6,81.9,65.2,410,23854.92,4,1.6,95.9,2025,6,2025-06
+921,Residencial Parque Azul,Vitória,2025-01-20,Equipe B,11,Fundação,Normal,74.7,92.8,67.3,320,23089.57,4,0.0,98.5,2025,1,2025-01
+922,Edifício Atlântico,Vitória,2025-06-26,Equipe B,9,Instalações Elétricas,Normal,68.8,32.7,49.2,155,7459.54,4,0.0,98.8,2025,6,2025-06
+923,Condomínio Morada do Sol,Vitória,2025-03-07,Equipe E,6,Pavimentação,Chuva,37.5,49.2,43.4,130,6091.54,2,1.1,95.7,2025,3,2025-03
+924,Condomínio Vila Verde,Vitória,2025-03-06,Equipe E,6,Pavimentação,Chuva,39.1,58.2,56.6,130,6647.06,7,0.0,99.0,2025,3,2025-03
+925,Residencial Monte Belo,Serra,2025-05-21,Equipe C,6,Pintura,Normal,51.7,37.0,53.6,85,4441.3,2,0.0,96.3,2025,5,2025-05
+926,Residencial Parque Azul,Vitória,2025-03-06,Equipe B,10,Acabamento,Normal,84.3,45.1,41.0,110,4421.95,2,2.8,87.0,2025,3,2025-03
+927,Edifício Costa Norte,Cariacica,2026-03-26,Equipe C,7,Alvenaria,Normal,49.8,61.1,65.8,180,14211.31,1,0.0,100.0,2026,3,2026-03
+928,Edifício Atlântico,Vitória,2025-06-11,Equipe A,9,Alvenaria,Normal,81.2,66.3,68.6,180,13294.34,3,0.0,100.0,2025,6,2025-06
+929,Condomínio Alameda,Vitória,2025-04-02,Equipe A,8,Fundação,Normal,71.0,115.2,104.6,320,32513.15,5,0.0,100.0,2025,4,2025-04
+930,Edifício Atlântico,Serra,2025-07-31,Equipe D,9,Pintura,Normal,62.4,50.1,41.6,85,3894.86,3,0.5,100.0,2025,7,2025-07
+931,Condomínio Morada do Sol,Linhares,2025-06-28,Equipe D,9,Pavimentação,Normal,82.9,69.5,67.8,130,8598.22,2,0.2,100.0,2025,6,2025-06
+932,Residencial Jardim das Acácias,Linhares,2025-11-05,Equipe D,8,Alvenaria,Normal,65.0,33.4,72.1,180,12616.53,1,0.6,99.7,2025,11,2025-11
+933,Residencial Jardim das Acácias,Linhares,2025-04-08,Equipe B,9,Instalações Elétricas,Normal,79.8,57.8,52.6,155,8126.04,2,0.0,100.0,2025,4,2025-04
+934,Residencial Vitória Park,Linhares,2025-10-11,Equipe D,9,Instalações Elétricas,Normal,75.2,70.3,59.5,155,8716.61,4,0.0,100.0,2025,10,2025-10
+935,Condomínio Vila Verde,Vila Velha,2025-06-13,Equipe D,9,Pavimentação,Normal,68.4,48.9,63.6,130,6498.93,0,0.8,97.6,2025,6,2025-06
+936,Residencial Jardim das Acácias,Vitória,2026-03-22,Equipe C,7,Revestimento,Normal,53.4,34.4,45.4,120,5618.5,3,2.0,95.9,2026,3,2026-03
+937,Edifício Atlântico,Cariacica,2025-06-30,Equipe A,7,Fundação,Normal,58.8,82.2,96.4,320,27385.95,1,2.3,94.0,2025,6,2025-06
+938,Residencial Jardim das Acácias,Cariacica,2025-08-29,Equipe A,7,Cobertura,Chuva,65.8,54.8,69.7,210,14410.65,9,1.0,98.2,2025,8,2025-08
+939,Edifício Atlântico,Linhares,2025-11-30,Equipe D,9,Revestimento,Normal,82.3,46.3,61.9,120,8193.89,1,0.4,100.0,2025,11,2025-11
+940,Condomínio Vila Verde,Serra,2026-02-27,Equipe A,8,Instalações Elétricas,Chuva,60.7,56.6,53.5,155,7888.83,1,1.3,92.3,2026,2,2026-02
+941,Residencial Monte Belo,Vila Velha,2025-02-25,Equipe D,10,Estrutura,Chuva,78.0,83.5,71.7,410,25767.17,9,1.1,99.3,2025,2,2025-02
+942,Edifício Costa Norte,Vila Velha,2026-02-01,Equipe D,9,Acabamento,Normal,70.2,32.0,44.0,110,4756.45,0,3.8,86.6,2026,2,2026-02
+943,Condomínio Alameda,Colatina,2025-07-27,Equipe C,7,Instalações Elétricas,Normal,43.1,68.1,35.8,155,5279.17,0,3.1,87.5,2025,7,2025-07
+944,Residencial Jardim das Acácias,Colatina,2025-05-20,Equipe A,8,Acabamento,Normal,64.4,44.2,46.2,110,5057.75,0,1.0,97.2,2025,5,2025-05
+945,Condomínio Alameda,Cariacica,2025-08-14,Equipe B,10,Pintura,Chuva,74.5,43.5,49.9,85,4568.1,1,4.6,86.8,2025,8,2025-08
+946,Edifício Atlântico,Vila Velha,2025-03-30,Equipe B,10,Acabamento,Normal,80.0,45.5,56.1,110,5460.73,1,0.0,100.0,2025,3,2025-03
+947,Residencial Vitória Park,Cariacica,2026-04-19,Equipe E,7,Instalações Elétricas,Normal,58.6,54.6,47.7,155,6181.25,3,2.7,90.2,2026,4,2026-04
+948,Residencial Monte Belo,Colatina,2026-03-21,Equipe B,10,Instalações Elétricas,Normal,83.1,39.5,54.2,155,8136.62,0,0.1,98.9,2026,3,2026-03
+949,Edifício Atlântico,Vila Velha,2025-02-15,Equipe A,9,Acabamento,Normal,74.7,29.0,43.2,110,4736.23,0,4.2,84.9,2025,2,2025-02
+950,Condomínio Alameda,Colatina,2026-02-08,Equipe A,9,Cobertura,Normal,67.3,47.8,58.0,210,12718.75,0,2.3,93.0,2026,2,2026-02
+951,Condomínio Vila Verde,Cariacica,2025-01-13,Equipe B,9,Pavimentação,Normal,73.8,56.3,60.4,130,8064.17,0,3.2,87.2,2025,1,2025-01
+952,Residencial Monte Belo,Vila Velha,2025-09-02,Equipe C,7,Alvenaria,Normal,66.8,63.7,84.3,180,16185.39,0,2.0,88.2,2025,9,2025-09
+953,Condomínio Vila Verde,Vitória,2026-04-16,Equipe C,7,Pavimentação,Chuva,51.0,50.0,50.1,130,6401.0,6,1.8,94.7,2026,4,2026-04
+954,Edifício Atlântico,Vitória,2026-02-20,Equipe D,9,Pavimentação,Normal,67.3,64.0,61.5,130,8593.7,4,1.0,95.0,2026,2,2026-02
+955,Edifício Horizonte,Colatina,2026-01-30,Equipe A,7,Pavimentação,Chuva,51.4,54.1,57.2,130,7595.46,7,0.9,97.2,2026,1,2026-01
+956,Edifício Horizonte,Linhares,2025-10-04,Equipe C,8,Fundação,Normal,65.0,86.2,85.8,320,23600.22,0,1.6,93.5,2025,10,2025-10
+957,Edifício Atlântico,Linhares,2025-12-10,Equipe B,9,Acabamento,Chuva,70.3,41.2,45.3,110,4552.66,7,3.4,86.9,2025,12,2025-12
+958,Residencial Jardim das Acácias,Linhares,2026-01-28,Equipe A,7,Revestimento,Normal,50.2,58.3,46.5,120,4589.09,0,1.7,92.2,2026,1,2026-01
+959,Edifício Atlântico,Vitória,2025-03-10,Equipe C,7,Revestimento,Normal,53.1,48.3,58.9,120,6903.77,5,3.7,91.0,2025,3,2025-03
+960,Residencial Parque Azul,Vila Velha,2026-05-05,Equipe B,9,Revestimento,Chuva,74.0,31.0,57.3,120,7452.7,4,4.1,88.6,2026,5,2026-05
+961,Edifício Atlântico,Colatina,2025-12-28,Equipe B,10,Instalações Elétricas,Chuva,84.0,65.8,54.1,155,6713.22,3,2.4,90.7,2025,12,2025-12
+962,Residencial Vitória Park,Colatina,2025-03-06,Equipe C,6,Pintura,Normal,46.4,34.1,58.2,85,5612.47,0,2.2,91.6,2025,3,2025-03
+963,Condomínio Alameda,Cariacica,2026-04-27,Equipe E,5,Cobertura,Normal,44.3,63.3,62.0,210,13365.73,10,0.0,96.6,2026,4,2026-04
+964,Residencial Vitória Park,Serra,2025-03-09,Equipe E,6,Pavimentação,Normal,45.2,43.1,50.1,130,5991.28,0,0.0,100.0,2025,3,2025-03
+965,Condomínio Alameda,Vitória,2025-10-23,Equipe D,9,Estrutura,Chuva intensa,68.5,77.4,80.1,410,30827.66,7,1.4,88.6,2025,10,2025-10
+966,Condomínio Vila Verde,Vitória,2025-06-01,Equipe C,6,Alvenaria,Normal,31.3,69.0,47.1,180,9878.04,2,2.0,93.2,2025,6,2025-06
+967,Residencial Parque Azul,Linhares,2025-05-16,Equipe C,8,Fundação,Normal,66.1,123.5,73.1,320,24166.02,8,1.3,99.1,2025,5,2025-05
+968,Residencial Monte Belo,Cariacica,2025-03-06,Equipe C,7,Fundação,Normal,51.6,94.5,87.9,320,23137.89,0,0.0,100.0,2025,3,2025-03
+969,Residencial Parque Azul,Linhares,2025-12-01,Equipe D,9,Revestimento,Normal,78.1,50.8,62.9,120,7448.88,5,2.0,93.7,2025,12,2025-12
+970,Residencial Vitória Park,Linhares,2025-05-16,Equipe D,9,Pavimentação,Chuva,70.1,67.4,59.9,130,8395.28,1,0.0,100.0,2025,5,2025-05
+971,Condomínio Morada do Sol,Vila Velha,2026-01-16,Equipe B,11,Instalações Hidráulicas,Chuva intensa,87.4,47.8,52.6,145,7256.47,7,2.7,91.4,2026,1,2026-01
+972,Residencial Jardim das Acácias,Vila Velha,2025-06-20,Equipe C,8,Revestimento,Normal,75.0,45.6,71.0,120,7873.19,0,0.0,100.0,2025,6,2025-06
+973,Edifício Costa Norte,Colatina,2025-06-29,Equipe C,7,Cobertura,Chuva,50.0,56.7,40.6,210,9000.16,3,0.0,100.0,2025,6,2025-06
+974,Edifício Costa Norte,Vila Velha,2025-11-21,Equipe A,7,Instalações Elétricas,Normal,46.0,46.7,30.4,155,4175.22,2,0.0,97.0,2025,11,2025-11
+975,Condomínio Alameda,Serra,2025-02-05,Equipe B,10,Revestimento,Normal,80.0,43.3,65.4,120,8999.39,0,2.7,92.9,2025,2,2025-02
+976,Edifício Horizonte,Vila Velha,2025-11-05,Equipe D,9,Revestimento,Normal,67.8,35.1,49.6,120,5869.7,0,2.5,90.5,2025,11,2025-11
+977,Residencial Jardim das Acácias,Cariacica,2025-11-24,Equipe B,11,Pavimentação,Normal,79.9,61.2,61.6,130,7254.19,4,0.0,98.8,2025,11,2025-11
+978,Residencial Vitória Park,Linhares,2025-10-24,Equipe C,8,Revestimento,Chuva intensa,62.2,42.5,47.8,120,6594.6,5,4.9,82.2,2025,10,2025-10
+979,Edifício Atlântico,Colatina,2025-12-13,Equipe E,7,Alvenaria,Normal,56.6,70.6,89.9,180,14895.73,0,0.1,99.7,2025,12,2025-12
+980,Condomínio Alameda,Vitória,2025-11-12,Equipe E,5,Alvenaria,Normal,27.9,65.3,57.3,180,10438.93,1,0.3,100.0,2025,11,2025-11
+981,Edifício Atlântico,Vila Velha,2025-12-01,Equipe C,6,Pavimentação,Normal,42.2,79.9,70.2,130,9313.45,1,2.2,95.1,2025,12,2025-12
+982,Residencial Parque Azul,Linhares,2025-07-20,Equipe B,10,Cobertura,Normal,74.4,52.5,39.9,210,8653.2,3,0.0,99.1,2025,7,2025-07
+983,Residencial Vitória Park,Cariacica,2025-07-19,Equipe E,7,Estrutura,Normal,46.6,67.1,67.4,410,26012.48,1,0.0,100.0,2025,7,2025-07
+984,Edifício Atlântico,Linhares,2026-02-12,Equipe A,8,Cobertura,Normal,63.7,50.4,49.6,210,10566.24,0,0.0,100.0,2026,2,2026-02
+985,Residencial Monte Belo,Serra,2025-10-19,Equipe C,6,Pintura,Normal,43.6,41.3,50.5,85,5504.38,0,2.5,90.6,2025,10,2025-10
+986,Condomínio Morada do Sol,Cariacica,2026-03-31,Equipe A,8,Cobertura,Chuva,60.2,50.5,41.5,210,8686.21,0,2.1,93.4,2026,3,2026-03
+987,Residencial Monte Belo,Cariacica,2026-03-01,Equipe B,11,Instalações Hidráulicas,Normal,91.0,47.6,47.3,145,7016.28,0,0.6,96.4,2026,3,2026-03
+988,Edifício Atlântico,Linhares,2025-11-07,Equipe B,10,Estrutura,Normal,73.8,49.6,81.4,410,31541.0,5,2.3,90.1,2025,11,2025-11
+989,Residencial Vitória Park,Serra,2025-04-01,Equipe E,7,Estrutura,Normal,48.4,116.9,79.5,410,32512.81,2,0.2,100.0,2025,4,2025-04
+990,Condomínio Morada do Sol,Cariacica,2025-05-21,Equipe E,7,Alvenaria,Normal,51.0,41.2,52.3,180,9429.89,0,0.9,95.0,2025,5,2025-05
+991,Residencial Monte Belo,Serra,2025-11-06,Equipe D,8,Cobertura,Chuva,58.5,66.9,48.0,210,10072.21,7,1.6,97.8,2025,11,2025-11
+992,Condomínio Morada do Sol,Cariacica,2025-01-28,Equipe D,9,Cobertura,Chuva,68.8,53.5,41.2,210,8355.08,7,2.6,93.6,2025,1,2025-01
+993,Edifício Costa Norte,Serra,2025-10-22,Equipe D,8,Instalações Hidráulicas,Normal,51.4,62.1,29.9,145,4647.0,0,1.8,91.6,2025,10,2025-10
+994,Condomínio Alameda,Colatina,2025-10-11,Equipe A,7,Instalações Elétricas,Normal,64.2,40.5,52.2,155,7444.95,0,1.1,100.0,2025,10,2025-10
+995,Condomínio Vila Verde,Linhares,2026-03-23,Equipe E,7,Revestimento,Chuva,74.7,48.8,79.9,120,9766.03,6,1.6,95.3,2026,3,2026-03
+996,Condomínio Alameda,Colatina,2025-09-23,Equipe C,6,Estrutura,Normal,51.8,71.7,81.3,410,33177.19,4,0.0,99.9,2025,9,2025-09
+997,Residencial Jardim das Acácias,Vila Velha,2026-01-01,Equipe D,9,Revestimento,Normal,85.4,58.1,72.8,120,8753.07,2,3.2,92.9,2026,1,2026-01
+998,Condomínio Morada do Sol,Serra,2025-10-24,Equipe C,6,Pintura,Normal,34.3,32.1,41.0,85,3407.8,0,0.5,97.3,2025,10,2025-10
+999,Condomínio Vila Verde,Linhares,2025-06-21,Equipe B,9,Instalações Elétricas,Normal,62.2,75.7,42.6,155,6572.39,3,2.2,94.9,2025,6,2025-06
+1000,Edifício Horizonte,Colatina,2025-04-09,Equipe C,7,Instalações Hidráulicas,Normal,63.5,46.1,52.3,145,8050.06,0,1.0,97.6,2025,4,2025-04
+1001,Edifício Horizonte,Vila Velha,2026-01-17,Equipe B,10,Fundação,Chuva,85.5,64.6,110.2,320,34604.64,7,1.9,97.1,2026,1,2026-01
+1002,Residencial Monte Belo,Serra,2025-06-08,Equipe A,8,Alvenaria,Normal,73.5,80.8,92.0,180,16946.02,2,2.0,95.1,2025,6,2025-06
+1003,Residencial Parque Azul,Linhares,2026-03-04,Equipe E,5,Acabamento,Normal,37.8,40.8,41.1,110,4212.15,5,2.1,97.4,2026,3,2026-03
+1004,Condomínio Vila Verde,Vitória,2025-12-23,Equipe A,9,Alvenaria,Normal,60.6,58.5,57.7,180,11331.03,3,1.4,93.3,2025,12,2025-12
+1005,Edifício Horizonte,Vila Velha,2025-06-26,Equipe E,6,Pavimentação,Normal,39.9,63.5,45.0,130,5601.08,3,0.0,100.0,2025,6,2025-06
+1006,Residencial Jardim das Acácias,Colatina,2025-05-26,Equipe B,10,Estrutura,Normal,88.6,57.4,74.8,410,25059.98,0,1.9,93.1,2025,5,2025-05
+1007,Condomínio Morada do Sol,Vila Velha,2026-03-12,Equipe B,9,Instalações Elétricas,Normal,75.2,39.9,56.7,155,8398.21,2,0.9,94.6,2026,3,2026-03
+1008,Condomínio Vila Verde,Vitória,2025-02-13,Equipe D,10,Fundação,Normal,71.9,111.5,89.5,320,31045.87,2,1.2,92.7,2025,2,2025-02
+1009,Residencial Jardim das Acácias,Colatina,2026-04-26,Equipe E,5,Cobertura,Normal,38.1,57.7,60.0,210,13292.45,6,1.7,93.1,2026,4,2026-04
+1010,Condomínio Morada do Sol,Vitória,2025-04-09,Equipe C,6,Estrutura,Chuva,48.8,83.4,68.6,410,27261.1,4,2.9,86.6,2025,4,2025-04
+1011,Edifício Atlântico,Vila Velha,2025-12-26,Equipe B,10,Acabamento,Normal,88.4,31.6,40.3,110,4851.45,4,3.5,90.4,2025,12,2025-12
+1012,Edifício Costa Norte,Colatina,2025-12-27,Equipe E,6,Instalações Hidráulicas,Normal,62.4,57.2,61.0,145,9087.65,5,0.1,98.4,2025,12,2025-12
+1013,Residencial Vitória Park,Colatina,2025-04-12,Equipe B,9,Acabamento,Chuva,69.8,23.6,43.1,110,4025.63,5,3.0,89.4,2025,4,2025-04
+1014,Residencial Jardim das Acácias,Linhares,2025-06-25,Equipe B,10,Instalações Elétricas,Chuva,91.7,40.5,64.9,155,10602.82,0,4.3,86.1,2025,6,2025-06
+1015,Residencial Vitória Park,Vitória,2026-01-11,Equipe B,11,Estrutura,Normal,81.9,59.7,68.9,410,27961.07,2,0.6,99.3,2026,1,2026-01
+1016,Edifício Costa Norte,Cariacica,2026-01-24,Equipe B,10,Estrutura,Normal,77.3,52.1,72.1,410,23962.2,3,0.0,100.0,2026,1,2026-01
+1017,Residencial Vitória Park,Vila Velha,2025-05-07,Equipe A,8,Pintura,Normal,73.2,34.8,63.9,85,5243.18,7,1.6,93.2,2025,5,2025-05
+1018,Residencial Vitória Park,Vila Velha,2025-02-11,Equipe C,7,Pavimentação,Normal,60.8,55.3,63.3,130,7914.43,1,2.6,87.8,2025,2,2025-02
+1019,Condomínio Alameda,Vitória,2025-11-16,Equipe C,8,Pintura,Normal,64.2,46.7,50.9,85,4779.87,1,1.8,95.4,2025,11,2025-11
+1020,Condomínio Alameda,Vila Velha,2026-03-15,Equipe D,9,Cobertura,Normal,72.7,53.9,54.7,210,10887.35,0,0.4,100.0,2026,3,2026-03
+1021,Condomínio Vila Verde,Cariacica,2026-05-19,Equipe B,9,Revestimento,Normal,49.5,51.4,36.4,120,3780.64,2,2.6,92.9,2026,5,2026-05
+1022,Residencial Monte Belo,Cariacica,2025-05-27,Equipe A,7,Cobertura,Normal,37.4,72.3,31.1,210,6889.72,4,0.0,100.0,2025,5,2025-05
+1023,Edifício Atlântico,Vitória,2025-07-23,Equipe A,8,Alvenaria,Normal,61.3,40.8,74.5,180,12578.53,0,0.5,98.9,2025,7,2025-07
+1024,Edifício Atlântico,Cariacica,2026-05-27,Equipe B,11,Estrutura,Normal,87.6,87.9,63.5,410,24488.76,1,3.3,89.2,2026,5,2026-05
+1025,Edifício Atlântico,Linhares,2026-05-03,Equipe D,9,Instalações Hidráulicas,Normal,79.6,52.4,49.8,145,7078.47,1,1.7,97.3,2026,5,2026-05
+1026,Residencial Monte Belo,Cariacica,2026-04-11,Equipe C,7,Cobertura,Normal,58.5,70.4,47.1,210,9562.91,0,1.4,94.8,2026,4,2026-04
+1027,Condomínio Morada do Sol,Cariacica,2025-01-31,Equipe B,10,Pavimentação,Normal,85.1,49.9,69.3,130,9504.03,0,3.5,88.2,2025,1,2025-01
+1028,Residencial Jardim das Acácias,Vitória,2026-01-27,Equipe A,8,Pavimentação,Normal,49.8,61.7,50.6,130,6534.9,4,1.9,94.5,2026,1,2026-01
+1029,Edifício Horizonte,Vila Velha,2025-03-20,Equipe E,5,Instalações Hidráulicas,Normal,43.2,51.0,62.7,145,8015.65,2,1.1,98.1,2025,3,2025-03
+1030,Residencial Vitória Park,Cariacica,2026-05-25,Equipe B,10,Pavimentação,Normal,74.1,41.2,61.2,130,8135.0,6,0.0,100.0,2026,5,2026-05
+1031,Condomínio Morada do Sol,Linhares,2025-02-02,Equipe E,5,Revestimento,Chuva intensa,56.6,44.7,63.1,120,7325.47,8,2.7,87.2,2025,2,2025-02
+1032,Condomínio Vila Verde,Cariacica,2026-03-30,Equipe C,8,Pavimentação,Normal,74.9,48.0,60.0,130,8490.59,0,0.8,100.0,2026,3,2026-03
+1033,Residencial Jardim das Acácias,Vila Velha,2026-05-19,Equipe C,7,Cobertura,Normal,55.9,46.3,50.6,210,10582.82,2,1.8,92.2,2026,5,2026-05
+1034,Condomínio Morada do Sol,Colatina,2026-05-18,Equipe D,8,Pintura,Normal,75.8,43.9,63.8,85,5150.48,5,1.7,95.1,2026,5,2026-05
+1035,Residencial Vitória Park,Linhares,2026-06-03,Equipe D,9,Pavimentação,Normal,65.5,49.2,63.8,130,7999.66,0,0.2,100.0,2026,6,2026-06
+1036,Condomínio Morada do Sol,Cariacica,2025-10-19,Equipe D,9,Acabamento,Normal,67.6,37.2,41.1,110,3827.53,0,2.4,90.8,2025,10,2025-10
+1037,Residencial Jardim das Acácias,Linhares,2025-12-24,Equipe B,10,Fundação,Chuva,87.4,111.5,112.7,320,41314.26,4,1.8,93.1,2025,12,2025-12
+1038,Edifício Atlântico,Vitória,2026-03-15,Equipe D,8,Revestimento,Normal,81.2,65.1,67.1,120,8301.02,6,1.8,92.9,2026,3,2026-03
+1039,Edifício Horizonte,Cariacica,2025-09-11,Equipe A,8,Revestimento,Normal,70.1,48.7,59.1,120,6618.67,0,2.3,94.4,2025,9,2025-09
+1040,Condomínio Morada do Sol,Linhares,2025-04-28,Equipe A,8,Estrutura,Normal,62.4,100.7,67.8,410,25452.51,1,0.9,98.7,2025,4,2025-04
+1041,Residencial Jardim das Acácias,Linhares,2026-03-09,Equipe A,9,Revestimento,Normal,66.6,59.8,60.4,120,7225.3,5,0.7,99.9,2026,3,2026-03
+1042,Residencial Monte Belo,Serra,2025-11-21,Equipe D,8,Fundação,Normal,71.3,109.8,105.6,320,25805.6,0,0.2,97.4,2025,11,2025-11
+1043,Residencial Monte Belo,Serra,2025-04-13,Equipe A,9,Acabamento,Normal,72.9,35.1,39.9,110,4017.23,0,3.3,88.1,2025,4,2025-04
+1044,Residencial Parque Azul,Serra,2025-06-20,Equipe E,6,Pavimentação,Normal,44.4,55.1,62.4,130,8408.09,0,2.2,95.8,2025,6,2025-06
+1045,Edifício Horizonte,Cariacica,2025-08-08,Equipe D,8,Instalações Elétricas,Normal,56.6,45.4,41.4,155,6028.9,2,0.0,97.8,2025,8,2025-08
+1046,Residencial Jardim das Acácias,Serra,2025-04-05,Equipe D,9,Acabamento,Normal,82.8,31.7,57.8,110,6538.74,0,2.8,90.8,2025,4,2025-04
+1047,Edifício Atlântico,Vitória,2025-03-10,Equipe C,7,Acabamento,Normal,52.8,39.7,43.5,110,5055.87,5,2.5,89.2,2025,3,2025-03
+1048,Residencial Vitória Park,Cariacica,2025-03-20,Equipe B,10,Pintura,Normal,76.7,64.2,51.6,85,5217.34,6,2.3,93.2,2025,3,2025-03
+1049,Condomínio Morada do Sol,Linhares,2025-07-24,Equipe D,9,Instalações Hidráulicas,Normal,71.7,35.7,47.7,145,7586.39,0,1.5,96.9,2025,7,2025-07
+1050,Condomínio Morada do Sol,Linhares,2025-01-20,Equipe D,9,Cobertura,Normal,65.6,53.3,40.8,210,8004.45,0,0.0,100.0,2025,1,2025-01
+1051,Residencial Vitória Park,Vila Velha,2026-04-24,Equipe D,9,Acabamento,Normal,65.6,38.9,37.4,110,4501.99,5,3.0,91.0,2026,4,2026-04
+1052,Residencial Vitória Park,Linhares,2026-06-19,Equipe E,5,Pintura,Normal,38.4,33.0,58.7,85,4686.27,3,3.3,88.3,2026,6,2026-06
+1053,Condomínio Alameda,Vila Velha,2026-03-22,Equipe B,10,Instalações Elétricas,Normal,87.3,62.6,65.2,155,9726.54,0,0.4,99.1,2026,3,2026-03
+1054,Condomínio Vila Verde,Colatina,2025-10-21,Equipe D,9,Instalações Elétricas,Normal,72.4,51.1,38.4,155,6176.03,7,1.6,96.1,2025,10,2025-10
+1055,Condomínio Morada do Sol,Colatina,2025-09-02,Equipe B,11,Acabamento,Normal,92.0,40.7,50.8,110,5764.75,1,1.0,96.3,2025,9,2025-09
+1056,Residencial Parque Azul,Vitória,2026-05-13,Equipe C,8,Instalações Elétricas,Normal,66.2,51.9,53.1,155,8519.65,4,2.5,92.2,2026,5,2026-05
+1057,Residencial Monte Belo,Cariacica,2025-10-07,Equipe B,10,Fundação,Normal,70.8,89.1,84.5,320,23068.87,6,1.2,96.9,2025,10,2025-10
+1058,Condomínio Morada do Sol,Serra,2026-05-13,Equipe B,9,Cobertura,Chuva,81.6,51.4,61.8,210,12863.93,4,0.1,100.0,2026,5,2026-05
+1059,Residencial Jardim das Acácias,Vitória,2025-03-07,Equipe E,6,Revestimento,Chuva,45.4,54.0,38.7,120,5082.39,8,2.1,92.8,2025,3,2025-03
+1060,Residencial Monte Belo,Serra,2025-08-30,Equipe D,9,Estrutura,Normal,74.8,113.0,62.2,410,27097.46,0,1.0,96.3,2025,8,2025-08
+1061,Residencial Vitória Park,Vitória,2026-05-24,Equipe E,6,Cobertura,Chuva,45.0,57.9,41.3,210,9387.09,0,1.6,94.2,2026,5,2026-05
+1062,Residencial Parque Azul,Linhares,2026-02-04,Equipe C,7,Estrutura,Chuva,47.8,82.9,52.8,410,21716.78,0,1.6,93.0,2026,2,2026-02
+1063,Residencial Parque Azul,Cariacica,2025-06-29,Equipe B,9,Instalações Elétricas,Normal,68.8,57.9,42.9,155,6618.67,0,1.8,97.8,2025,6,2025-06
+1064,Condomínio Morada do Sol,Cariacica,2026-05-18,Equipe C,6,Pintura,Normal,67.5,42.7,76.3,85,5561.64,6,2.9,89.8,2026,5,2026-05
+1065,Condomínio Vila Verde,Serra,2025-09-10,Equipe D,10,Cobertura,Chuva intensa,88.7,55.3,53.5,210,11662.23,5,2.2,87.8,2025,9,2025-09
+1066,Edifício Costa Norte,Serra,2025-01-22,Equipe C,7,Pavimentação,Normal,48.6,50.2,61.4,130,7588.15,0,0.3,99.0,2025,1,2025-01
+1067,Edifício Atlântico,Vitória,2026-01-29,Equipe B,10,Fundação,Normal,71.7,75.3,106.7,320,31793.35,1,0.6,97.2,2026,1,2026-01
+1068,Edifício Horizonte,Colatina,2026-03-30,Equipe E,6,Estrutura,Normal,52.3,93.7,79.8,410,29481.59,5,0.9,100.0,2026,3,2026-03
+1069,Residencial Monte Belo,Serra,2025-11-01,Equipe A,8,Instalações Hidráulicas,Normal,48.3,53.8,44.4,145,6256.05,1,1.4,94.4,2025,11,2025-11
+1070,Edifício Costa Norte,Cariacica,2025-10-08,Equipe D,8,Revestimento,Chuva,61.8,45.1,47.1,120,6207.64,6,2.3,94.3,2025,10,2025-10
+1071,Condomínio Alameda,Cariacica,2025-04-13,Equipe C,8,Pintura,Chuva,62.1,36.1,44.6,85,3791.54,1,1.4,94.5,2025,4,2025-04
+1072,Condomínio Morada do Sol,Linhares,2025-12-01,Equipe C,8,Estrutura,Normal,78.9,40.1,91.7,410,42787.47,2,1.9,94.1,2025,12,2025-12
+1073,Residencial Jardim das Acácias,Vitória,2025-01-04,Equipe D,9,Alvenaria,Normal,67.3,38.8,65.4,180,11041.56,0,0.4,100.0,2025,1,2025-01
+1074,Condomínio Morada do Sol,Serra,2025-06-11,Equipe A,7,Acabamento,Normal,72.8,39.5,53.6,110,5340.73,3,4.1,86.4,2025,6,2025-06
+1075,Edifício Costa Norte,Linhares,2026-05-05,Equipe C,8,Pintura,Chuva,47.3,47.1,41.0,85,3042.87,5,2.5,91.9,2026,5,2026-05
+1076,Edifício Costa Norte,Serra,2025-10-16,Equipe E,6,Alvenaria,Normal,42.5,76.9,57.5,180,9120.27,0,2.5,93.2,2025,10,2025-10
+1077,Residencial Monte Belo,Serra,2025-08-18,Equipe D,10,Alvenaria,Normal,80.6,59.8,64.4,180,10594.4,0,0.0,98.5,2025,8,2025-08
+1078,Residencial Jardim das Acácias,Linhares,2026-04-19,Equipe B,9,Acabamento,Normal,69.8,42.2,42.2,110,4937.2,6,3.3,90.4,2026,4,2026-04
+1079,Edifício Costa Norte,Vitória,2025-09-24,Equipe E,7,Pintura,Normal,56.1,34.6,54.1,85,5216.45,3,4.3,83.2,2025,9,2025-09
+1080,Edifício Horizonte,Vila Velha,2026-06-23,Equipe A,7,Acabamento,Normal,47.9,43.8,38.6,110,4692.27,1,1.0,96.4,2026,6,2026-06
+1081,Condomínio Alameda,Colatina,2025-07-28,Equipe A,8,Pavimentação,Normal,53.3,47.8,60.3,130,8386.34,3,0.0,99.3,2025,7,2025-07
+1082,Condomínio Morada do Sol,Serra,2026-03-18,Equipe D,9,Pavimentação,Chuva,63.4,72.7,53.1,130,6303.41,5,0.2,100.0,2026,3,2026-03
+1083,Edifício Atlântico,Vila Velha,2025-07-04,Equipe B,11,Instalações Hidráulicas,Normal,82.9,38.9,33.4,145,4831.07,0,0.0,100.0,2025,7,2025-07
+1084,Edifício Costa Norte,Vitória,2026-04-07,Equipe C,7,Instalações Hidráulicas,Chuva,60.7,51.7,60.3,145,9206.93,2,0.0,100.0,2026,4,2026-04
+1085,Edifício Horizonte,Linhares,2026-04-26,Equipe A,7,Pavimentação,Normal,58.8,61.8,61.1,130,8329.31,0,0.9,100.0,2026,4,2026-04
+1086,Edifício Horizonte,Colatina,2026-03-10,Equipe B,11,Pintura,Chuva,83.4,30.1,41.0,85,3762.21,5,1.8,93.2,2026,3,2026-03
+1087,Condomínio Morada do Sol,Vitória,2025-02-23,Equipe E,5,Estrutura,Normal,43.4,67.8,85.5,410,33004.27,0,0.2,98.6,2025,2,2025-02
+1088,Residencial Parque Azul,Cariacica,2025-01-06,Equipe E,5,Revestimento,Normal,39.7,50.0,29.2,120,3277.6,0,3.8,85.7,2025,1,2025-01
+1089,Edifício Atlântico,Cariacica,2025-05-16,Equipe D,9,Instalações Hidráulicas,Chuva intensa,73.1,66.0,40.9,145,6117.42,6,0.4,94.1,2025,5,2025-05
+1090,Residencial Vitória Park,Vitória,2025-06-23,Equipe B,10,Acabamento,Normal,74.9,56.6,45.1,110,5398.26,3,0.1,100.0,2025,6,2025-06
+1091,Edifício Horizonte,Cariacica,2026-03-20,Equipe A,8,Alvenaria,Normal,71.5,55.0,85.1,180,16181.12,7,0.5,96.2,2026,3,2026-03
+1092,Condomínio Vila Verde,Serra,2025-10-15,Equipe B,11,Fundação,Chuva,85.5,119.5,72.0,320,19227.57,5,0.5,98.4,2025,10,2025-10
+1093,Residencial Monte Belo,Serra,2026-06-14,Equipe E,6,Instalações Hidráulicas,Normal,54.6,46.8,42.2,145,7119.81,0,0.0,100.0,2026,6,2026-06
+1094,Edifício Costa Norte,Serra,2025-02-24,Equipe B,11,Pavimentação,Normal,85.3,59.3,66.5,130,9394.41,0,2.8,86.8,2025,2,2025-02
+1095,Residencial Jardim das Acácias,Vila Velha,2025-09-24,Equipe A,9,Alvenaria,Normal,77.3,55.2,85.3,180,15528.48,0,1.8,96.0,2025,9,2025-09
+1096,Condomínio Alameda,Cariacica,2026-03-29,Equipe D,8,Estrutura,Normal,68.5,65.2,76.6,410,31395.77,1,1.9,89.9,2026,3,2026-03
+1097,Residencial Vitória Park,Cariacica,2025-06-01,Equipe D,8,Pavimentação,Normal,66.3,56.9,60.4,130,7385.6,1,0.0,98.6,2025,6,2025-06
+1098,Condomínio Vila Verde,Vila Velha,2026-06-05,Equipe B,10,Instalações Hidráulicas,Chuva,73.9,57.0,39.9,145,5685.94,9,2.2,94.8,2026,6,2026-06
+1099,Edifício Atlântico,Colatina,2026-06-23,Equipe B,9,Acabamento,Chuva,68.5,41.7,40.4,110,4374.28,6,1.3,98.8,2026,6,2026-06
+1100,Edifício Costa Norte,Cariacica,2025-04-07,Equipe B,11,Estrutura,Chuva,86.9,88.9,88.2,410,39146.53,0,1.5,96.9,2025,4,2025-04
+1101,Residencial Jardim das Acácias,Serra,2025-04-19,Equipe D,9,Estrutura,Chuva,78.2,64.0,76.0,410,33639.23,2,0.6,100.0,2025,4,2025-04
+1102,Edifício Costa Norte,Vitória,2026-04-10,Equipe D,10,Estrutura,Normal,79.7,69.5,67.7,410,28495.82,0,0.7,98.4,2026,4,2026-04
+1103,Condomínio Morada do Sol,Linhares,2026-04-09,Equipe C,6,Fundação,Normal,57.1,106.4,103.3,320,36172.31,1,0.0,99.7,2026,4,2026-04
+1104,Edifício Atlântico,Vila Velha,2025-11-27,Equipe A,8,Instalações Elétricas,Chuva,74.1,56.6,57.4,155,10062.3,0,0.0,96.8,2025,11,2025-11
+1105,Condomínio Vila Verde,Linhares,2026-02-13,Equipe D,8,Acabamento,Normal,66.6,39.1,53.9,110,6044.49,0,2.0,93.8,2026,2,2026-02
+1106,Residencial Parque Azul,Cariacica,2025-06-16,Equipe A,8,Estrutura,Normal,52.3,119.0,66.0,410,27514.63,3,1.9,93.6,2025,6,2025-06
+1107,Residencial Monte Belo,Serra,2026-05-18,Equipe A,8,Alvenaria,Chuva,59.6,72.0,66.5,180,11194.45,9,1.4,97.0,2026,5,2026-05
+1108,Condomínio Morada do Sol,Colatina,2025-04-09,Equipe B,10,Acabamento,Chuva,89.7,38.1,50.9,110,5961.83,2,2.1,93.5,2025,4,2025-04
+1109,Residencial Vitória Park,Vila Velha,2026-05-03,Equipe D,10,Pavimentação,Normal,73.3,85.0,49.3,130,5743.44,5,1.9,91.9,2026,5,2026-05
+1110,Edifício Atlântico,Cariacica,2025-07-10,Equipe D,9,Estrutura,Normal,76.3,101.1,80.2,410,39718.36,0,1.8,96.6,2025,7,2025-07
+1111,Residencial Monte Belo,Vitória,2026-04-20,Equipe E,6,Fundação,Normal,54.2,91.5,103.5,320,34296.81,4,1.7,96.6,2026,4,2026-04
+1112,Edifício Costa Norte,Cariacica,2025-10-25,Equipe E,5,Cobertura,Normal,32.9,55.6,37.2,210,7570.69,5,1.1,100.0,2025,10,2025-10
+1113,Condomínio Vila Verde,Cariacica,2025-11-04,Equipe B,10,Instalações Hidráulicas,Chuva,81.4,52.6,49.3,145,6783.75,4,2.4,92.5,2025,11,2025-11
+1114,Residencial Vitória Park,Cariacica,2025-03-20,Equipe E,5,Instalações Hidráulicas,Chuva,34.4,43.3,38.9,145,5673.83,8,0.0,99.4,2025,3,2025-03
+1115,Residencial Vitória Park,Vitória,2025-04-07,Equipe D,10,Cobertura,Normal,81.0,38.9,46.5,210,9233.87,0,1.2,95.8,2025,4,2025-04
+1116,Edifício Atlântico,Serra,2026-05-31,Equipe C,6,Revestimento,Normal,44.1,51.7,58.5,120,7940.61,0,2.7,91.0,2026,5,2026-05
+1117,Condomínio Alameda,Vila Velha,2025-03-27,Equipe D,8,Alvenaria,Normal,65.1,60.3,70.4,180,12825.49,0,0.0,99.1,2025,3,2025-03
+1118,Condomínio Morada do Sol,Serra,2025-09-29,Equipe D,10,Acabamento,Normal,81.6,42.1,49.1,110,5187.47,2,3.2,92.1,2025,9,2025-09
+1119,Edifício Costa Norte,Vila Velha,2025-04-19,Equipe A,8,Alvenaria,Normal,63.6,62.4,69.4,180,11343.03,1,1.9,95.2,2025,4,2025-04
+1120,Residencial Jardim das Acácias,Vitória,2025-06-25,Equipe A,7,Pintura,Normal,54.1,43.6,43.1,85,3869.68,1,1.7,93.8,2025,6,2025-06
+1121,Condomínio Alameda,Colatina,2025-11-07,Equipe E,7,Pintura,Normal,55.6,38.6,53.1,85,4370.77,6,3.8,86.1,2025,11,2025-11
+1122,Edifício Atlântico,Serra,2025-05-09,Equipe C,6,Pintura,Normal,48.5,37.1,48.1,85,4743.45,1,2.4,93.4,2025,5,2025-05
+1123,Residencial Parque Azul,Vitória,2025-08-03,Equipe B,9,Fundação,Normal,65.0,80.4,73.4,320,21823.23,0,1.7,98.7,2025,8,2025-08
+1124,Edifício Costa Norte,Colatina,2025-03-30,Equipe D,9,Instalações Elétricas,Normal,73.0,41.0,46.3,155,6913.05,0,2.0,95.2,2025,3,2025-03
+1125,Condomínio Alameda,Vila Velha,2025-04-30,Equipe D,8,Pavimentação,Normal,55.9,67.8,67.0,130,10035.7,10,0.0,100.0,2025,4,2025-04
+1126,Edifício Costa Norte,Colatina,2025-01-21,Equipe D,10,Pavimentação,Chuva,77.5,53.6,65.2,130,8081.32,6,0.0,99.5,2025,1,2025-01
+1127,Edifício Atlântico,Vila Velha,2025-02-22,Equipe C,8,Instalações Elétricas,Normal,73.0,54.4,57.4,155,9235.27,5,0.0,100.0,2025,2,2025-02
+1128,Condomínio Vila Verde,Colatina,2025-10-25,Equipe D,10,Pintura,Normal,78.1,43.3,54.5,85,4189.93,0,0.0,98.9,2025,10,2025-10
+1129,Residencial Monte Belo,Cariacica,2025-08-26,Equipe E,7,Cobertura,Normal,65.3,56.7,49.9,210,10071.85,0,0.0,100.0,2025,8,2025-08
+1130,Residencial Vitória Park,Vitória,2025-03-07,Equipe E,6,Pintura,Normal,39.8,50.4,40.7,85,3483.19,1,2.9,92.3,2025,3,2025-03
+1131,Residencial Monte Belo,Cariacica,2026-04-05,Equipe D,9,Estrutura,Normal,74.3,88.1,76.4,410,32682.72,0,1.0,96.3,2026,4,2026-04
+1132,Residencial Jardim das Acácias,Vila Velha,2025-12-19,Equipe B,11,Instalações Hidráulicas,Normal,84.8,45.5,48.7,145,7801.89,5,0.0,100.0,2025,12,2025-12
+1133,Residencial Vitória Park,Vila Velha,2025-05-15,Equipe C,8,Acabamento,Chuva,61.8,42.1,37.6,110,4182.98,5,0.2,100.0,2025,5,2025-05
+1134,Residencial Monte Belo,Cariacica,2025-08-01,Equipe D,9,Revestimento,Normal,81.4,46.5,69.4,120,8201.62,4,0.0,100.0,2025,8,2025-08
+1135,Condomínio Vila Verde,Colatina,2025-07-24,Equipe B,10,Pavimentação,Normal,90.5,56.9,56.0,130,7447.75,0,1.5,96.0,2025,7,2025-07
+1136,Condomínio Alameda,Vitória,2025-08-29,Equipe D,9,Pintura,Normal,65.4,50.5,49.4,85,4526.8,2,0.3,100.0,2025,8,2025-08
+1137,Residencial Jardim das Acácias,Vitória,2025-06-12,Equipe C,7,Revestimento,Normal,54.1,36.0,59.3,120,8311.15,1,4.6,85.5,2025,6,2025-06
+1138,Residencial Vitória Park,Vitória,2025-04-27,Equipe C,8,Estrutura,Normal,61.3,70.9,87.1,410,33482.22,4,0.3,98.1,2025,4,2025-04
+1139,Condomínio Vila Verde,Linhares,2025-12-15,Equipe D,9,Instalações Elétricas,Chuva,79.2,51.2,51.8,155,8756.62,9,1.8,92.9,2025,12,2025-12
+1140,Residencial Jardim das Acácias,Linhares,2025-02-21,Equipe B,9,Instalações Hidráulicas,Chuva,68.4,52.7,47.2,145,6303.12,7,1.1,93.0,2025,2,2025-02
+1141,Condomínio Alameda,Cariacica,2025-02-12,Equipe A,7,Estrutura,Normal,49.5,72.7,66.6,410,31433.09,2,0.0,100.0,2025,2,2025-02
+1142,Edifício Costa Norte,Colatina,2025-06-10,Equipe B,10,Estrutura,Chuva,77.5,84.7,78.8,410,35433.43,4,3.0,92.2,2025,6,2025-06
+1143,Condomínio Alameda,Linhares,2026-01-08,Equipe A,8,Pavimentação,Normal,59.0,83.9,62.1,130,7533.64,6,3.5,88.7,2026,1,2026-01
+1144,Edifício Costa Norte,Vitória,2025-01-07,Equipe D,10,Instalações Elétricas,Normal,76.5,53.3,51.4,155,8781.45,3,1.1,99.5,2025,1,2025-01
+1145,Condomínio Alameda,Serra,2025-03-29,Equipe E,6,Instalações Hidráulicas,Normal,45.8,61.6,44.1,145,6614.99,1,0.9,96.4,2025,3,2025-03
+1146,Residencial Monte Belo,Serra,2025-08-22,Equipe B,11,Instalações Elétricas,Normal,97.4,47.7,49.9,155,9046.89,4,0.0,98.9,2025,8,2025-08
+1147,Residencial Monte Belo,Cariacica,2025-01-31,Equipe D,9,Pintura,Normal,59.3,34.8,25.4,85,2135.34,0,2.1,90.0,2025,1,2025-01
+1148,Residencial Jardim das Acácias,Colatina,2025-12-13,Equipe A,7,Cobertura,Normal,56.6,53.7,60.9,210,14232.99,4,0.6,100.0,2025,12,2025-12
+1149,Edifício Costa Norte,Cariacica,2025-06-04,Equipe D,8,Fundação,Chuva,53.1,71.0,78.0,320,29460.86,4,0.8,94.6,2025,6,2025-06
+1150,Residencial Jardim das Acácias,Colatina,2026-02-16,Equipe C,8,Cobertura,Chuva,70.6,68.0,61.6,210,12284.83,2,0.0,100.0,2026,2,2026-02
+1151,Residencial Vitória Park,Serra,2025-10-14,Equipe C,6,Revestimento,Chuva,40.4,37.8,42.2,120,4865.83,3,2.6,91.8,2025,10,2025-10
+1152,Edifício Atlântico,Vila Velha,2026-03-29,Equipe D,9,Pintura,Normal,70.0,43.4,42.5,85,3642.93,2,0.2,100.0,2026,3,2026-03
+1153,Residencial Monte Belo,Vila Velha,2025-12-09,Equipe A,7,Instalações Hidráulicas,Normal,49.8,52.8,48.5,145,7553.29,2,0.6,100.0,2025,12,2025-12
+1154,Edifício Costa Norte,Linhares,2025-04-06,Equipe C,7,Cobertura,Normal,60.7,51.5,50.0,210,8759.22,2,0.9,99.4,2025,4,2025-04
+1155,Condomínio Morada do Sol,Linhares,2025-01-29,Equipe B,9,Revestimento,Chuva,74.5,59.5,50.1,120,6559.4,3,2.9,87.8,2025,1,2025-01
+1156,Residencial Vitória Park,Linhares,2026-03-09,Equipe B,10,Instalações Hidráulicas,Chuva intensa,81.6,33.4,47.2,145,7085.1,6,0.0,98.7,2026,3,2026-03
+1157,Condomínio Vila Verde,Colatina,2026-06-04,Equipe C,7,Fundação,Normal,55.3,86.6,94.3,320,36541.13,5,2.4,93.2,2026,6,2026-06
+1158,Residencial Jardim das Acácias,Colatina,2025-01-06,Equipe D,9,Estrutura,Normal,73.2,45.5,71.0,410,27990.84,0,0.0,96.0,2025,1,2025-01
+1159,Residencial Parque Azul,Colatina,2025-12-25,Equipe E,6,Acabamento,Normal,47.7,43.6,49.2,110,5591.59,0,0.0,96.5,2025,12,2025-12
+1160,Edifício Atlântico,Colatina,2025-04-18,Equipe D,9,Alvenaria,Normal,63.1,54.6,58.7,180,9708.75,3,0.7,97.8,2025,4,2025-04
+1161,Edifício Atlântico,Vila Velha,2025-05-31,Equipe D,8,Revestimento,Normal,72.0,37.8,62.4,120,7479.63,0,3.1,91.8,2025,5,2025-05
+1162,Residencial Monte Belo,Vitória,2025-05-14,Equipe A,9,Estrutura,Normal,65.4,77.4,71.4,410,28634.64,3,1.3,99.5,2025,5,2025-05
+1163,Condomínio Alameda,Vitória,2026-06-16,Equipe E,7,Revestimento,Chuva,45.3,46.9,38.1,120,4792.96,0,2.4,91.1,2026,6,2026-06
+1164,Condomínio Morada do Sol,Linhares,2026-05-17,Equipe D,10,Pavimentação,Chuva,74.9,44.4,57.3,130,8095.28,4,1.8,97.6,2026,5,2026-05
+1165,Residencial Monte Belo,Vila Velha,2026-05-12,Equipe E,6,Alvenaria,Normal,49.8,58.5,74.8,180,12877.73,0,0.0,100.0,2026,5,2026-05
+1166,Edifício Costa Norte,Colatina,2025-08-06,Equipe E,5,Cobertura,Normal,37.3,59.9,41.7,210,9062.41,0,0.8,99.2,2025,8,2025-08
+1167,Residencial Jardim das Acácias,Colatina,2025-05-02,Equipe E,6,Alvenaria,Normal,53.5,64.7,59.9,180,13363.48,7,1.9,92.4,2025,5,2025-05
+1168,Residencial Monte Belo,Vitória,2025-02-11,Equipe C,7,Estrutura,Normal,55.2,72.2,86.3,410,36126.05,0,0.4,100.0,2025,2,2025-02
+1169,Condomínio Vila Verde,Serra,2025-10-29,Equipe C,7,Instalações Hidráulicas,Normal,67.2,66.3,62.6,145,8893.55,0,1.4,95.5,2025,10,2025-10
+1170,Edifício Costa Norte,Vila Velha,2025-11-09,Equipe D,8,Acabamento,Chuva,65.0,38.4,37.3,110,4285.96,6,2.8,92.9,2025,11,2025-11
+1171,Residencial Parque Azul,Vila Velha,2025-12-24,Equipe A,7,Pavimentação,Normal,60.2,55.6,69.1,130,9048.49,2,2.2,94.2,2025,12,2025-12
+1172,Residencial Jardim das Acácias,Cariacica,2026-04-09,Equipe E,6,Pavimentação,Chuva,62.5,83.8,85.2,130,7676.42,8,0.4,97.1,2026,4,2026-04
+1173,Residencial Monte Belo,Cariacica,2026-06-01,Equipe B,10,Acabamento,Normal,77.2,34.9,45.3,110,4361.35,0,2.4,93.6,2026,6,2026-06
+1174,Condomínio Alameda,Colatina,2025-04-02,Equipe B,10,Pavimentação,Chuva,84.5,51.5,60.4,130,7533.75,5,2.8,86.9,2025,4,2025-04
+1175,Edifício Atlântico,Cariacica,2025-12-14,Equipe B,11,Pintura,Normal,86.5,31.9,39.1,85,3580.59,3,2.5,93.8,2025,12,2025-12
+1176,Condomínio Alameda,Colatina,2025-01-26,Equipe A,8,Instalações Hidráulicas,Normal,60.6,48.0,57.2,145,8130.4,4,1.0,93.1,2025,1,2025-01
+1177,Condomínio Morada do Sol,Linhares,2025-07-17,Equipe E,5,Estrutura,Chuva intensa,25.7,71.7,55.0,410,23972.08,11,0.0,100.0,2025,7,2025-07
+1178,Residencial Vitória Park,Linhares,2026-05-03,Equipe E,6,Fundação,Normal,41.2,98.6,81.4,320,25685.67,6,0.2,96.7,2026,5,2026-05
+1179,Residencial Jardim das Acácias,Vitória,2025-10-09,Equipe B,9,Cobertura,Chuva,72.1,53.8,71.8,210,15894.03,3,0.0,96.2,2025,10,2025-10
+1180,Residencial Parque Azul,Colatina,2025-11-25,Equipe D,8,Acabamento,Normal,56.8,38.8,45.4,110,5442.14,2,1.6,95.4,2025,11,2025-11
+1181,Residencial Jardim das Acácias,Cariacica,2025-07-04,Equipe C,8,Fundação,Normal,60.4,124.4,87.6,320,27838.38,0,0.8,99.1,2025,7,2025-07
+1182,Residencial Vitória Park,Serra,2025-04-28,Equipe C,6,Pintura,Chuva intensa,40.5,36.3,45.8,85,3433.11,11,1.4,91.7,2025,4,2025-04
+1183,Residencial Vitória Park,Vila Velha,2025-09-19,Equipe B,10,Instalações Hidráulicas,Chuva,72.1,55.5,55.8,145,8596.85,2,2.4,91.7,2025,9,2025-09
+1184,Edifício Costa Norte,Serra,2025-11-30,Equipe B,9,Pintura,Normal,81.6,48.1,36.3,85,2837.65,4,2.2,90.9,2025,11,2025-11
+1185,Residencial Jardim das Acácias,Serra,2025-05-26,Equipe A,8,Pintura,Normal,59.6,27.6,45.7,85,4571.49,4,4.6,87.0,2025,5,2025-05
+1186,Edifício Horizonte,Serra,2025-07-27,Equipe A,7,Pintura,Normal,63.2,56.9,58.5,85,4898.02,5,3.7,87.2,2025,7,2025-07
+1187,Edifício Atlântico,Linhares,2025-04-28,Equipe D,10,Instalações Elétricas,Normal,74.9,56.4,51.0,155,8409.71,0,3.3,88.2,2025,4,2025-04
+1188,Edifício Horizonte,Cariacica,2026-05-11,Equipe D,8,Cobertura,Normal,62.1,48.6,65.6,210,14042.78,0,2.0,95.1,2026,5,2026-05
+1189,Residencial Parque Azul,Vitória,2025-09-10,Equipe E,5,Instalações Hidráulicas,Chuva,38.7,59.9,41.7,145,5808.07,0,0.0,100.0,2025,9,2025-09
+1190,Edifício Costa Norte,Serra,2025-03-27,Equipe D,10,Acabamento,Chuva,91.5,38.4,60.0,110,6515.48,4,2.1,93.0,2025,3,2025-03
+1191,Residencial Vitória Park,Vila Velha,2025-09-09,Equipe C,7,Alvenaria,Normal,54.5,78.4,67.6,180,12861.56,5,1.5,93.3,2025,9,2025-09
+1192,Residencial Monte Belo,Linhares,2026-04-21,Equipe A,7,Pavimentação,Chuva intensa,46.5,61.6,52.7,130,6898.9,8,4.1,81.2,2026,4,2026-04
+1193,Edifício Atlântico,Serra,2026-05-09,Equipe A,7,Alvenaria,Normal,42.1,68.9,49.0,180,9043.02,3,2.5,89.0,2026,5,2026-05
+1194,Condomínio Morada do Sol,Colatina,2026-06-07,Equipe C,7,Pintura,Normal,52.1,45.2,50.4,85,5035.74,4,1.9,92.1,2026,6,2026-06
+1195,Edifício Costa Norte,Colatina,2025-11-04,Equipe E,5,Cobertura,Normal,36.0,51.8,49.5,210,10608.72,0,0.5,100.0,2025,11,2025-11
+1196,Condomínio Vila Verde,Vila Velha,2025-08-04,Equipe C,8,Cobertura,Normal,66.5,63.9,55.5,210,13171.48,2,0.5,96.6,2025,8,2025-08
+1197,Edifício Horizonte,Colatina,2025-10-07,Equipe C,8,Revestimento,Normal,65.7,26.9,53.0,120,6255.27,0,0.9,98.7,2025,10,2025-10
+1198,Edifício Horizonte,Serra,2025-01-17,Equipe D,9,Instalações Elétricas,Chuva,73.6,56.0,52.5,155,8197.8,8,1.1,93.6,2025,1,2025-01
+1199,Edifício Costa Norte,Colatina,2025-01-05,Equipe E,7,Fundação,Chuva,67.4,101.3,106.3,320,30605.14,6,0.9,100.0,2025,1,2025-01
+1200,Edifício Costa Norte,Cariacica,2025-03-25,Equipe D,10,Cobertura,Chuva,77.6,49.3,54.8,210,12359.85,5,1.8,94.2,2025,3,2025-03
