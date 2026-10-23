@@ -136,7 +136,7 @@ Apresenta os principais indicadores gerais:
 - evolução da produtividade;
 - custo total por obra.
 
-![Visão Executiva](images/visao_executiva.png)
+![Visão Executiva](imagens/visao_executiva.png)
 
 ---
 
@@ -152,7 +152,7 @@ Principais análises:
 - quantidade planejada versus executada;
 - análise de produtividade por equipe e serviço.
 
-![Análise Operacional](images/analise_operacional.png)
+![Análise Operacional](imagens/analise_operacional.png)
 
 ---
 
@@ -171,7 +171,7 @@ Principais análises:
 - retrabalho por serviço;
 - qualidade por equipe e serviço.
 
-![Qualidade e Atrasos](images/qualidade_atrasos.png)
+![Qualidade e Atrasos](imagens/qualidade_atrasos.png)
 
 ---
 
@@ -284,7 +284,6 @@ Abra `powerbi/Projeto 01.pbix` no Power BI Desktop.
 
 ## 📁 Estrutura do projeto
 
-```text
 
 ```text
 projeto_01_analise_obras/
